@@ -1,0 +1,289 @@
+,R,RVL,binders,clustersize,concentration,end,gene,hydro,identity,locus_tag,mbname,method,order,peplength,peptide,product,rank,source,start
+237,,,,,22,129.0,,0.35,,Rv0056,Mb0057,topsharedbinders,,20,PNLDKRIVRLPKTHIKAVGT,,211.0,,109.0
+224,,,,,17,125.0,,0.35,,Rv3246c,Mb3274c,topsharedbinders,,20,PFKPKELVARVRARLRRNDD,,164.0,,105.0
+13,8.943999999999997,0.25,2.0,16.0,10,30.0,ahpD,0.35,100.0,Rv2429,Mb2455,cl_tepitopepan,2491.0,20,EYAKDIKLNLSSITRSSVLD,Alkyl hydroperoxide reductase D protein AhpD (alkyl hydroperoxidase D),,['zvi2008'],14.0
+165,2.8280000000000003,0.35,2.0,12.0,1,83.0,vapC17,0.35,100.0,Rv2527,Mb2556,cl_netmhciipan,2591.0,20,DIFDRVRHLQRDLAHHRGMW,Possible toxin VapC17,,,71.0
+71,3.464,0.3,3.0,18.0,2,273.0,,0.4,100.0,Rv1882c,Mb1914c,cl_tepitopepan,1922.0,20,KGVSPEFVRRHIAKSLATLE,Probable short-chain type dehydrogenase/reductase,,,255.0
+234,,,,,51,268.0,,0.3684210526315789,,Rv1544,Mb1571,topsharedbinders,,19,SLLLPAIRIGNRLRGGPSR,,209.0,,248.0
+3,12.0,0.15,2.0,18.0,24,31.0,inhA,0.5,100.0,Rv1484,Mb1520,cl_tepitopepan,1519.0,20,VSGIITDSSIAFHIARVAQE,NADH-dependent enoyl-[acyl-carrier-protein] reductase InhA (NADH-dependent enoyl-ACP reductase),,,13.0
+221,,,,,39,86.0,,0.5,,Rv0655,Mb0674,topsharedbinders,,20,SVFLKSLIGLLRPERGSIII,,163.0,,66.0
+153,3.162,0.3,2.0,10.0,1,319.0,murX,0.3,100.0,Rv2156c,Mb2180c,cl_netmhciipan,2203.0,20,RTTGRRMFRMAPFHHHFELV,Probable phospho-N-acetylmuramoyl-pentappeptidetransferase MurX,,,309.0
+276,,,,,11,175.0,,0.45,,Rv0146,Mb0151,topsharedbinders,,20,REVPADLRQDWPAALRDAGF,,271.0,,155.0
+77,3.464,0.25,2.0,13.0,3,116.0,espD,0.55,100.0,Rv3614c,Mb3644c,cl_tepitopepan,3702.0,20,QLASEILVIADLARQKAQSA,ESX-1 secretion-associated protein EspD,,['sidders'],103.0
+56,4.472,0.3,4.0,20.0,1,48.0,,0.5,100.0,Rv3651,Mb3675,cl_tepitopepan,3739.0,20,PITTFLRRSPYLAAVRTAIA,Conserved hypothetical protein,,,28.0
+109,7.0710000000000015,0.35,2.0,18.0,5,346.0,lipN,0.45,100.0,Rv2970c,Mb2994c,cl_netmhciipan,3044.0,20,KALRAAGTAVDLRYLGSLTH,Probable lipase/esterase LipN,,,328.0
+93,2.8280000000000003,0.35,2.0,17.0,2,128.0,,0.35,100.0,Rv2915c,Mb2939c,cl_tepitopepan,2987.0,20,EDLPRIIRAGRHLARPKRYI,Conserved protein,,['li2010'],111.0
+116,6.481,0.15,2.0,18.0,7,243.0,,0.5,100.0,Rv3520c,Mb3550c,cl_netmhciipan,3607.0,20,EDFEICATAQVVITDDRAAA,Possible coenzyme F420-dependent oxidoreductase,,,225.0
+55,4.472,0.35,2.0,20.0,1,235.0,,0.45,100.0,Rv2410c,Mb2433c,cl_tepitopepan,2472.0,20,FMMLDRLFPRSVFHSLKLAE,Conserved protein,,,215.0
+282,,,,,9,51.0,,0.3,,Rv2302,Mb2324,topsharedbinders,,20,DGSPPYVVRWLVNGHETTVY,,278.0,,31.0
+179,2.449,0.25,2.0,15.0,1,77.0,tmk,0.55,100.0,Rv3247c,Mb3275c,cl_netmhciipan,3332.0,20,ASSVYAMATLFALDRAGAVH,Thymidylate kinase Tmk (dTMP kinase) (thymidylic acid kinase) (TMPK),,,62.0
+84,2.8280000000000003,0.35,2.0,18.0,2,180.0,,0.5,100.0,Rv2003c,Mb2026c,cl_tepitopepan,2049.0,20,TLCFVTDPAAIFRETRRLLA,Conserved hypothetical protein,,,162.0
+22,6.928,0.35,2.0,19.0,6,158.0,,0.5,100.0,Rv2454c,Mb2481c,cl_tepitopepan,2517.0,20,GGNHLIHALRRNINVTILLF,Probable oxidoreductase (beta subunit),,,139.0
+243,,,,,45,98.0,,0.2777777777777778,,Rv0053,Mb0054,topsharedbinders,,18,LSLNESVLRTKVMRTDKH,,229.0,,78.0
+267,,,,,13,22.0,,0.3,,Rv0702,Mb0722,topsharedbinders,,20,AQEQKTLKIDVKTPAGKVDG,,264.0,['li2010'],2.0
+249,,,,,41,30.0,,0.35,,Rv1436,Mb1471,topsharedbinders,,20,GRIGRNFYRALLAQQEQGTA,,244.0,"['li2010', 'zvi2008']",10.0
+79,3.464,0.25,2.0,12.0,2,18.0,add,0.45,100.0,Rv3313c,Mb3342c,cl_tepitopepan,3399.0,20,TAAPTLQTIRLAPKALLHDH,Probable adenosine deaminase Add (adenosine aminohydrolase),,,6.0
+235,,,,,51,94.0,,0.45,,Rv1544,Mb1571,topsharedbinders,,20,AQLADRLRSDAIAGLCNSAG,,209.0,,74.0
+279,,,,,8,135.0,,0.55,,Rv0500,Mb0511,topsharedbinders,,20,LPAGTPVVRAMPNAAALVGA,,274.0,,115.0
+151,3.464,0.25,2.0,15.0,3,60.0,leuD,0.45,100.0,Rv2987c,Mb3011c,cl_netmhciipan,3062.0,20,FAGWRSDPAFVLNLSPFDRG,Probable 3-isopropylmalate dehydratase (small subunit) LeuD (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI),,,45.0
+219,,,,,39,218.0,,0.5,,Rv0655,Mb0674,topsharedbinders,,20,TAYLSQLIMDINAQIDATIL,,163.0,,198.0
+89,2.8280000000000003,0.3,2.0,17.0,1,38.0,argR,0.4,100.0,Rv1657,Mb1685,cl_tepitopepan,1697.0,20,GRQARIVAILSSAQVRSQNE,Probable arginine repressor ArgR (AHRC),,,21.0
+25,6.928,0.2,2.0,14.0,6,199.0,lpqD,0.35,100.0,Rv3390,Mb3422,cl_tepitopepan,3476.0,20,SQGVAIMIWTLMNARNSRDS,Probable conserved lipoprotein LpqD,,,185.0
+187,2.0,0.15,2.0,17.0,1,204.0,,0.3,100.0,Rv2165c,Mb2189c,cl_netmhciipan,2213.0,20,FAYATDAPLDMRMDPTTPLT,Conserved protein,,,187.0
+246,,,,,38,148.0,,0.4,,Rv0164,Mb0169,topsharedbinders,,20,MPVPEPMVKMLLNNVLEHLA,,234.0,,128.0
+141,4.0,0.25,2.0,14.0,4,106.0,phoY1,0.35,100.0,Rv3301c,Mb3329c,cl_netmhciipan,3386.0,20,DTERMGALAVHIAKITRREY,Probable phosphate-transport system transcriptional regulatory protein PhoU homolog 1 PhoY1,,,92.0
+94,2.8280000000000003,0.35,2.0,16.0,2,304.0,mutT1,0.4,100.0,Rv2985,Mb3009,cl_tepitopepan,3060.0,20,NRKGSTWVLSLSAGRLVTAD,Possible hydrolase MutT1,,['li2010'],288.0
+176,2.449,0.35,2.0,14.0,1,143.0,,0.35,100.0,Rv2190c,Mb2213c,cl_netmhciipan,2238.0,20,ESPQLLIDRLSVQRVMAHQM,Conserved hypothetical protein,,,129.0
+245,,,,,38,79.0,,0.25,,Rv0164,Mb0169,topsharedbinders,,20,DGRPSQVRLDTAVQGIEGTY,,234.0,,59.0
+114,6.481,0.25,3.0,20.0,7,42.0,,0.4,100.0,Rv2952,Mb2976,cl_netmhciipan,3026.0,20,WRYWYPLMTRGLGNDEIVFI,Possible methyltransferase (methylase),,,22.0
+34,6.0,0.3,2.0,16.0,9,148.0,,0.2,99.7,Rv3200c,Mb3225c,cl_tepitopepan,3282.0,20,ETSRQAYKIQRWRSRVRNHT,Possible transmembrane cation transporter,,,132.0
+148,3.464,0.3,2.0,16.0,3,268.0,,0.4,100.0,Rv1245c,Mb1277c,cl_netmhciipan,1276.0,20,DLVVRLTGSGYQRIFPIITG,Probable short-chain type dehydrogenase/reductase,,['li2010'],252.0
+128,5.292000000000002,0.25,2.0,12.0,2,47.0,,0.55,100.0,Rv3040c,Mb3066c,cl_netmhciipan,3117.0,20,ASGLAVFLMRRHAAMDFAAG,Conserved protein,,,35.0
+275,,,,,6,37.0,,0.25,,Rv3143,Mb3167,topsharedbinders,,20,QTRERVMRALGKRLHPDLPD,,267.0,,17.0
+30,6.481,0.3,2.0,16.0,3,293.0,,0.45,100.0,Rv3680,Mb3705,cl_tepitopepan,3769.0,20,MPLAGLVFNRTHPMLCALPI,Probable anion transporter ATPase,,['li2010'],277.0
+158,3.0,0.35,3.0,20.0,1,321.0,,0.5,100.0,Rv3071,Mb3098,cl_netmhciipan,3148.0,20,FQLVRRVPVTTIIVDTPQAI,Conserved hypothetical protein,,['li2010'],301.0
+52,4.899,0.25,2.0,16.0,6,75.0,,0.35,100.0,Rv2454c,Mb2481c,cl_tepitopepan,2517.0,20,PGCGDYVILNTIRNFLPELG,Probable oxidoreductase (beta subunit),,,59.0
+135,4.243,0.2,3.0,15.0,2,138.0,,0.3,99.4,Rv2256c,Mb2280c,cl_netmhciipan,2308.0,20,GDIMVGEMRLRAMMAQGADT,Conserved hypothetical protein,,,123.0
+69,3.873,0.3,3.0,18.0,1,184.0,tcrX,0.35,100.0,Rv3765c,Mb3791c,cl_tepitopepan,3857.0,20,EFELLRFMMHNSKRVLSKAQ,Probable two component transcriptional regulatory protein TcrX,,,166.0
+53,4.899,0.3,4.0,19.0,2,200.0,,0.45,,Rv1516c,,cl_tepitopepan,1555.0,20,DVMPLDWYLHVRHAVHGDIA,Probable sugar transferase,,,181.0
+80,3.464,0.35,2.0,12.0,1,73.0,,0.4,100.0,Rv1828,Mb1859,cl_tepitopepan,1868.0,20,YDCARLRFILTAQRDHYLPL,Conserved protein,,,61.0
+131,4.899,0.3,2.0,15.0,2,311.0,add,0.2,100.0,Rv3313c,Mb3342c,cl_netmhciipan,3399.0,20,RVTVNTDNRLMSDTSMSLEM,Probable adenosine deaminase Add (adenosine aminohydrolase),,,296.0
+222,,,,,39,271.0,,0.35,,Rv0655,Mb0674,topsharedbinders,,20,LTSDEPVVRQFLNGRRIGPI,,163.0,,251.0
+273,,,,,8,222.0,,0.4705882352941176,,Rv3000,Mb3025,topsharedbinders,,17,FDRAHRLVSLPAATRRA,,267.0,['santos2013'],202.0
+244,,,,,45,73.0,,0.5,,Rv0053,Mb0054,topsharedbinders,,20,KHAEGIYVVIDVKAAPATVS,,229.0,,53.0
+100,11.832,0.2,2.0,15.0,35,68.0,TB16.3,0.4,100.0,Rv2185c,Mb2207c,cl_netmhciipan,2233.0,20,RARMLMDAAIFKDTLIMSYE,Conserved protein TB16.3,,,53.0
+149,3.464,0.25,2.0,18.0,1,146.0,,0.4,100.0,Rv1500,Mb1538,cl_netmhciipan,1537.0,20,GWLRNFGPKIHYRASALLCD,Probable glycosyltransferase,,,128.0
+154,3.162,0.3,2.0,10.0,1,72.0,,0.35,100.0,Rv2286c,Mb2307c,cl_netmhciipan,2339.0,20,WSYGWSLMRIGALLRRTNMS,Conserved hypothetical protein,,,62.0
+90,2.8280000000000003,0.25,2.0,18.0,1,51.0,pks11,0.35,100.0,Rv1665,Mb1693,cl_tepitopepan,1705.0,20,KEHEEIIRRLHAAAKVNGRH,Chalcone synthase Pks11,,,33.0
+181,2.449,0.35,2.0,10.0,1,152.0,ephE,0.55,100.0,Rv3670,Mb3694,cl_netmhciipan,3758.0,20,ALLHSRLVRAIALISSPHPA,Possible epoxide hydrolase EphE (epoxide hydratase) (arene-oxide hydratase),,,142.0
+209,,,,,60,89.0,,0.4,,Rv3457c,Mb3486c,topsharedbinders,,20,KEDVTEIILNLKSLVVSSEE,,144.0,,69.0
+201,,,,,21,224.0,,0.35,,Rv3676,Mb3700,topsharedbinders,,20,RLEGKSVLISDSERLARRAR,,112.0,,204.0
+208,,,,,60,67.0,,0.45,,Rv3457c,Mb3486c,topsharedbinders,,20,GAAVTSIRIDGVLHEFTTVP,,144.0,,47.0
+202,,,,,10,145.0,,0.4,,Rv0757,Mb0780,topsharedbinders,,20,EEVVARLRVILRRAGKGNKE,,129.0,,125.0
+111,6.928,0.333,3.0,21.0,4,350.0,,0.381,99.7,Rv3168,Mb3193,cl_netmhciipan,3246.0,21,YVYSGVMWACVFMRTGARRVH,Putative aminoglycoside phosphotransferase,,,329.0
+215,,,,,10,38.0,,0.35,,Rv1626,Mb1652,topsharedbinders,,20,AEDEALIRMDLAEMLREEGY,,160.0,,18.0
+218,,,,,39,191.0,,0.5,,Rv0655,Mb0674,topsharedbinders,,20,AGLARALVLDPQIILCDEPD,,163.0,,171.0
+186,2.0,0.3,2.0,10.0,1,257.0,,0.35,100.0,Rv1879,Mb1911,cl_netmhciipan,1919.0,20,LHKANPLYLLDFLRQSGNTP,Conserved hypothetical protein,,,247.0
+62,4.0,0.25,2.0,12.0,4,82.0,argB,0.3,100.0,Rv1654,Mb1682,cl_tepitopepan,1694.0,20,VHGGGPQITAMLRRLGIEGD,Probable acetylglutamate kinase ArgB,,,70.0
+26,6.707999999999998,0.2,3.0,20.0,5,56.0,ftsZ,0.55,100.0,Rv2150c,Mb2174c,cl_tepitopepan,2197.0,20,FIAINTDAQALLMSDADVKL,Cell division protein FtsZ,,,36.0
+4,10.583,0.25,2.0,16.0,7,314.0,nadA,0.35,100.0,Rv1594,Mb1620,cl_tepitopepan,1633.0,20,DRASCKYMKMITPAALLRCL,Probable quinolinate synthetase NadA,,['zvi2008'],298.0
+205,,,,,10,230.0,,0.3,,Rv0757,Mb0780,topsharedbinders,,20,VNVVESYVSYLRRKIDTGEK,,129.0,,210.0
+87,2.8280000000000003,0.25,2.0,14.0,2,197.0,cmaA1,0.5,99.7,Rv3392c,Mb3424c,cl_tepitopepan,3478.0,20,RGLPMSFTFARFLKFIVTEI,Cyclopropane-fatty-acyl-phospholipid synthase 1 CmaA1 (cyclopropane fatty acid synthase) (CFA synthase) (cyclopropane mycolic acid synthase 1),,,183.0
+204,,,,,10,93.0,,0.35,,Rv0757,Mb0780,topsharedbinders,,20,MPGMDGFGVLRRLRADGIDA,,129.0,,73.0
+180,2.449,0.35,2.0,12.0,1,69.0,sdhB,0.4,99.6,Rv3319,Mb3348,cl_netmhciipan,3405.0,20,LPSDRLLNLLIYIKGYLDGT,Probable succinate dehydrogenase (iron-sulphur protein subunit) SdhB (succinic dehydrogenase) (fumarate reductase) (fumarate dehydrogenase) (fumaric hydrogenase),,,57.0
+23,6.928,0.25,2.0,17.0,6,117.0,,0.4,100.0,Rv1463,Mb1498,cl_tepitopepan,1497.0,20,VPGVSMSNFLRSAATAIRGE,Probable conserved ATP-binding protein ABC transporter,,,100.0
+164,2.8280000000000003,0.25,2.0,19.0,2,255.0,phoH1,0.35,100.0,Rv2368c,Mb2389c,cl_netmhciipan,2427.0,20,YMRGRTLNDAFIVLDEAQNT,Probable PHOH-like protein PhoH1 (phosphate starvation-inducible protein PSIH),,,236.0
+78,3.464,0.2,2.0,20.0,2,90.0,,0.45,100.0,Rv3575c,Mb3606c,cl_tepitopepan,3663.0,20,GLVMAEPLTYFFSDPAARDF,Transcriptional regulatory protein (probably LacI-family),,,70.0
+248,,,,,41,214.0,,0.4,,Rv1436,Mb1471,topsharedbinders,,20,DGPHKDLRRARAAALNIVPT,,244.0,"['li2010', 'zvi2008']",194.0
+42,5.477,0.35,6.0,20.0,1,113.0,truA,0.35,100.0,Rv3455c,Mb3484c,cl_tepitopepan,3542.0,20,ARFSALRRHYVYRLSTAPYG,Probable tRNA pseudouridine synthase a TruA (pseudouridylate synthase I) (pseudouridine synthase I) (uracil hydrolyase),,,93.0
+280,,,,,8,80.0,,0.6,,Rv0500,Mb0511,topsharedbinders,,20,AVENATFVVVAVKPADVEPV,,274.0,,60.0
+285,,,,,9,76.0,,0.35,,Rv0707,Mb0727,topsharedbinders,,20,ERTRDRVRVDIHTARPGIVI,,284.0,,56.0
+247,,,,,41,63.0,,0.45,,Rv1436,Mb1471,topsharedbinders,,20,STLAHLLKFDSILGRLPCDV,,244.0,"['li2010', 'zvi2008']",43.0
+139,4.0,0.3,2.0,17.0,2,136.0,,0.5,99.4,Rv2616,Mb2649,cl_netmhciipan,2684.0,20,FAVRCDPMTSVVFAEVLSFS,Conserved protein,,,119.0
+198,,,,,21,62.0,,0.35,,Rv3676,Mb3700,topsharedbinders,,20,PGDRLYIIISGKVKIGRRAP,,112.0,,42.0
+242,,,,,18,84.0,,0.15,,Rv0247c,Mb0253c,topsharedbinders,,20,INGKPRLMCMTRMSTFDEDE,,216.0,,64.0
+82,3.162,0.35,2.0,18.0,1,240.0,,0.45,99.7,Rv2426c,Mb2450c,cl_tepitopepan,2488.0,20,HFAEELVRIIGVLRGMQLKK,Conserved hypothetical protein,,,222.0
+103,9.95,0.3,3.0,12.0,11,145.0,,0.55,100.0,Rv2129c,Mb2153c,cl_netmhciipan,2175.0,20,IDRRGYVLIVSSLAAFAAPP,Probable oxidoreductase,,,133.0
+177,2.449,0.35,2.0,12.0,1,199.0,lipA,0.35,100.0,Rv2218,Mb2241,cl_netmhciipan,2266.0,20,TVPRIFKRIRPAFTYRRSLG,Probable lipoate biosynthesis protein A LipA,,['li2010'],187.0
+110,6.928,0.35,4.0,18.0,3,362.0,corA,0.5,99.5,Rv1239c,Mb1271c,cl_netmhciipan,1270.0,20,PTVIGGMVLICLFLYHVFRN,Possible magnesium and cobalt transport transmembrane protein CorA,,['li2010'],344.0
+1,18.974,0.35,2.0,12.0,90,103.0,leuB,0.4,99.7,Rv2995c,Mb3019c,cl_tepitopepan,3070.0,20,RFELDHHINLRPARLYPGVA,Probable 3-isopropylmalate dehydrogenase LeuB (beta-IPM dehydrogenase) (IMDH) (3-IPM-DH),,,91.0
+45,5.292000000000002,0.25,4.0,20.0,1,319.0,murX,0.3,100.0,Rv2156c,Mb2180c,cl_tepitopepan,2203.0,20,ILTFRTTGRRMFRMAPFHHH,Probable phospho-N-acetylmuramoyl-pentappeptidetransferase MurX,,,299.0
+5,10.583,0.25,2.0,15.0,7,375.0,,0.45,99.7,Rv3161c,Mb3186c,cl_tepitopepan,3239.0,20,KEWPGMLAFYRNLAMALVGD,Possible dioxygenase,,,360.0
+240,,,,,18,109.0,,0.35,,Rv0247c,Mb0253c,topsharedbinders,,20,PMRTFPVIRDLVTDVSFNYQ,,216.0,,89.0
+129,4.899,0.35,3.0,19.0,1,277.0,,0.55,,Rv1509,,cl_netmhciipan,1548.0,20,WMVAAIRSAVKLRVHHLAGY,Hypothetical protein,,,258.0
+0,20.298,0.3,2.0,16.0,103,144.0,clpP2,0.45,100.0,Rv2460c,Mb2487c,cl_tepitopepan,2523.0,20,ALPNARVLIHQPSLSGVIQG,Probable ATP-dependent CLP protease proteolytic subunit 2 ClpP2 (endopeptidase CLP 2),,,128.0
+132,4.583,0.25,3.0,19.0,1,198.0,,0.35,100.0,Rv1865c,Mb1896c,cl_netmhciipan,1905.0,20,EYRSAGVKFSMVLPSFVNTE,Probable short-chain type dehydrogenase,,,179.0
+17,8.0,0.3,2.0,17.0,8,188.0,mobA,0.4,100.0,Rv2453c,Mb2480c,cl_tepitopepan,2516.0,20,ASDALRIVMADSRPLTNVNS,Probable molybdopterin-guanine dinucleotide biosynthesis protein A MobA,,,171.0
+72,3.464,0.35,2.0,18.0,3,239.0,embR,0.35,100.0,Rv1267c,Mb1298c,cl_tepitopepan,1298.0,20,RQSDALGAYRRVKTTLADDL,Probable transcriptional regulatory protein EmbR,,,221.0
+254,,,,,6,44.0,,0.45,,Rv2216,Mb2239,topsharedbinders,,20,AADHTVLRIVRRAPANSEEL,,251.0,,24.0
+262,,,,,23,216.0,,0.25,,Rv1479,Mb1515,topsharedbinders,,20,QRDRFLFKINVGYPSPEEER,,258.0,,196.0
+166,2.8280000000000003,0.3,2.0,11.0,1,181.0,mrr,0.4,99.7,Rv2528c,Mb2557c,cl_netmhciipan,2592.0,20,TGFEDLVIRLLEAMGYGRAG,Probable restriction system protein Mrr,,,170.0
+88,2.8280000000000003,0.2,2.0,17.0,2,60.0,devB,0.4,100.0,Rv1445c,Mb1480c,cl_tepitopepan,1479.0,20,GGGNGIALLRYLSAQAQQIE,Probable 6-phosphogluconolactonase DevB (6PGL),,,43.0
+57,4.243,0.3,2.0,16.0,3,126.0,,0.45,100.0,Rv2954c,Mb2978c,cl_tepitopepan,3028.0,20,VYCYGVLYHLSRPAEALAWM,Hypothetical protein,,,110.0
+185,2.0,0.3,2.0,14.0,1,63.0,vapB13,0.35,100.0,Rv1839c,Mb1870c,cl_netmhciipan,1879.0,20,GDLDMKLRSVRAAARHEFPT,Possible antitoxin VapB13,,,49.0
+65,4.0,0.25,2.0,12.0,2,213.0,,0.35,100.0,Rv2751,Mb2772,cl_tepitopepan,2820.0,20,AAPGSRMVFTYVRRDFIDGT,Conserved protein,,,201.0
+33,6.0,0.3,3.0,20.0,3,31.0,,0.3,100.0,Rv2954c,Mb2978c,cl_tepitopepan,3028.0,20,ERHFHSIFYLRHNARRQEHL,Hypothetical protein,,,11.0
+175,2.449,0.3,2.0,19.0,1,86.0,,0.35,99.7,Rv2017,Mb2040,cl_netmhciipan,2063.0,20,RFRGALAVDAHMRRHKTTKA,Transcriptional regulatory protein,,,67.0
+76,3.464,0.3,2.0,18.0,1,89.0,,0.45,100.0,Rv3717,Mb3744,cl_tepitopepan,3808.0,20,EHTFTWETGLRLRAALNALG,Conserved hypothetical protein,,['jones2010'],71.0
+39,5.657,0.3,4.0,17.0,2,209.0,ligC,0.35,99.7,Rv3731,Mb3758,cl_tepitopepan,3823.0,20,QPDKRVMFKIKHLRTADCVV,Possible ATP-dependent DNA ligase LigC (polydeoxyribonucleotide synthase [ATP]) (polynucleotide ligase [ATP]) (sealase) (DNA repair protein) (DNA joinase),,,192.0
+113,6.632999999999999,0.25,2.0,14.0,11,278.0,,0.4,100.0,Rv1543,Mb1570,cl_netmhciipan,1582.0,20,QAAGVITDAIVHRPRRASSP,Possible fatty acyl-CoA reductase,,,264.0
+256,,,,,6,222.0,,0.5,,Rv2216,Mb2239,topsharedbinders,,20,EVRALQFAIAQPNLSGPVNL,,251.0,,202.0
+44,5.477,0.35,3.0,20.0,2,185.0,,0.55,100.0,Rv3218,Mb3244,cl_tepitopepan,3300.0,20,GGKVTAWRYIRAAVRAVLAC,Conserved protein,,,165.0
+193,,,,,17,63.0,,0.15,,Rv0700,Mb0720,topsharedbinders,,20,TEKNVYCVIRSPHKYKDSRE,,59.0,['li2010'],43.0
+64,4.0,0.333,2.0,12.0,2,393.0,fadE19,0.389,100.0,Rv2500c,Mb2528c,cl_tepitopepan,2564.0,18,EGTTEVQLMLIARSLGLQ,Possible acyl-CoA dehydrogenase FadE19 (MMGC),,['li2010'],381.0
+168,2.8280000000000003,0.25,2.0,11.0,2,171.0,canB,0.45,99.5,Rv3588c,Mb3619c,cl_netmhciipan,3676.0,20,HVHETVAILMARSSAISERI,Beta-carbonic anhydrase CanB,,,160.0
+286,,,,,9,51.0,,0.45,,Rv0707,Mb0727,topsharedbinders,,20,VKEDVAIRRLLSSGLERAGI,,284.0,,31.0
+96,12.806,0.3,2.0,16.0,41,80.0,gap,0.45,100.0,Rv1436,Mb1471,cl_netmhciipan,1470.0,20,DVGLEGDDTIVVGRAKIKAL,Probable glyceraldehyde 3-phosphate dehydrogenase Gap (GAPDH),,"['li2010', 'zvi2008']",64.0
+92,2.8280000000000003,0.3,2.0,16.0,2,253.0,,0.55,100.0,Rv2818c,Mb2842c,cl_tepitopepan,2888.0,20,RSATPAITIVLRAAVAKHLP,Hypothetical protein,,,237.0
+258,,,,,8,33.0,,0.4,,Rv0250c,Mb0256c,topsharedbinders,,20,VGGLRRCVTALKARFGDNPA,,255.0,,13.0
+225,,,,,15,87.0,,0.4,,Rv0464c,Mb0473c,topsharedbinders,,20,PGVDTELVILRVAHLRSCEY,,165.0,,67.0
+232,,,,,89,30.0,,0.85,,Rv1488,Mb1524,topsharedbinders,,20,LAVLVIFAIIVVAKSVALIP,,187.0,,10.0
+252,,,,,9,245.0,,0.5,,Rv0241c,Mb0247c,topsharedbinders,,20,ARFPDAVRYSVRFAKPVLLP,,250.0,,225.0
+146,3.464,0.3,4.0,20.0,1,104.0,tmk,0.4,100.0,Rv3247c,Mb3275c,cl_netmhciipan,3332.0,20,CRGYDVVILDRYVASNAAYS,Thymidylate kinase Tmk (dTMP kinase) (thymidylic acid kinase) (TMPK),,,84.0
+27,6.481,0.25,3.0,19.0,7,82.0,,0.4,99.6,Rv1978,Mb2000,cl_tepitopepan,2021.0,20,HEKYARIALKLVSDIPNPRI,Conserved protein,,,63.0
+266,,,,,13,208.0,,0.5,,Rv0702,Mb0722,topsharedbinders,,20,LNTYDVLRADDVVFSVEALN,,264.0,['li2010'],188.0
+12,9.0,0.3,3.0,17.0,3,157.0,,0.45,100.0,Rv2715,Mb2734,cl_tepitopepan,2783.0,20,VTKDVNIVFRLASLPMGSEA,Possible hydrolase,,,140.0
+50,4.899,0.3,2.0,19.0,3,128.0,cdh,0.5,100.0,Rv2289,Mb2311,cl_tepitopepan,2342.0,20,NYLYDAWAARFLVTARLNNS,Probable CDP-diacylglycerol pyrophosphatase Cdh (CDP-diacylglycerol diphosphatase) (CDP-diacylglycerol phosphatidylhydrolase),,,109.0
+189,2.0,0.15,2.0,13.0,1,122.0,lipP,0.35,100.0,Rv2463,Mb2490,cl_netmhciipan,2526.0,20,GKQAITLAMVMSHRSGAIGP,Probable esterase/lipase LipP,,,109.0
+197,,,,,26,31.0,,0.5,,Rv0580c,Mb0595c,topsharedbinders,,20,HPPAALLRLVNPILRSLLHT,,107.0,,11.0
+172,2.449,0.238,3.0,21.0,1,294.0,fadA5,0.429,100.0,Rv3546,Mb3576,cl_netmhciipan,3633.0,21,IVAQALVGAEPYYHLDGPVQS,Probable acetyl-CoA acetyltransferase FadA5 (acetoacetyl-CoA thiolase),,['zvi2008'],273.0
+184,2.0,0.35,2.0,10.0,1,195.0,,0.5,100.0,Rv1289,Mb1320,cl_netmhciipan,1320.0,20,QDHFREIVNVDRASLVALDF,Unknown protein,,,185.0
+211,,,,,14,131.0,,0.25,,Rv3443c,Mb3473c,topsharedbinders,,20,NRLSRQIQRKLRVYAGPEHP,,145.0,,111.0
+250,,,,,11,132.0,,0.45,,Rv0854,Mb0877,topsharedbinders,,20,QVPLPGFVLKRAIKGTIDTA,,248.0,,112.0
+159,3.0,0.28600000000000003,3.0,21.0,1,98.0,folE,0.429,100.0,Rv3609c,Mb3639c,cl_netmhciipan,3697.0,21,LVLVKEIPMYSTCEHHLVAFH,GTP cyclohydrolase I FolE (GTP-ch-I),,,77.0
+238,,,,,22,148.0,,0.3684210526315789,,Rv1875,Mb1906,topsharedbinders,,19,AQEQRAVVLITPTRIYSNG,,213.0,['gideon2012'],128.0
+145,3.873,0.19,3.0,21.0,1,99.0,,0.524,100.0,Rv3277,Mb3305,cl_netmhciipan,3362.0,21,IVGGTTFIIDTAIFYTLKLTV,Probable conserved transmembrane protein,,,78.0
+106,8.485,0.2,3.0,15.0,6,131.0,,0.4,,Rv3888c,,cl_netmhciipan,3982.0,20,FRECRPENVIAIDAVPSFGT,Probable conserved membrane protein,,,116.0
+67,4.0,0.25,2.0,17.0,2,40.0,,0.3,99.7,Rv1367c,Mb1402c,cl_tepitopepan,1401.0,20,GVPMQRDTLFRIASMTKPVT,Conserved protein,,,23.0
+281,,,,,10,90.0,,0.35,,Rv0718,Mb0739,topsharedbinders,,20,ERSIAGLRRVSKPGLRVYAK,,277.0,,70.0
+227,,,,,8,27.0,,0.2,,Rv0720,Mb0741,topsharedbinders,,20,TRRISRLRRHTRLRKKLSGT,,168.0,,7.0
+253,,,,,9,186.0,,0.5,,Rv0241c,Mb0247c,topsharedbinders,,20,LPPPAAVLRITPAKIRRYAA,,250.0,,166.0
+117,6.481,0.35,2.0,19.0,7,155.0,moxR2,0.45,100.0,Rv3692,Mb3717,cl_netmhciipan,3781.0,20,VFRPGPVFTNLLLADEINRT,Probable methanol dehydrogenase transcriptional regulatory protein MoxR2,,,136.0
+121,6.0,0.35,2.0,16.0,3,86.0,glbO,0.35,100.0,Rv2470,Mb2497,cl_netmhciipan,2534.0,20,HPRLRMRHAPFRISLIERDA,Globin (oxygen-binding protein) GlbO,,,70.0
+40,5.477,0.2,2.0,12.0,5,127.0,,0.45,100.0,Rv2054,Mb2080,cl_tepitopepan,2100.0,20,FCMGGQFALVLSPRGFGATA,Conserved protein,,,115.0
+68,3.873,0.35,3.0,20.0,1,46.0,drrB,0.4,100.0,Rv2937,Mb2962,cl_tepitopepan,3010.0,20,STGRQMWVLYRRFAAPSLLN,Daunorubicin-dim-transport integral membrane protein ABC transporter DrrB,,,26.0
+272,,,,,8,88.0,,0.55,,Rv3000,Mb3025,topsharedbinders,,20,LTDLDVLVLRRRVGLVAQAP,,267.0,['santos2013'],68.0
+70,3.464,0.35,2.0,17.0,2,172.0,rmlB,0.45,100.0,Rv3464,Mb3493,cl_tepitopepan,3551.0,20,ADMLVRAWVRSYGVRATISN,"dTDP-glucose 4,6-dehydratase RmlB",,,155.0
+101,10.954,0.2,3.0,18.0,8,57.0,,0.3,100.0,Rv1855c,Mb1886c,cl_netmhciipan,1895.0,20,DSLFVMDHFYQLPMLGTPDQ,Possible oxidoreductase,,,39.0
+268,,,,,7,304.0,,0.625,,Rv2579,Mb2610,topsharedbinders,,16,AAIAQFVRRLRSAAGV,,265.0,,284.0
+190,2.0,0.3,2.0,19.0,1,113.0,dut,0.5,100.0,Rv2697c,Mb2716c,cl_netmhciipan,2765.0,20,LINLDPAAPIVVHRGDRIAQ,Probable deoxyuridine 5'-triphosphate nucleotidohydrolase Dut (dUTPase) (dUTP pyrophosphatase) (deoxyuridine 5'-triphosphatase) (dUTP diphosphatase) (deoxyuridine-triphosphatase),,,94.0
+35,5.657,0.25,2.0,16.0,4,373.0,,0.4,99.7,Rv3272,Mb3300,cl_tepitopepan,3357.0,20,RGADTITVIRTPARYASFRA,Conserved hypothetical protein,,,357.0
+192,,,,,17,101.0,,0.45,,Rv0700,Mb0720,topsharedbinders,,20,KTVDALMRIDLPASVDVNIQ,,59.0,['li2010'],81.0
+195,,,,,23,112.0,,0.5,,Rv2803,Mb2826,topsharedbinders,,20,GQSLSGFVLSAAVDHAHDLL,,64.0,,92.0
+10,9.165,0.35,2.0,18.0,7,264.0,thrB,0.5,100.0,Rv1296,Mb1328,cl_tepitopepan,1328.0,20,AAMTASAEYLRLLRRHNVAA,Probable homoserine kinase ThrB,,,246.0
+278,,,,,8,253.0,,0.45,,Rv0500,Mb0511,topsharedbinders,,20,NGELMGLRVDLTASRLRAAV,,274.0,,233.0
+241,,,,,18,98.0,,0.35,,Rv0247c,Mb0253c,topsharedbinders,,20,TFDEDEIVTVTPMRTFPVIR,,216.0,,78.0
+182,2.449,0.2,2.0,18.0,1,72.0,,0.45,100.0,Rv3732,Mb3759,cl_netmhciipan,3824.0,20,ALLHWDGTTETIVMQLAMNA,Conserved protein,,,54.0
+213,,,,,14,82.0,,0.2,,Rv3443c,Mb3473c,topsharedbinders,,20,AISGDKLQHKMVYRHSGYPG,,145.0,,62.0
+127,5.292000000000002,0.3,2.0,16.0,2,116.0,sugB,0.55,100.0,Rv1237,Mb1269,cl_netmhciipan,1268.0,20,GKRLLIGAALLITMFPSISL,Probable sugar-transport integral membrane protein ABC transporter SugB,,['li2010'],100.0
+140,4.0,0.3,2.0,18.0,2,148.0,,0.5,100.0,Rv3104c,Mb3131c,cl_netmhciipan,3182.0,20,QRLVQDLLAGFFIIVEKQYG,Possible conserved transmembrane protein,,,130.0
+257,,,,,46,32.0,,0.5,,Rv1240,Mb1272,topsharedbinders,,20,AAGQIGYSLLFRLASGSLLG,,254.0,,12.0
+171,2.449,0.25,3.0,15.0,1,21.0,apt,0.45,99.6,Rv2584c,Mb2615c,cl_netmhciipan,2650.0,20,GGTWAGDYVLNVIATGLSLK,Adenine phosphoribosyltransferase Apt (APRT) (AMP diphosphorylase) (AMP pyrophosphorylase) (transphosphoribosidase),,,6.0
+130,4.899,0.2,2.0,18.0,3,86.0,,0.4,100.0,Rv2959c,Mb2983c,cl_netmhciipan,3033.0,20,DMWNYQEILSELQPSLVIEF,Possible methyltransferase (methylase),,,68.0
+138,4.243,0.3,2.0,13.0,3,124.0,parB,0.3,100.0,Rv3917c,Mb3948c,cl_netmhciipan,4011.0,20,SQTGVRYQIVMGERRWRAAQ,Probable chromosome partitioning protein ParB,,,111.0
+60,4.0,0.3,2.0,16.0,2,188.0,opcA,0.5,99.7,Rv1446c,Mb1481c,cl_tepitopepan,1480.0,20,TDLAWSRITYWRALLTSAVD,Putative OXPP cycle protein OpcA,,,172.0
+14,8.718,0.15,2.0,18.0,19,172.0,,0.15,100.0,Rv1703c,Mb1729c,cl_tepitopepan,1743.0,20,PGAPKYRAYMRRQQGMSWNT,Probable catechol-O-methyltransferase,,,154.0
+178,2.449,0.35,2.0,14.0,1,134.0,aroB,0.5,100.0,Rv2538c,Mb2567c,cl_netmhciipan,2603.0,20,AATWLRGVSIVHLPTTLLGM,3-dehydroquinate synthase AroB,,,120.0
+212,,,,,14,66.0,,0.5,,Rv3443c,Mb3473c,topsharedbinders,,20,NVDGGDFVIVINADKVAISG,,145.0,,46.0
+32,6.325,0.35,2.0,13.0,5,154.0,folD,0.4,99.6,Rv3356c,Mb3391c,cl_tepitopepan,3442.0,20,LPCTPRGIVHLLRRYDISIA,Probable bifunctional protein FolD: methylenetetrahydrofolate dehydrogenase + methenyltetrahydrofolate cyclohydrolase,,,141.0
+97,12.329,0.25,2.0,12.0,19,59.0,,0.45,100.0,Rv1404,Mb1439,cl_netmhciipan,1438.0,20,ITIPQFRTLVILSNHGPINL,Probable transcriptional regulatory protein,,,47.0
+24,6.928,0.35,3.0,18.0,4,136.0,,0.4,100.0,Rv3921c,Mb3952c,cl_tepitopepan,4015.0,20,PVFLGLYHVLRSFNRTTGGF,Probable conserved transmembrane protein,,,118.0
+203,,,,,10,195.0,,0.45,,Rv0757,Mb0780,topsharedbinders,,20,PTEFTLLRYFVINAGTVLSK,,129.0,,175.0
+255,,,,,6,186.0,,0.35,,Rv2216,Mb2239,topsharedbinders,,20,SPAGGMLRRMRPLFSVGLGA,,251.0,,166.0
+29,6.481,0.35,2.0,16.0,7,53.0,,0.5,100.0,Rv2298,Mb2320,cl_tepitopepan,2351.0,20,TGAARDIVKRARALGVTLFD,Conserved protein,,,37.0
+157,3.0,0.35,3.0,17.0,1,108.0,,0.55,100.0,Rv2313c,Mb2340c,cl_netmhciipan,2371.0,20,GAVVAMYIADFVPRVRAGLE,Hypothetical protein,,,91.0
+163,2.8280000000000003,0.35,2.0,11.0,1,182.0,,0.35,100.0,Rv2252,Mb2276,cl_netmhciipan,2304.0,20,WPHGRMRYYIAMLAELSRLR,Diacylglycerol kinase,,,171.0
+49,4.899,0.3,2.0,12.0,6,101.0,,0.5,100.0,Rv3094c,Mb3121c,cl_tepitopepan,3171.0,20,AITSALLVAYLPARSREEMF,Conserved hypothetical protein,,,89.0
+283,,,,,19,93.0,,0.45,,Rv1017c,Mb1045c,topsharedbinders,,20,WLMEQLIMIDALKRGSAKRI,,282.0,['li2010'],73.0
+150,3.464,0.3,2.0,13.0,3,99.0,leuD,0.45,100.0,Rv2987c,Mb3011c,cl_netmhciipan,3062.0,20,ALMDYGFRVVISSRFGDIFR,Probable 3-isopropylmalate dehydratase (small subunit) LeuD (isopropylmalate isomerase) (alpha-IPM isomerase) (IPMI),,,86.0
+263,,,,,7,69.0,,0.45,,Rv3584,Mb3615,topsharedbinders,,20,LTINNVLLRDIRIQAVQTSD,,263.0,,49.0
+41,5.477,0.3,2.0,14.0,3,306.0,sugC,0.55,100.0,Rv1238,Mb1270,cl_tepitopepan,1269.0,20,DAALIDAYQRIRALTFQVKV,Probable sugar-transport ATP-binding protein ABC transporter SugC,,,292.0
+162,2.8280000000000003,0.35,2.0,12.0,1,133.0,,0.5,100.0,Rv2212,Mb2235,cl_netmhciipan,2260.0,20,GEDGAFGLLRVLGTAMARLA,Adenylyl cyclase (ATP pyrophosphate-lyase) (adenylate cyclase),,,121.0
+8,9.381,0.35,2.0,12.0,11,22.0,,0.45,100.0,Rv2949c,Mb2973c,cl_tepitopepan,3023.0,20,LSDQEIRKLNRDLRILIAAN,Chorismate pyruvate lyase,,,10.0
+83,3.162,0.25,2.0,16.0,1,151.0,nuoB,0.35,100.0,Rv3146,Mb3170,cl_tepitopepan,3224.0,20,PPRPEMLLHAILKLHEKIQQ,Probable NADH dehydrogenase I (chain B) NuoB (NADH-ubiquinone oxidoreductase chain B),,,135.0
+230,,,,,49,285.0,,0.4,,Rv1886c,Mb1918c,topsharedbinders,,20,AEFLENFVRSSNLKFQDAYN,,186.0,"['li2010', 'lindestam2013', 'zvi2008', 'common', 'jones2010']",265.0
+161,2.8280000000000003,0.2,2.0,18.0,2,129.0,,0.4,100.0,Rv1762c,Mb1793c,cl_netmhciipan,1803.0,20,EHLEFMAVGTAVRYTAKPGA,Unknown protein,,,111.0
+74,3.464,0.35,2.0,19.0,3,39.0,rpsT,0.45,100.0,Rv2412,Mb2435,cl_tepitopepan,2474.0,20,RNKAVKSSLRTAVRAFREAA,30S ribosomal protein S20 RpsT,,,20.0
+144,3.873,0.3,3.0,19.0,1,105.0,ribF,0.5,100.0,Rv2786c,Mb2809c,cl_netmhciipan,2855.0,20,ELVQDLGIEVFLVMPFTTDF,Probable bifunctional FAD synthetase/riboflavin biosynthesis protein RibF: riboflavin kinase (flavokinase) + FMN adenylyltransferase (FAD pyrophosphorylase) (FAD synthetase)(FAD diphosphorylase) (flavin adenine dinucleotide synthetase),,,86.0
+169,2.8280000000000003,0.3,2.0,19.0,1,197.0,,0.5,100.0,Rv3732,Mb3759,cl_netmhciipan,3824.0,20,PYVRDGWAFVAIRLTSTDLI,Conserved protein,,,178.0
+233,,,,,50,122.0,,0.4,,Rv2140c,Mb2164c,topsharedbinders,,20,PGGALTLVNDAGMRRYVGAA,,190.0,['zvi2008'],102.0
+99,12.0,0.35,3.0,20.0,24,107.0,espR,0.35,100.0,Rv3849,Mb3879,cl_netmhciipan,3943.0,20,LQWLCTMRDDGVRRIAQRAH,ESX-1 transcriptional regulatory protein EspR,,,87.0
+260,,,,,23,151.0,,0.55,,Rv1479,Mb1515,topsharedbinders,,20,PVVANFLLADEINRAPAKVQ,,258.0,,131.0
+15,8.66,0.35,3.0,18.0,5,196.0,,0.3,99.7,Rv3230c,Mb3259c,cl_tepitopepan,3315.0,20,GSGITPVMSMLRTLVRRNQI,Hypothetical oxidoreductase,,,178.0
+43,5.477,0.3,2.0,18.0,3,86.0,embR,0.4,100.0,Rv1267c,Mb1298c,cl_tepitopepan,1298.0,20,GARASIHSYVSNLRKLLGGA,Probable transcriptional regulatory protein EmbR,,,68.0
+124,5.477,0.15,2.0,17.0,5,159.0,mpt53,0.35,100.0,Rv2878c,Mb2903c,cl_netmhciipan,2950.0,20,VFYRADGTSTFVNNPTAAMS,Soluble secreted antigen Mpt53 precursor,,['jones2010'],142.0
+119,6.0,0.28600000000000003,3.0,21.0,6,33.0,,0.476,100.0,Rv2778c,Mb2800c,cl_netmhciipan,2847.0,21,VEIDANPDLVYGLITDLPTLA,Conserved protein,,,12.0
+125,5.477,0.35,2.0,12.0,5,304.0,prfB,0.45,100.0,Rv3105c,Mb3132c,cl_netmhciipan,3183.0,20,QLQNKIAAMRVLQAKLLERK,Probable peptide chain release factor 2 PrfB (RF-2),,,292.0
+220,,,,,39,251.0,,0.35,,Rv0655,Mb0674,topsharedbinders,,20,DNMGMLFRKHLVMFGPREVL,,163.0,,231.0
+104,9.95,0.25,3.0,15.0,11,26.0,,0.4,100.0,Rv3528c,Mb3558c,cl_netmhciipan,3615.0,20,GGYWLVRGKINLIDRAFTSC,Unknown protein,,,11.0
+58,4.243,0.35,3.0,13.0,2,128.0,entC,0.55,100.0,Rv3215,Mb3241,cl_tepitopepan,3298.0,20,AFDGPLHKVVLARAVQLTAD,Probable isochorismate synthase EntC (isochorismate hydroxymutase) (enterochelin biosynthesis),,,115.0
+207,,,,,22,42.0,,0.5,,Rv1641,Mb1668,topsharedbinders,,20,GEQVGIVRIEDALRVAADAD,,142.0,,22.0
+277,,,,,11,89.0,,0.45,,Rv0146,Mb0151,topsharedbinders,,20,DAETAAIVAYLRSYQAVRTN,,271.0,,69.0
+239,,,,,18,44.0,,0.4,,Rv0247c,Mb0253c,topsharedbinders,,20,EVNEGEVVLDVILRLQQTQT,,216.0,,24.0
+142,4.0,0.3,2.0,12.0,2,157.0,add,0.35,100.0,Rv3313c,Mb3342c,cl_netmhciipan,3399.0,20,GQPITVRCLVTAMRHAAMSR,Probable adenosine deaminase Add (adenosine aminohydrolase),,,145.0
+216,,,,,10,187.0,,0.3,,Rv1626,Mb1652,topsharedbinders,,20,MTEPDAFKWIQRAAMDRRTT,,160.0,,167.0
+261,,,,,23,334.0,,0.5,,Rv1479,Mb1515,topsharedbinders,,20,EVIPDVLRHRLVLTYDALAD,,258.0,,314.0
+174,2.449,0.3,2.0,10.0,1,76.0,,0.55,99.6,Rv2001,Mb2024,cl_netmhciipan,2047.0,20,AEVHPHWIVLRTVIDVINPI,Conserved hypothetical protein,,,66.0
+11,9.165,0.15,2.0,17.0,7,84.0,trxB1,0.5,100.0,Rv1471,Mb1506,cl_tepitopepan,1505.0,20,AAQIRSIPTIMAFKNGKLLF,Probable thioredoxin TrxB1,,['gideon2012'],67.0
+75,3.464,0.2,2.0,17.0,1,43.0,,0.55,100.0,Rv2532c,Mb2561c,cl_tepitopepan,2597.0,20,CAAYGLTIVASAMSIYALGV,Hypothetical protein,,,26.0
+147,3.464,0.3,3.0,18.0,1,248.0,drrB,0.55,100.0,Rv2937,Mb2962,cl_netmhciipan,3010.0,20,HPFVRNQPISQFVAALRALA,Daunorubicin-dim-transport integral membrane protein ABC transporter DrrB,,,230.0
+66,4.0,0.25,2.0,19.0,2,31.0,,0.4,100.0,Rv3198A,Mb3223,cl_tepitopepan,3280.0,20,SWCGYCLRLKTALTANRIAY,Possible glutaredoxin protein,,['li2010'],12.0
+287,,,,,9,142.0,,0.4,,Rv0707,Mb0727,topsharedbinders,,20,LSNRVAFRRAMRKAIQSAMR,,284.0,,122.0
+156,3.0,0.35,3.0,18.0,1,201.0,,0.4,99.7,Rv1708,Mb1735,cl_netmhciipan,1749.0,20,YDYVLIDCQPSLGLLTVNGL,Putative initiation inhibitor protein,,,183.0
+6,10.0,0.3,2.0,12.0,25,97.0,garA,0.3,100.0,Rv1827,Mb1858,cl_tepitopepan,1867.0,20,RHPDSDIFLDDVTVSRRHAE,"Conserved protein with FHA domain, GarA",,,85.0
+152,3.464,0.1,2.0,14.0,2,135.0,hsaG,0.35,100.0,Rv3535c,Mb3565c,cl_netmhciipan,3622.0,20,DAPNVNMITCGGQATIPIVY,Probable acetaldehyde dehydrogenase (acetaldehyde dehydrogenase [acetylating]),,,121.0
+98,12.0,0.25,4.0,20.0,6,198.0,lpqD,0.5,100.0,Rv3390,Mb3422,cl_netmhciipan,3476.0,20,VVFSQGVAIMIWTLMNARNS,Probable conserved lipoprotein LpqD,,,178.0
+264,,,,,7,92.0,,0.45,,Rv3584,Mb3615,topsharedbinders,,20,PGKAVDLVLVAVNQSPDVSD,,263.0,,72.0
+236,,,,,51,49.0,,0.4,,Rv1544,Mb1571,topsharedbinders,,20,AGRGFPLMLVARRRERLDEL,,209.0,,29.0
+251,,,,,9,136.0,,0.35,,Rv0241c,Mb0247c,topsharedbinders,,20,REHRRGLLVDLVTNVSVGND,,250.0,,116.0
+183,2.449,0.35,2.0,11.0,1,88.0,,0.45,100.0,Rv3814c,Mb3844c,cl_netmhciipan,3908.0,20,QDVRAVNYVIKHAQLIPVDR,Possible acyltransferase,,,77.0
+118,6.325,0.2,2.0,15.0,10,86.0,ahpD,0.45,100.0,Rv2429,Mb2455,cl_netmhciipan,2491.0,20,HAALGAAAIMGMNNVFYRGR,Alkyl hydroperoxide reductase D protein AhpD (alkyl hydroperoxidase D),,['zvi2008'],71.0
+206,,,,,22,147.0,,0.35,,Rv1641,Mb1668,topsharedbinders,,20,SRPELGYRLLQRLGADVADY,,142.0,,127.0
+112,6.707999999999998,0.35,3.0,14.0,3,37.0,,0.45,100.0,Rv1598c,Mb1624c,cl_netmhciipan,1637.0,20,WLERLQVKYINRALKPIARY,Conserved protein,,,23.0
+16,8.485,0.3,3.0,13.0,12,136.0,frr,0.3,100.0,Rv2882c,Mb2906c,cl_tepitopepan,2954.0,20,KGEEAKVSVRNIRRKAMEEL,Ribosome recycling factor Frr (ribosome releasing factor) (RRF),,,123.0
+228,,,,,8,46.0,,0.4,,Rv0720,Mb0741,topsharedbinders,,20,TAERPRLVVHRSARHIHVQL,,168.0,,26.0
+284,,,,,19,292.0,,0.3,,Rv1017c,Mb1045c,topsharedbinders,,20,SCGAREVIVTNTLPIGEDKR,,282.0,['li2010'],272.0
+59,4.243,0.2,2.0,16.0,3,185.0,,0.45,100.0,Rv1260,Mb1290,cl_tepitopepan,1291.0,20,FGPEEQFVKRLGTHAAIFTV,Probable oxidoreductase,,,169.0
+19,7.746,0.333,3.0,21.0,5,146.0,lipV,0.429,,Rv3203,,cl_tepitopepan,3285.0,21,EHLVALPNGRYGWRISLPAMV,Possible lipase LipV,,,125.0
+271,,,,,8,186.0,,0.6,,Rv3000,Mb3025,topsharedbinders,,20,VDPLTAIRYQIVVMYLLLAA,,267.0,['santos2013'],166.0
+231,,,,,89,171.0,,0.4,,Rv1488,Mb1524,topsharedbinders,,20,ATGRWGLRVARVELRSIDPP,,187.0,,151.0
+137,4.243,0.35,2.0,12.0,3,248.0,,0.45,100.0,Rv1421,Mb1456,cl_netmhciipan,1455.0,20,GAAEFLESYHRLLSLVVDGY,Conserved protein,,,236.0
+126,5.477,0.3,2.0,12.0,3,146.0,nuoC,0.25,100.0,Rv3147,Mb3171,cl_netmhciipan,3225.0,20,ETGRELHAVYPLQSITHNRR,Probable NADH dehydrogenase I (chain C) NuoC (NADH-ubiquinone oxidoreductase chain C),,,134.0
+7,9.592,0.15,2.0,18.0,23,182.0,sodA,0.5,99.5,Rv3846,Mb3876,cl_tepitopepan,3940.0,20,EHAFYLQYKNVKVDFAKAFW,Superoxide dismutase [FE] SodA,,,164.0
+226,,,,,15,152.0,,0.35,,Rv0464c,Mb0473c,topsharedbinders,,20,LQATDELIKDRTITAGTWER,,165.0,,132.0
+73,3.464,0.25,2.0,16.0,2,37.0,argC,0.4,100.0,Rv1652,Mb1680,cl_tepitopepan,1692.0,20,GYAGGEILRLLLGHPAYADG,Probable N-acetyl-gamma-glutamyl-phoshate reductase ArgC,,,21.0
+160,2.8280000000000003,0.3,2.0,13.0,1,384.0,,0.5,100.0,Rv1697,Mb1723,cl_netmhciipan,1737.0,20,RTDGVVLHWIIDYWNRFSLW,Conserved hypothetical protein,,,371.0
+95,2.8280000000000003,0.35,2.0,19.0,1,79.0,,0.55,99.7,Rv3092c,Mb3119c,cl_tepitopepan,3169.0,20,ELPIIKRIAIGSVRNKLLLI,Probable conserved integral membrane protein,,,60.0
+134,4.243,0.25,3.0,20.0,3,189.0,,0.45,100.0,Rv2172c,Mb2194c,cl_netmhciipan,2220.0,20,YGMTQLLYSDAIVGFLREFA,Conserved protein,,,169.0
+105,9.165,0.35,4.0,14.0,3,249.0,dprE2,0.45,100.0,Rv3791,Mb3820,cl_netmhciipan,3885.0,20,AAFRYVMMVLRHIPRSIFRK,Decaprenylphosphoryl-D-2-keto erythro pentose reductase,,,235.0
+46,5.292000000000002,0.3,2.0,18.0,7,66.0,,0.3,100.0,Rv2061c,Mb2087c,cl_tepitopepan,2107.0,20,EKKSWKVKRIRNTPRVTLAT,Conserved protein,,,48.0
+122,5.657,0.3,2.0,16.0,4,199.0,tesB2,0.45,99.6,Rv2605c,Mb2637c,cl_netmhciipan,2672.0,20,DPVLHICALAYMSDLTLLGS,Probable acyl-CoA thioesterase II TesB2 (TEII),,,183.0
+167,2.8280000000000003,0.3,2.0,18.0,1,214.0,,0.35,99.4,Rv2714,Mb2733,cl_netmhciipan,2782.0,20,LEYRMAQHGHEVVGFTVHVP,Conserved alanine and leucine rich protein,,,196.0
+214,,,,,10,75.0,,0.3,,Rv1626,Mb1652,topsharedbinders,,20,LHKPDLVIMDVKMPRRDGID,,160.0,,55.0
+54,4.472,0.3,2.0,13.0,2,40.0,,0.4,100.0,Rv3241c,Mb3269c,cl_tepitopepan,3326.0,20,EIPDHFRIYVSQKLARLERF,Conserved protein,,,27.0
+38,5.657,0.3,2.0,15.0,4,98.0,cysM,0.45,100.0,Rv1336,Mb1371,cl_tepitopepan,1369.0,20,NTGISLAMAARLKGYRLICV,Cysteine synthase B CysM (CSASE B) (O-phosphoserine sulfhydrylase B) (O-phosphoserine (thiol)-lyase B),,,83.0
+210,,,,,14,119.0,,0.4,,Rv3443c,Mb3473c,topsharedbinders,,20,VVEKAILGMLPKNRLSRQIQ,,145.0,,99.0
+194,,,,,23,155.0,,0.35,,Rv2803,Mb2826,topsharedbinders,,20,DEAAPELVRLARRKSRIPPH,,64.0,,135.0
+107,7.0710000000000015,0.2,2.0,10.0,5,120.0,,0.45,100.0,Rv1676,Mb1703,cl_netmhciipan,1716.0,20,DSGITEVVFFHSAADALRGY,Unknown protein,,,110.0
+37,5.657,0.35,2.0,12.0,8,166.0,,0.4,100.0,Rv1833c,Mb1864c,cl_tepitopepan,1873.0,20,VMSSPPVQYAILRRNFFVER,Possible haloalkane dehalogenase,,['li2010'],154.0
+196,,,,,26,114.0,,0.45,,Rv0580c,Mb0595c,topsharedbinders,,20,TAMRGELIRDRAVVSELFLR,,107.0,,94.0
+91,2.8280000000000003,0.35,2.0,20.0,1,322.0,,0.4,100.0,Rv2184c,Mb2206c,cl_tepitopepan,2232.0,20,SGSGLASIYRLRLALPQLDP,Conserved hypothetical protein,,,302.0
+274,,,,,6,137.0,,0.5625,,Rv3143,Mb3167,topsharedbinders,,16,IVLGRTVLSLLRAPAH,,267.0,,117.0
+188,2.0,0.25,2.0,10.0,1,65.0,era,0.3,100.0,Rv2364c,Mb2385c,cl_netmhciipan,2423.0,20,HSDDFQIILVDTPGLHRPRT,Probable GTP-binding protein Era,,,55.0
+217,,,,,39,97.0,,0.3,,Rv0655,Mb0674,topsharedbinders,,20,RPERGSIIIDGTDIIECSAK,,163.0,,77.0
+120,6.0,0.15,3.0,20.0,3,203.0,,0.55,100.0,Rv3863,Mb3893,cl_netmhciipan,3957.0,20,LAADGIINAGALIAFEKGRS,Unknown alanine rich protein,,,183.0
+123,5.657,0.15,2.0,15.0,2,60.0,nuoJ,0.55,100.0,Rv3154,Mb3178,cl_netmhciipan,3232.0,20,YSAMFLAMTMIILAVFYMAQ,Probable NADH dehydrogenase I (chain J) NuoJ (NADH-ubiquinone oxidoreductase chain J),,,45.0
+36,5.657,0.3,2.0,12.0,4,162.0,,0.45,99.7,Rv3671c,Mb3695c,cl_tepitopepan,3759.0,20,NEAAPTWLKTVPKRLSALLN,Membrane-associated serine protease,,['jones2010'],150.0
+259,,,,,23,353.0,,0.45,,Rv1479,Mb1515,topsharedbinders,,20,DEISPEIVINRVLQTVALPQ,,258.0,,333.0
+199,,,,,21,217.0,,0.4,,Rv3676,Mb3700,topsharedbinders,,20,FAHRGWIRLEGKSVLISDSE,,112.0,,197.0
+2,12.728,0.15,2.0,16.0,27,73.0,,0.3,100.0,Rv2296,Mb2318,cl_tepitopepan,2349.0,20,EPTWSYLYRTMIPPLSAAGH,Probable haloalkane dehalogenase,,,57.0
+47,5.292000000000002,0.35,2.0,17.0,2,257.0,,0.45,100.0,Rv3218,Mb3244,cl_tepitopepan,3300.0,20,FATTSMKVVPTLRVVRQMFA,Conserved protein,,,240.0
+223,,,,,17,175.0,,0.5,,Rv3246c,Mb3274c,topsharedbinders,,20,PLEFDLLVALARKPRQVFTR,,164.0,,155.0
+28,6.481,0.25,2.0,12.0,7,42.0,asd,0.45,100.0,Rv3708c,Mb3735c,cl_tepitopepan,3799.0,20,DFPASAVRFFASARSQGRKL,Aspartate-semialdehyde dehydrogenase Asd (ASA dehydrogenase) (ASADH) (aspartic semialdehyde dehydrogenase) (L-aspartate-beta-semialdehyde dehydrogenase),,,30.0
+200,,,,,21,137.0,,0.35,,Rv3676,Mb3700,topsharedbinders,,20,EISEQLLRVLARRLRRTNNN,,112.0,,117.0
+21,7.348,0.25,3.0,19.0,2,49.0,,0.55,100.0,Rv3040c,Mb3066c,cl_tepitopepan,3117.0,20,SASGLAVFLMRRHAAMDFAA,Conserved protein,,,30.0
+173,2.449,0.35,3.0,20.0,1,225.0,parA,0.55,100.0,Rv3918c,Mb3949c,cl_netmhciipan,4012.0,20,YVFVDCPPSLGLLTINALVA,Probable chromosome partitioning protein ParA,,,205.0
+20,7.483,0.35,2.0,12.0,7,186.0,,0.4,99.6,Rv1978,Mb2000,cl_tepitopepan,2021.0,20,ATRVGKRFLIIDLKRQKPLS,Conserved protein,,,174.0
+31,6.325,0.35,2.0,18.0,4,46.0,,0.5,100.0,Rv1531,Mb1558,cl_tepitopepan,1570.0,20,MAELSIFQVLLNHPRLARTF,Conserved protein,,,28.0
+86,2.8280000000000003,0.3,2.0,13.0,2,289.0,adhC,0.5,100.0,Rv3045,Mb3071,cl_tepitopepan,3122.0,20,PMAVPAFALALMRRSLAGSN,Probable NADP-dependent alcohol dehydrogenase AdhC,,,276.0
+63,4.0,0.35,2.0,19.0,2,223.0,,0.5,100.0,Rv2417c,Mb2440c,cl_tepitopepan,2479.0,20,TAVMIDRVCQLVGDRPAALA,Conserved protein,,,204.0
+81,3.162,0.3,2.0,18.0,1,71.0,pgsA2,0.45,100.0,Rv1822,Mb1853,cl_tepitopepan,1862.0,20,DWADGKIARLLNQSSRLGAL,Probable CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase PgsA2 (PGP synthase) (phosphatidylglycerophosphate synthase) (3-phosphatidyl-1'-glycerol-3'phosphate synthase),,,53.0
+229,,,,,23,92.0,,0.55,,Rv1489,Mb1525,topsharedbinders,,20,TAMLTLYFILAVGAHVRVRD,,178.0,['santos2013'],72.0
+9,9.381,0.15,2.0,12.0,22,301.0,fadE25,0.5,100.0,Rv3274c,Mb3302c,cl_tepitopepan,3359.0,20,STFQAVQFMLADMAMKVEAA,Probable acyl-CoA dehydrogenase FadE25,,,289.0
+170,2.8280000000000003,0.3,2.0,14.0,1,206.0,,0.45,100.0,Rv3856c,Mb3886c,cl_netmhciipan,3950.0,20,DRLDIVVASVHSKLSMDSAA,Conserved hypothetical protein,,,192.0
+51,4.899,0.3,2.0,18.0,3,165.0,sugC,0.4,100.0,Rv1238,Mb1270,cl_tepitopepan,1269.0,20,GRAIVRHPKAFLMDEPLSNL,Probable sugar-transport ATP-binding protein ABC transporter SugC,,,147.0
+265,,,,,7,63.0,,0.45,,Rv3584,Mb3615,topsharedbinders,,20,AVNGNRLTINNVLLRDIRIQ,,263.0,,43.0
+102,10.583,0.15,2.0,17.0,8,152.0,,0.45,100.0,Rv1833c,Mb1864c,cl_netmhciipan,1873.0,20,TWFWPADTLAMKAFSRVMSS,Possible haloalkane dehalogenase,,['li2010'],135.0
+270,,,,,13,28.0,,0.4,,Rv1871c,Mb1902c,topsharedbinders,,20,REFVHRVQRFVVNPIGRQLP,,266.0,,8.0
+18,7.746,0.35,2.0,20.0,6,111.0,ilvE,0.5,99.7,Rv2210c,Mb2233c,cl_tepitopepan,2258.0,20,SFRADANAARLRSSARRLAI,Branched-chain amino acid transaminase IlvE,,,91.0
+143,4.0,0.35,2.0,10.0,4,68.0,,0.35,100.0,Rv3921c,Mb3952c,cl_netmhciipan,4015.0,20,ALLYKPFVRQIRTTRQMQEL,Probable conserved transmembrane protein,,,58.0
+61,4.0,0.35,2.0,16.0,1,242.0,,0.5,,Rv1509,,cl_tepitopepan,1548.0,20,AKDATLTLRFHRAMLVWMLE,Hypothetical protein,,,226.0
+269,,,,,7,57.0,,0.25,,Rv2579,Mb2610,topsharedbinders,,20,GNPTSSYLWRNIMPHLEGLG,,265.0,,37.0
+108,7.0710000000000015,0.3,2.0,17.0,5,146.0,,0.5,99.7,Rv2955c,Mb2979c,cl_netmhciipan,3029.0,20,DRCILDVGANVGIHSLAWAR,Conserved protein,,,129.0
+155,3.162,0.25,2.0,11.0,1,242.0,,0.4,100.0,Rv2516c,Mb2545c,cl_netmhciipan,2580.0,20,RPGEGLNMVLIAAWGHPLPN,Hypothetical protein,,['zvi2008'],231.0
+115,6.481,0.25,3.0,15.0,7,79.0,,0.5,100.0,Rv3463,Mb3492,cl_netmhciipan,3550.0,20,TTLCVATGIVNIWSAPAQRV,Conserved protein,,,64.0
+85,2.8280000000000003,0.3,2.0,13.0,1,171.0,,0.5,100.0,Rv1591,Mb1617,cl_tepitopepan,1630.0,20,TQAPPVFFARRPLQIALTLM,Probable transmembrane protein,,,158.0
+48,4.899,0.25,2.0,18.0,3,189.0,,0.5,100.0,Rv3603c,Mb3633c,cl_tepitopepan,3691.0,20,EPFCVREDARILYHAALAHA,Conserved hypothetical alanine and leucine rich protein,,,171.0
+191,2.0,0.15,2.0,11.0,1,97.0,lpqA,0.4,100.0,Rv3016,Mb3041,cl_netmhciipan,3092.0,20,PIPRECRFIYAETAVFGSEI,Probable lipoprotein LpqA,,,86.0
+136,4.243,0.35,2.0,10.0,3,126.0,corA,0.35,99.5,Rv1239c,Mb1271c,cl_netmhciipan,1270.0,20,RYDETLFLVLKTVNYVPHES,Possible magnesium and cobalt transport transmembrane protein CorA,,['li2010'],116.0
+133,4.472,0.3,2.0,18.0,5,53.0,orn,0.5,100.0,Rv2511,Mb2539,cl_netmhciipan,2575.0,20,LNILGDGVDVVMHADDAALS,Oligoribonuclease Orn,,,35.0
