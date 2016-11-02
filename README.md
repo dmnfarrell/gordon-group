@@ -6,4 +6,4 @@ School of Veterinary Medicine,
 University College Dublin,  
 Dublin 4.  
 
-<img src="http://www.ucd.ie/vthweb/images/update_july13/ucd%20logo%20trans.png" height=200px>
+<img src="http://ucdchoralscholars.ie/img/footer-logo.png" height=200px>
