@@ -1,0 +1,606 @@
+locus_tag,product_doerks,new_category,annot_method,Associations,Source,hyperlink to source page
+Rv2032,nitroreductase,F,Textmining,Nitroreductases,PMID: 11854240,http://www.ncbi.nlm.nih.gov/pubmed?term=11854240
+Rv2275,cyclodithyrosine,F,Textmining,Catalytic Domain,PMID: 21325056,http://www.ncbi.nlm.nih.gov/pubmed?term=21325056
+Rv3395c,damage tolerance,C,Textmining,Gene Deletion,PMID: 20615954,http://www.ncbi.nlm.nih.gov/pubmed?term=20615954
+Rv2908c,Predicted RNA-binding protein (contains KH domain),C,Orthology,COG1837,eggnog.embl.de,COG1837
+Rv2185c,Cyclase/Dehydrase,F,Orthology,NOG13431,eggnog.embl.de,NOG13431
+Rv0499,Protein involved in activation of protein kinase C by G-protein coupled receptor protein signaling pathway ,C,Orthology,NOG44548,eggnog.embl.de,NOG44548
+Rv1592c,Secretory lipase,A,Orthology,NOG07392,eggnog.embl.de,NOG07392
+Rv3094c,Acyl-CoA dehydrogenases,F,Orthology,COG1960,eggnog.embl.de,COG1960
+Rv0142,3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase,H,Orthology,COG0122,eggnog.embl.de,COG0122
+Rv3376,Predicted hydrolase (HAD superfamily),F,Orthology,COG1011,eggnog.embl.de,COG1011
+Rv1021,Predicted pyrophosphatase,F,Orthology,COG1694,eggnog.embl.de,COG1694
+Rv1179c,DNA or RNA helicases of superfamily II,H,Orthology,COG1061,eggnog.embl.de,COG1061
+Rv2917,DNA or RNA helicases of superfamily II,H,Orthology,COG1061,eggnog.embl.de,COG1061
+Rv0574c,Putative enzyme of poly-gamma-glutamate biosynthesis (capsule formation),F,Orthology,COG2843,eggnog.embl.de,COG2843
+Rv0264c,Allophanate hydrolase subunit 1,F,Orthology,COG2049,eggnog.embl.de,COG2049
+Rv3788,Transcription elongation factor,H,Orthology,COG0782,eggnog.embl.de,COG0782
+Rv1287,Predicted transcriptional regulator,C,Orthology,COG1959,eggnog.embl.de,COG1959
+Rv1636,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2319c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2005c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2026c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2623,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv1996,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv3134c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2624c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2028c,Universal stress protein UspA and related nucleotide-binding proteins ,C,Orthology,COG0589,eggnog.embl.de,COG0589
+Rv2042c,Nuclear transport factor 2,C,Orthology,NOG43666,eggnog.embl.de,NOG43666
+Rv2559c,ATPase related to the helicase subunit of the Holliday junction resolvase,H,Orthology,COG2256,eggnog.embl.de,COG2256
+Rv3228,Predicted GTPases,F,Orthology,COG1162,eggnog.embl.de,COG1162
+Rv0791c,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",F,Orthology,COG2141,eggnog.embl.de,COG2141
+Rv3072c,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",F,Orthology,COG2141,eggnog.embl.de,COG2141
+Rv3192,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",F,Orthology,COG2141,eggnog.embl.de,COG2141
+Rv3463,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",F,Orthology,COG2141,eggnog.embl.de,COG2141
+Rv3079c,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases",F,Orthology,COG2141,eggnog.embl.de,COG2141
+Rv2061c,Predicted flavin-nucleotide-binding protein structurally related to pyridoxine 5-phosphate oxidase,H,Orthology,COG3576,eggnog.embl.de,COG3576
+Rv1514c,Glycosyltransferases involved in cell wall biogenesis,A,Orthology,COG0463,eggnog.embl.de,COG0463
+Rv1518,Glycosyltransferases involved in cell wall biogenesis,A,Orthology,COG0463,eggnog.embl.de,COG0463
+Rv0992c,5-formyltetrahydrofolate cyclo-ligase,F,Orthology,COG0212,eggnog.embl.de,COG0212
+Rv1593c,ADP-ribose pyrophosphatase,F,Orthology,COG1051,eggnog.embl.de,COG1051
+Rv3698,Glutamate-Cysteine ligase,F,Orthology,NOG04167,eggnog.embl.de,NOG04167
+Rv2718c,"Predicted transcriptional regulator, consists of a Zn-ribbon and ATP-cone domains",C,Orthology,COG1327,eggnog.embl.de,COG1327
+Rv3433c,Predicted sugar kinase,F,Orthology,COG0063,eggnog.embl.de,COG0063
+Rv2551c,"Type II secretory pathway, prepilin signal peptidase PulO and related peptidases",A,Orthology,COG1989,eggnog.embl.de,COG1989
+Rv0784,Predicted deacetylase,F,Orthology,COG3233,eggnog.embl.de,COG3233
+Rv3421c,"Inactive homolog of metal-dependent proteases, putative molecular chaperone",H,Orthology,COG1214,eggnog.embl.de,COG1214
+Rv1066,Rhodanese-related sulfurtransferase,F,Orthology,COG0607,eggnog.embl.de,COG0607
+Rv0390,Rhodanese-related sulfurtransferase,F,Orthology,COG0607,eggnog.embl.de,COG0607
+Rv3627c,D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 4),A,Orthology,COG2027,eggnog.embl.de,COG2027
+Rv2975c,Predicted kinase related to dihydroxyacetone kinase,F,Orthology,COG1461,eggnog.embl.de,COG1461
+Rv2974c,Predicted kinase related to dihydroxyacetone kinase,F,Orthology,COG1461,eggnog.embl.de,COG1461
+Rv1120c,"Adenylate cyclase, family 3 (some proteins contain HAMP domain)",F,Orthology,COG2114,eggnog.embl.de,COG2114
+Rv3351c,FAD/FMN-containing dehydrogenases,F,Orthology,COG0277,eggnog.embl.de,COG0277
+Rv3353c,FAD/FMN-containing dehydrogenases,F,Orthology,COG0277,eggnog.embl.de,COG0277
+Rv3719,FAD/FMN-containing dehydrogenases,F,Orthology,COG0277,eggnog.embl.de,COG0277
+Rv0127,"Uncharacterized protein, probably involved in trehalose biosynthesis",C,Orthology,COG3281,eggnog.embl.de,COG3281
+Rv2478c,Single-stranded DNA-binding protein,C,Orthology,COG0629,eggnog.embl.de,COG0629
+Rv1489A,"Methylmalonyl-CoA mutase, N-terminal domain/subunit",F,Orthology,COG1884,eggnog.embl.de,COG1884
+Rv2425c,Protein containing von Willebrand factor type A (vWA) domain,C,Orthology,COG3552,eggnog.embl.de,COG3552
+Rv0368c,Protein containing von Willebrand factor type A (vWA) domain,C,Orthology,COG3552,eggnog.embl.de,COG3552
+Rv3218,Sphingosine kinase and enzymes related to eukaryotic diacylglycerol kinase,A,Orthology,COG1597,eggnog.embl.de,COG1597
+Rv2475c,Predicted thioesterase ,F,Orthology,COG0824,eggnog.embl.de,COG0824
+Rv0163,Predicted thioesterase ,F,Orthology,COG0824,eggnog.embl.de,COG0824
+Rv2529,Nuclease,H,Orthology,NOG70635,eggnog.embl.de,NOG70635
+Rv0525,"Fructose-2,6-bisphosphatase",F,Orthology,COG0406,eggnog.embl.de,COG0406
+Rv2228c,"Fructose-2,6-bisphosphatase",F,Orthology,COG0406,eggnog.embl.de,COG0406
+Rv2135c,"Fructose-2,6-bisphosphatase",F,Orthology,COG0406,eggnog.embl.de,COG0406
+Rv2484c,Diacylglycerol O-acyltransferase,A,Orthology,NOG115053,eggnog.embl.de,NOG115053
+Rv0387c,PPE-repeat proteins    ,D,Orthology,COG5651,eggnog.embl.de,COG5651
+Rv3702c,Predicted glutamine amidotransferase,F,Orthology,COG0121,eggnog.embl.de,COG0121
+Rv1061,Predicted glutamine amidotransferase,F,Orthology,COG0121,eggnog.embl.de,COG0121
+Rv2795c,Predicted phosphohydrolases,F,Orthology,COG1409,eggnog.embl.de,COG1409
+Rv2577,Predicted phosphohydrolases,F,Orthology,COG1409,eggnog.embl.de,COG1409
+Rv2054,Dienelactone hydrolase and related enzymes,F,Orthology,COG0412,eggnog.embl.de,COG0412
+Rv2047c,Nucleoside-diphosphate-sugar epimerases,F,Orthology,COG0451,eggnog.embl.de,COG0451
+Rv1868,Nucleoside-diphosphate-sugar epimerases,F,Orthology,COG0451,eggnog.embl.de,COG0451
+Rv3785,Nucleoside-diphosphate-sugar epimerases,F,Orthology,COG0451,eggnog.embl.de,COG0451
+Rv2370c,Regulator of polyketide synthase expression,E,Orthology,COG2508,eggnog.embl.de,COG2508
+Rv2242,Regulator of polyketide synthase expression,E,Orthology,COG2508,eggnog.embl.de,COG2508
+Rv1194c,Regulator of polyketide synthase expression,E,Orthology,COG2508,eggnog.embl.de,COG2508
+Rv1186c,Regulator of polyketide synthase expression,E,Orthology,COG2508,eggnog.embl.de,COG2508
+Rv1429,Regulator of polyketide synthase expression,E,Orthology,COG2508,eggnog.embl.de,COG2508
+Rv3272,Predicted acyl-CoA transferases/carnitine dehydratase,F,Orthology,COG1804,eggnog.embl.de,COG1804
+Rv1367c,Beta-lactamase class C and other penicillin binding proteins,A,Orthology,COG1680,eggnog.embl.de,COG1680
+Rv2257c,Beta-lactamase class C and other penicillin binding proteins,A,Orthology,COG1680,eggnog.embl.de,COG1680
+Rv2554c,Predicted endonuclease involved in recombination (possible Holliday junction resolvase in Mycoplasmas and B. subtilis) ,H,Orthology,COG0816,eggnog.embl.de,COG0816
+Rv1112,"Predicted GTPase, probable translation factor",H,Orthology,COG0012,eggnog.embl.de,COG0012
+Rv1466,Predicted metal-sulfur cluster biosynthetic enzyme,F,Orthology,COG2151,eggnog.embl.de,COG2151
+Rv3282,Nucleotide-binding protein implicated in inhibition of septum formation,C,Orthology,COG0424,eggnog.embl.de,COG0424
+Rv0504c,UPF0336 protein,A,Orthology,NOG08314,eggnog.embl.de,NOG08314
+Rv0038,Putative transcriptional regulator,C,Orthology,COG1678,eggnog.embl.de,COG1678
+Rv3013,Amino acid-binding ACT protein,C,Orthology,NOG06574,eggnog.embl.de,NOG06574
+Rv2133c,Phosphatidylinositol 3- and 4-kinase,A,Orthology,NOG05781,eggnog.embl.de,NOG05781
+Rv2414c,Predicted membrane metal-binding protein,A,Orthology,COG0658,eggnog.embl.de,COG0658
+Rv2868c,Enzyme involved in the deoxyxylulose pathway of isoprenoid biosynthesis,F,Orthology,COG0821,eggnog.embl.de,COG0821
+Rv1711,16S rRNA uridine-516 pseudouridylate synthase and related pseudouridylate synthases,H,Orthology,COG1187,eggnog.embl.de,COG1187
+Rv0911,Predicted enzyme related to lactoylglutathione lyase,F,Orthology,COG3324,eggnog.embl.de,COG3324
+Rv0577,Predicted enzyme related to lactoylglutathione lyase,F,Orthology,COG3324,eggnog.embl.de,COG3324
+Rv0106,Putative GTPases (G3E family),F,Orthology,COG0523,eggnog.embl.de,COG0523
+Rv3811,Uncharacterized protein potentially involved in peptidoglycan biosynthesis,A,Orthology,COG5479,eggnog.embl.de,COG5479
+Rv0356c,Thioesterase,F,Orthology,NOG09164,eggnog.embl.de,NOG09164
+Rv1354c,FOG- GAF domain,C,Orthology,COG2203,eggnog.embl.de,COG2203
+Rv2305,Uncharacterized protein containing a NRPS condensation (elongation) domain,A,Orthology,COG4908,eggnog.embl.de,COG4908
+Rv1673c,"Transglutaminase-like enzymes, putative cysteine proteases",F,Orthology,COG1305,eggnog.embl.de,COG1305
+Rv0790c,"Transglutaminase-like enzymes, putative cysteine proteases",F,Orthology,COG1305,eggnog.embl.de,COG1305
+Rv2566,"Transglutaminase-like enzymes, putative cysteine proteases",F,Orthology,COG1305,eggnog.embl.de,COG1305
+Rv2409c,"Transglutaminase-like enzymes, putative cysteine proteases",F,Orthology,COG1305,eggnog.embl.de,COG1305
+Rv2569c,"Transglutaminase-like enzymes, putative cysteine proteases",F,Orthology,COG1305,eggnog.embl.de,COG1305
+Rv0787A,"Phosphoribosylformylglycinamidine (FGAM) synthase, PurS component",F,Orthology,COG1828,eggnog.embl.de,COG1828
+Rv2923c,"Predicted redox protein, regulator of disulfide bond formation",F,Orthology,COG1765,eggnog.embl.de,COG1765
+Rv1977,Zn-dependent protease with chaperone function,H,Orthology,COG0501,eggnog.embl.de,COG0501
+Rv1372,Predicted naringenin-chalcone synthase,F,Orthology,COG3424,eggnog.embl.de,COG3424
+Rv2532c,Transcription termination factor,H,Orthology,COG0781,eggnog.embl.de,COG0781
+Rv2216,Predicted nucleoside-diphosphate sugar epimerase,F,Orthology,COG1090,eggnog.embl.de,COG1090
+Rv1262c,Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases,F,Orthology,COG0537,eggnog.embl.de,COG0537
+Rv0759c,Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases,F,Orthology,COG0537,eggnog.embl.de,COG0537
+Rv3394c,Nucleotidyltransferase/DNA polymerase involved in DNA repair  ,H,Orthology,COG0389,eggnog.embl.de,COG0389
+Rv3237c,"Putative regulatory, ligand-binding protein related to C-terminal domains of K+ channels",A,Orthology,COG0490,eggnog.embl.de,COG0490
+Rv1767,Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit  ,F,Orthology,COG0599,eggnog.embl.de,COG0599
+Rv3404c,Methionyl-tRNA formyltransferase,H,Orthology,COG0223,eggnog.embl.de,COG0223
+Rv0730,N-Acetyltransferase,F,Orthology,NOG10649,eggnog.embl.de,NOG10649
+Rv0923c,Phage-related replication protein,G,Orthology,COG4195,eggnog.embl.de,COG4195
+Rv3076,Cyclase/Dehydrase ,F,Orthology,NOG77972,eggnog.embl.de,NOG77972
+Rv2998A,Signal transduction histidine kinase,C,Orthology,COG0642,eggnog.embl.de,COG0642
+Rv3365c,Signal transduction histidine kinase,C,Orthology,COG0642,eggnog.embl.de,COG0642
+Rv1533,Dioxygenases related to 2-nitropropane dioxygenase,F,Orthology,COG2070,eggnog.embl.de,COG2070
+Rv1894c,Dioxygenases related to 2-nitropropane dioxygenase,F,Orthology,COG2070,eggnog.embl.de,COG2070
+Rv0021c,Dioxygenases related to 2-nitropropane dioxygenase,F,Orthology,COG2070,eggnog.embl.de,COG2070
+Rv1000c,Alkylated DNA repair protein ,H,Orthology,COG3145,eggnog.embl.de,COG3145
+Rv2184c,Oxyanion-translocating ATPase,F,Orthology,COG0003,eggnog.embl.de,COG0003
+Rv2840c,Predicted nucleic-acid-binding protein implicated in transcription termination,H,Orthology,COG2740,eggnog.embl.de,COG2740
+Rv0323c,"Uncharacterized proteins, LmbE homologs",A,Orthology,COG2120,eggnog.embl.de,COG2120
+Rv1998c,PEP phosphonomutase and related enzymes,F,Orthology,COG2513,eggnog.embl.de,COG2513
+Rv3683,Predicted phosphohydrolases,F,Orthology,COG1408,eggnog.embl.de,COG1408
+Rv3510c,Predicted metal-dependent hydrolase of the TIM-barrel fold,F,Orthology,COG2159,eggnog.embl.de,COG2159
+Rv1879,Predicted metal-dependent hydrolase of the TIM-barrel fold,F,Orthology,COG2159,eggnog.embl.de,COG2159
+Rv2469c,Restriction endonuclease,H,Orthology,COG1403,eggnog.embl.de,COG1403
+Rv3074,Endonuclease,H,Orthology,NOG85982,eggnog.embl.de,NOG85982
+Rv1378c,Endonuclease,H,Orthology,NOG85982,eggnog.embl.de,NOG85982
+Rv2817c,Uncharacterized protein predicted to be involved in DNA repair,H,Orthology,COG1518,eggnog.embl.de,COG1518
+Rv1525,Predicted glycosyltransferases,F,Orthology,COG1216,eggnog.embl.de,COG1216
+Rv2323c,N-Dimethylarginine dimethylaminohydrolase,F,Orthology,COG1834,eggnog.embl.de,COG1834
+Rv2565,Predicted esterase of the alpha-beta hydrolase superfamily,F,Orthology,COG1752,eggnog.embl.de,COG1752
+Rv1063c,Predicted esterase of the alpha-beta hydrolase superfamily,F,Orthology,COG1752,eggnog.embl.de,COG1752
+Rv1062,Predicted esterase of the alpha-beta hydrolase superfamily,F,Orthology,COG1752,eggnog.embl.de,COG1752
+Rv0498,Sugar phosphate isomerases/epimerases ,F,Orthology,COG1082,eggnog.embl.de,COG1082
+Rv2229c,"Zn-ribbon protein, possibly nucleic acid-binding",C,Orthology,COG1579,eggnog.embl.de,COG1579
+Rv0822c,Transcriptional regulator,C,Orthology,COG1316,eggnog.embl.de,COG1316
+Rv3484,Transcriptional regulator,C,Orthology,COG1316,eggnog.embl.de,COG1316
+Rv3267,Transcriptional regulator,C,Orthology,COG1316,eggnog.embl.de,COG1316
+Rv2515c,Predicted Zn peptidase,F,Orthology,COG2856,eggnog.embl.de,COG2856
+Rv0906,Predicted Zn-dependent hydrolases of the beta-lactamase fold,F,Orthology,COG2220,eggnog.embl.de,COG2220
+Rv0786c,Predicted Zn-dependent hydrolases of the beta-lactamase fold,F,Orthology,COG2220,eggnog.embl.de,COG2220
+Rv3818,Predicted Zn-dependent hydrolases of the beta-lactamase fold,F,Orthology,COG2220,eggnog.embl.de,COG2220
+Rv3577,Predicted Zn-dependent hydrolases of the beta-lactamase fold,F,Orthology,COG2220,eggnog.embl.de,COG2220
+Rv3338,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv1191,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv3337,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv3312c,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv2695,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv1190,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) ,F,Orthology,COG0596,eggnog.embl.de,COG0596
+Rv2638,Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),C,Orthology,COG1366,eggnog.embl.de,COG1366
+Rv1904,Anti-anti-sigma regulatory factor (antagonist of anti-sigma factor),C,Orthology,COG1366,eggnog.embl.de,COG1366
+Rv1277,DNA repair exonuclease,H,Orthology,COG0420,eggnog.embl.de,COG0420
+Rv2694c,"Nucleic acid binding, OB-fold,tRNA/helicase-type",H,Orthology,NOG14932,eggnog.embl.de,NOG14932
+Rv1232c,Mg/Co/Ni transporter MgtE (contains CBS domain),A,Orthology,COG2239,eggnog.embl.de,COG2239
+Rv1204c,Regulator protein ,C,Orthology,NOG14445,eggnog.embl.de,NOG14445
+Rv2292c,Nucleoside phosphorylase,F,Orthology,COG0775,eggnog.embl.de,COG0775
+Rv2293c,Nucleoside phosphorylase,F,Orthology,COG0775,eggnog.embl.de,COG0775
+Rv3254,Monooxygenase,F,Orthology,NOG07359,eggnog.embl.de,NOG07359
+Rv2298,Predicted oxidoreductases (related to aryl-alcohol dehydrogenases),F,Orthology,COG0667,eggnog.embl.de,COG0667
+Rv2402,Glucoamylase and related glycosyl hydrolases,F,Orthology,COG3387,eggnog.embl.de,COG3387
+Rv2636,Chloramphenicol 3-O-phosphotransferase,F,Orthology,COG3896,eggnog.embl.de,COG3896
+Rv2618,Predicted transcriptional regulator,C,Orthology,COG2345,eggnog.embl.de,COG2345
+Rv3896c,SLT domain proteins,F,Orthology,COG3953,eggnog.embl.de,COG3953
+Rv0312,Molecular chaperone,H,Orthology,COG0443,eggnog.embl.de,COG0443
+Rv2264c,Molecular chaperone,H,Orthology,COG0443,eggnog.embl.de,COG0443
+Rv2681,Ribonuclease D,H,Orthology,COG0349,eggnog.embl.de,COG0349
+Rv1084,Highly conserved protein containing a thioredoxin domain,F,Orthology,COG1331,eggnog.embl.de,COG1331
+Rv0004,"Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives",C,Orthology,COG5512,eggnog.embl.de,COG5512
+Rv2867c,Predicted acetyltransferase    ,F,Orthology,COG3393,eggnog.embl.de,COG3393
+Rv2015c,Endonuclease   ,H,Orthology,NOG43959,eggnog.embl.de,NOG43959
+Rv1765c,Endonuclease   ,H,Orthology,NOG43959,eggnog.embl.de,NOG43959
+Rv3471c,Mannose-6-phosphate isomerase  ,F,Orthology,COG0662,eggnog.embl.de,COG0662
+Rv3796,Metal-dependent hydrolases of the beta-lactamase superfamily III,F,Orthology,COG1234,eggnog.embl.de,COG1234
+Rv2407,Metal-dependent hydrolases of the beta-lactamase superfamily III,F,Orthology,COG1234,eggnog.embl.de,COG1234
+Rv1339,Metal-dependent hydrolases of the beta-lactamase superfamily III,F,Orthology,COG1234,eggnog.embl.de,COG1234
+Rv1717,Cupin 2 barrel protein,C,Orthology,NOG73697,eggnog.embl.de,NOG73697
+Rv3600c,"Putative transcriptional regulator, homolog of Bvg accessory factor",C,Orthology,COG1521,eggnog.embl.de,COG1521
+Rv2466c,Protein disulfide oxidoreductase    ,F,Orthology,NOG05524,eggnog.embl.de,NOG05524
+Rv2030c,Erythromycin esterase homolog,F,Orthology,COG2312,eggnog.embl.de,COG2312
+Rv0959,Uncharacterized protein with a von Willebrand factor type A (vWA) domain,C,Orthology,COG4867,eggnog.embl.de,COG4867
+Rv1003,Predicted methyltransferases ,F,Orthology,COG0313,eggnog.embl.de,COG0313
+Rv3717,N-acetylmuramoyl-L-alanine amidase,A,Orthology,COG0860,eggnog.embl.de,COG0860
+Rv2415c,DNA uptake protein and related DNA-binding proteins,C,Orthology,COG1555,eggnog.embl.de,COG1555
+Rv2387,Predicted permease ,A,Orthology,COG3329,eggnog.embl.de,COG3329
+Rv1288,FOG- LysM repeat   ,C,Orthology,COG1388,eggnog.embl.de,COG1388
+Rv0441c,FMN binding protein,C,Orthology,NOG46531,eggnog.embl.de,NOG46531
+Rv2771c,Multimeric flavodoxin WrbA,F,Orthology,COG0655,eggnog.embl.de,COG0655
+Rv0925c,Multimeric flavodoxin WrbA,F,Orthology,COG0655,eggnog.embl.de,COG0655
+Rv1059,Uncharacterized conserved protein related to dihydrodipicolinate reductase,F,Orthology,COG3804,eggnog.embl.de,COG3804
+Rv0926c,Uncharacterized conserved protein related to dihydrodipicolinate reductase,F,Orthology,COG3804,eggnog.embl.de,COG3804
+Rv1251c,Predicted nuclease (RecB family)  ,H,Orthology,COG2251,eggnog.embl.de,COG2251
+Rv3114,Cytosine/adenosine deaminases,H,Orthology,COG0590,eggnog.embl.de,COG0590
+Rv2927c,Cell division initiation protein  ,C,Orthology,COG3599,eggnog.embl.de,COG3599
+Rv2704,"Putative translation initiation inhibitor, yjgF family",H,Orthology,COG0251,eggnog.embl.de,COG0251
+Rv3678c,"Putative translation initiation inhibitor, yjgF family",H,Orthology,COG0251,eggnog.embl.de,COG0251
+Rv1505c,Acetyltransferase (isoleucine patch superfamily)   ,F,Orthology,COG0110,eggnog.embl.de,COG0110
+Rv3594,Chitosanase,F,Orthology,NOG47907,eggnog.embl.de,NOG47907
+Rv3659c,"Flp pilus assembly protein, ATPase CpaF",A,Orthology,COG4962,eggnog.embl.de,COG4962
+Rv2159c,Peroxidase ,F,Orthology,NOG12884,eggnog.embl.de,NOG12884
+Rv2896c,Predicted Rossmann fold nucleotide-binding protein involved in DNA uptake ,C,Orthology,COG0758,eggnog.embl.de,COG0758
+Rv1322,Atp/Gtp-Binding protein ,F,Orthology,NOG08659,eggnog.embl.de,NOG08659
+Rv0421c,Predicted hydrolase of the alpha/beta-hydrolase fold ,F,Orthology,COG3571,eggnog.embl.de,COG3571
+Rv0941c,Protein serine/threonine kinase ,C,Orthology,NOG46559,eggnog.embl.de,NOG46559
+Rv3863,FOG- FHA domain ,C,Orthology,COG1716,eggnog.embl.de,COG1716
+Rv3360,FOG- FHA domain ,C,Orthology,COG1716,eggnog.embl.de,COG1716
+Rv1827,FOG- FHA domain ,C,Orthology,COG1716,eggnog.embl.de,COG1716
+Rv0695,"Uncharacterized protein, putative amidase ",F,Orthology,COG1402,eggnog.embl.de,COG1402
+Rv2819c,Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily) ,H,Orthology,COG1332,eggnog.embl.de,COG1332
+Rv3586,Predicted nucleic-acid-binding protein (contains the HHH domain) ,C,Orthology,COG1623,eggnog.embl.de,COG1623
+Rv2851c,Predicted acyltransferase ,F,Orthology,COG2153,eggnog.embl.de,COG2153
+Rv3256c,Sugar binding protein ,F,Orthology,NOG08042,eggnog.embl.de,NOG08042
+Rv2148c,Predicted enzyme with a TIM-barrel fold ,F,Orthology,COG0325,eggnog.embl.de,COG0325
+Rv1734c,"Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes ",F,Orthology,COG0508,eggnog.embl.de,COG0508
+Rv2004c,Predicted kinase ,C,Orthology,COG0645,eggnog.embl.de,COG0645
+Rv2897c,Predicted ATPase with chaperone activity ,H,Orthology,COG0606,eggnog.embl.de,COG0606
+Rv2143,Predicted phosphoribosyltransferases ,F,Orthology,COG1926,eggnog.embl.de,COG1926
+Rv0571c,Predicted phosphoribosyltransferases ,F,Orthology,COG1926,eggnog.embl.de,COG1926
+Rv2315c,Predicted Zn-dependent proteases and their inactivated homologs ,F,Orthology,COG0312,eggnog.embl.de,COG0312
+Rv2314c,Predicted Zn-dependent proteases and their inactivated homologs ,F,Orthology,COG0312,eggnog.embl.de,COG0312
+Rv1706A,Permeases of the major facilitator superfamily ,A,Orthology,COG0477,eggnog.embl.de,COG0477
+Rv2991,Pyridoxamine 5-phosphate oxidase ,F,Orthology,NOG46670,eggnog.embl.de,NOG46670
+Rv3090,"Membrane protease subunits, stomatin/prohibitin homologs ",A,Orthology,COG0330,eggnog.embl.de,COG0330
+Rv2522c,Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases ,F,Orthology,COG0624,eggnog.embl.de,COG0624
+Rv0263c,Allophanate hydrolase subunit 2 ,F,Orthology,COG1984,eggnog.embl.de,COG1984
+Rv1501,Protein involved in biosynthesis of mitomycin antibiotics/polyketide fumonisin ,E,Orthology,COG5285,eggnog.embl.de,COG5285
+Rv3633,Protein involved in biosynthesis of mitomycin antibiotics/polyketide fumonisin ,E,Orthology,COG5285,eggnog.embl.de,COG5285
+Rv1508A,GDP-D-mannose dehydratase ,F,Orthology,COG1089,eggnog.embl.de,COG1089
+Rv2573,Ketopantoate reductase ,F,Orthology,COG1893,eggnog.embl.de,COG1893
+Rv1830,Predicted transcriptional regulators ,C,Orthology,COG0789,eggnog.embl.de,COG0789
+Rv1828,Predicted transcriptional regulators ,C,Orthology,COG0789,eggnog.embl.de,COG0789
+Rv2752c,Predicted hydrolase of the metallo-beta-lactamase superfamily ,F,Orthology,COG0595,eggnog.embl.de,COG0595
+Rv2286c,Protein disulfide oxidoreductase ,F,Orthology,NOG74609,eggnog.embl.de,NOG74609
+Rv1462,"ABC-type transport system involved in Fe-S cluster assembly, permease component ",A,Orthology,COG0719,eggnog.embl.de,COG0719
+Rv1461,"ABC-type transport system involved in Fe-S cluster assembly, permease component ",A,Orthology,COG0719,eggnog.embl.de,COG0719
+Rv2813,"Type II secretory pathway, component ExeA (predicted ATPase) ",A,Orthology,COG3267,eggnog.embl.de,COG3267
+Rv2012,Phage envelope protein ,G,Orthology,COG5562,eggnog.embl.de,COG5562
+Rv0634A,Transcription regulator of the Arc/MetJ class ,C,Orthology,COG5450,eggnog.embl.de,COG5450
+Rv2375,Transcription regulator of the Arc/MetJ class ,C,Orthology,COG5450,eggnog.embl.de,COG5450
+Rv1836c,Von Willebrand factor (vWF) type A domain-containing protein ,C,Orthology,NOG10698,eggnog.embl.de,NOG10698
+Rv2327,Transcriptional regulators ,C,Orthology,COG1846,eggnog.embl.de,COG1846
+Rv2011c,Transcriptional regulators ,C,Orthology,COG1846,eggnog.embl.de,COG1846
+Rv3422c,Predicted ATPase or kinase ,F,Orthology,COG0802,eggnog.embl.de,COG0802
+Rv2325c,"ABC-type cobalt transport system, permease component CbiQ and related transporters ",A,Orthology,COG0619,eggnog.embl.de,COG0619
+Rv0804,Predicted metal-dependent membrane protease ,F,Orthology,COG1266,eggnog.embl.de,COG1266
+Rv2492,Thymidylate synthase ,H,Orthology,NOG71787,eggnog.embl.de,NOG71787
+Rv1847,"Uncharacterized protein, possibly involved in aromatic compounds catabolism ",F,Orthology,COG2050,eggnog.embl.de,COG2050
+Rv1532c,"Uncharacterized protein, possibly involved in aromatic compounds catabolism ",F,Orthology,COG2050,eggnog.embl.de,COG2050
+Rv0674,Phenylacetic acid-responsive transcriptional repressor ,C,Orthology,COG3327,eggnog.embl.de,COG3327
+Rv3733c,Predicted NTP pyrophosphohydrolase ,F,Orthology,COG4119,eggnog.embl.de,COG4119
+Rv2712c,Heme binding protein ,C,Orthology,NOG46939,eggnog.embl.de,NOG46939
+Rv3529c,Sulfotransferase ,F,Orthology,NOG42751,eggnog.embl.de,NOG42751
+Rv1870c,Protein involved in DNA repair ,H,Orthology,NOG13550,eggnog.embl.de,NOG13550
+Rv0034,Ketosteroid isomerase-related protein  ,F,Orthology,COG3631,eggnog.embl.de,COG3631
+Rv0141c,Ketosteroid isomerase-related protein  ,F,Orthology,COG3631,eggnog.embl.de,COG3631
+Rv0181c,Pirin-related protein ,C,Orthology,COG1741,eggnog.embl.de,COG1741
+Rv0371c,Uncharacterized MobA-related protein ,F,Orthology,COG2068,eggnog.embl.de,COG2068
+Rv0345,Uncharacterized MobA-related protein ,F,Orthology,COG2068,eggnog.embl.de,COG2068
+Rv0281,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0830,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv1889c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0726c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0893c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv3787c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0146,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv3767c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0145,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv1896c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0731c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv2751,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv3399,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv1888A,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv0725c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv1729c,O-Methyltransferase involved in polyketide biosynthesis ,E,Orthology,COG3315,eggnog.embl.de,COG3315
+Rv1065,Cysteine dioxygenase ,F,Orthology,NOG25778,eggnog.embl.de,NOG25778
+Rv2837c,Exopolyphosphatase-related proteins ,F,Orthology,COG0618,eggnog.embl.de,COG0618
+Rv0060,Predicted phosphatase homologous to the C-terminal domain of histone macroH2A1 ,F,Orthology,COG2110,eggnog.embl.de,COG2110
+Rv0647c,Predicted unusual protein kinase ,F,Orthology,COG0661,eggnog.embl.de,COG0661
+Rv1760,Acyltransferase ,F,Orthology,NOG45835,eggnog.embl.de,NOG45835
+Rv1425,Acyltransferase ,F,Orthology,NOG45835,eggnog.embl.de,NOG45835
+Rv1159A,Pterin-4a-carbinolamine dehydratase  ,F,Orthology,COG2154,eggnog.embl.de,COG2154
+Rv3916c,N-Acetyltransferase ,F,Orthology,NOG07021,eggnog.embl.de,NOG07021
+Rv3284,SufE protein probably involved in Fe-S center assembly ,F,Orthology,COG2166,eggnog.embl.de,COG2166
+Rv0799c,Predicted iron-dependent peroxidase ,F,Orthology,COG2837,eggnog.embl.de,COG2837
+Rv2165c,Predicted S-adenosylmethionine-dependent methyltransferase involved in cell envelope biogenesis ,A,Orthology,COG0275,eggnog.embl.de,COG0275
+Rv0434,"Uncharacterized protein, similar to the N-terminal domain of Lon protease ",F,Orthology,COG2802,eggnog.embl.de,COG2802
+Rv1504c,Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis ,A,Orthology,COG0399,eggnog.embl.de,COG0399
+Rv1503c,Predicted pyridoxal phosphate-dependent enzyme apparently involved in regulation of cell wall biogenesis ,A,Orthology,COG0399,eggnog.embl.de,COG0399
+Rv2880c,Predicted Fe-S-cluster redox enzyme ,F,Orthology,COG0820,eggnog.embl.de,COG0820
+Rv2578c,DNA repair photolyase ,H,Orthology,COG1533,eggnog.embl.de,COG1533
+Rv2406c,FOG- CBS domain ,C,Orthology,COG0517,eggnog.embl.de,COG0517
+Rv2626c,FOG- CBS domain ,C,Orthology,COG0517,eggnog.embl.de,COG0517
+Rv2683,FOG- CBS domain ,C,Orthology,COG0517,eggnog.embl.de,COG0517
+Rv0998,Histone acetyltransferase HPA2 and related acetyltransferases ,H,Orthology,COG0454,eggnog.embl.de,COG0454
+Rv2669,Histone acetyltransferase HPA2 and related acetyltransferases ,H,Orthology,COG0454,eggnog.embl.de,COG0454
+Rv0919,Histone acetyltransferase HPA2 and related acetyltransferases ,H,Orthology,COG0454,eggnog.embl.de,COG0454
+Rv0428c,Histone acetyltransferase HPA2 and related acetyltransferases ,H,Orthology,COG0454,eggnog.embl.de,COG0454
+Rv2775,Histone acetyltransferase HPA2 and related acetyltransferases ,H,Orthology,COG0454,eggnog.embl.de,COG0454
+Rv2898c,Predicted endonuclease distantly related to archaeal Holliday junction resolvase ,H,Orthology,COG0792,eggnog.embl.de,COG0792
+Rv2413c,"DNA polymerase III, delta subunit ",H,Orthology,COG1466,eggnog.embl.de,COG1466
+Rv0121c,Pyridoxamine 5-phosphate oxidase ,F,Orthology,NOG47579,eggnog.embl.de,NOG47579
+Rv3015c,B12 independent protein ,C,Orthology,NOG05970,eggnog.embl.de,NOG05970
+Rv1321,Predicted nuclease of the RecB family ,H,Orthology,COG1637,eggnog.embl.de,COG1637
+Rv0365c,Predicted glycosyl hydrolase ,F,Orthology,COG4833,eggnog.embl.de,COG4833
+Rv0825c,Transcriptional regulator ,C,Orthology,COG1309,eggnog.embl.de,COG1309
+Rv0330c,Transcriptional regulator ,C,Orthology,COG1309,eggnog.embl.de,COG1309
+Rv1685c,Transcriptional regulator ,C,Orthology,COG1309,eggnog.embl.de,COG1309
+Rv0767c,Transcriptional regulator ,C,Orthology,COG1309,eggnog.embl.de,COG1309
+Rv0466,Acyl-ACP thioesterase ,F,Orthology,COG3884,eggnog.embl.de,COG3884
+Rv2001,Acyl-ACP thioesterase ,F,Orthology,COG3884,eggnog.embl.de,COG3884
+Rv0785,Predicted oxidoreductase ,F,Orthology,COG3573,eggnog.embl.de,COG3573
+Rv1506c,Methyltransferase ,F,Orthology,NOG71304,eggnog.embl.de,NOG71304
+Rv1509,Methyltransferase ,F,Orthology,NOG71304,eggnog.embl.de,NOG71304
+Rv1480,Uncharacterized conserved protein (some members contain a von Willebrand factor type A (vWA) domain) ,C,Orthology,COG1721,eggnog.embl.de,COG1721
+Rv2205c,Glycerate kinase ,F,Orthology,COG1929,eggnog.embl.de,COG1929
+Rv2821c,Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily) ,H,Orthology,COG1337,eggnog.embl.de,COG1337
+Rv2059,"ABC-type metal ion transport system, periplasmic component/surface adhesin ",A,Orthology,COG0803,eggnog.embl.de,COG0803
+Rv1276c,Phosphohistidine phosphatase SixA ,F,Orthology,COG2062,eggnog.embl.de,COG2062
+Rv0811c,Predicted aminomethyltransferase related to GcvT ,F,Orthology,COG0354,eggnog.embl.de,COG0354
+Rv3027c,Putative hemolysin ,F,Orthology,COG3176,eggnog.embl.de,COG3176
+Rv2226,Protein involved in cAMP biosynthetic process ,F,Orthology,NOG73626,eggnog.embl.de,NOG73626
+Rv2119,RecB family exonuclease ,H,Orthology,COG2887,eggnog.embl.de,COG2887
+Rv0502,1-acyl-sn-glycerol-3-phosphate acyltransferase ,F,Orthology,COG0204,eggnog.embl.de,COG0204
+Rv2182c,1-acyl-sn-glycerol-3-phosphate acyltransferase ,F,Orthology,COG0204,eggnog.embl.de,COG0204
+Rv3026c,1-acyl-sn-glycerol-3-phosphate acyltransferase ,F,Orthology,COG0204,eggnog.embl.de,COG0204
+Rv1428c,1-acyl-sn-glycerol-3-phosphate acyltransferase ,F,Orthology,COG0204,eggnog.embl.de,COG0204
+Rv0801,Glyoxalase ,F,Orthology,NOG43037,eggnog.embl.de,NOG43037
+Rv1597,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3038c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3832c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv0329c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3037c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv0326,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv0839,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv0325,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv1515c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2675c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2954c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2956,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3120,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3699,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2955c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2003c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2423,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv3030,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv2067c,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv1978,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv1147,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv1513,SAM-dependent methyltransferases ,F,Orthology,COG0500,eggnog.embl.de,COG0500
+Rv1301,Putative translation factor (SUA5) ,H,Orthology,COG0009,eggnog.embl.de,COG0009
+Rv1540,"Pseudouridylate synthases, 23S RNA-specific ",H,Orthology,COG0564,eggnog.embl.de,COG0564
+Rv3300c,"Pseudouridylate synthases, 23S RNA-specific ",H,Orthology,COG0564,eggnog.embl.de,COG0564
+Rv1875,Pyridoxamine protein ,F,Orthology,NOG43687,eggnog.embl.de,NOG43687
+Rv3040c,NTP pyrophosphohydrolases including oxidative damage repair enzymes ,H,Orthology,COG0494,eggnog.embl.de,COG0494
+Rv3672c,NTP pyrophosphohydrolases including oxidative damage repair enzymes ,H,Orthology,COG0494,eggnog.embl.de,COG0494
+Rv3168,Predicted aminoglycoside phosphotransferase ,F,Orthology,COG3173,eggnog.embl.de,COG3173
+Rv0854,Cyclase/Dehydrase ,F,Orthology,NOG138101,eggnog.embl.de,NOG138101
+Rv1897c,D-Tyr-tRNAtyr deacylase ,H,Orthology,COG1490,eggnog.embl.de,COG1490
+Rv3075c,Citrate lyase beta subunit ,F,Orthology,COG2301,eggnog.embl.de,COG2301
+Rv2140c,Phospholipid-binding protein ,F,Orthology,COG1881,eggnog.embl.de,COG1881
+Rv2510c,Predicted ATPase ,F,Orthology,COG0433,eggnog.embl.de,COG0433
+Rv2232,Predicted phosphatases ,F,Orthology,COG0546,eggnog.embl.de,COG0546
+Rv2367c,Predicted metal-dependent hydrolase ,F,Orthology,COG0319,eggnog.embl.de,COG0319
+Rv3722c,Transcriptional regulators containing a DNA-binding HTH domain and an aminotransferase domain (MocR family) and their eukaryotic orthologs ,C,Orthology,COG1167,eggnog.embl.de,COG1167
+Rv1930c,Putative intracellular protease/amidase ,F,Orthology,COG0693,eggnog.embl.de,COG0693
+Rv0052,Putative intracellular protease/amidase ,F,Orthology,COG0693,eggnog.embl.de,COG0693
+Rv1725c,Predicted transcriptional regulators ,C,Orthology,COG1733,eggnog.embl.de,COG1733
+Rv0508,Thiol-disulfide isomerase and thioredoxins ,F,Orthology,COG0526,eggnog.embl.de,COG0526
+Rv1732c,Thiol-disulfide isomerase and thioredoxins ,F,Orthology,COG0526,eggnog.embl.de,COG0526
+Rv3035,FOG- WD40-like repeat ,C,Orthology,COG1520,eggnog.embl.de,COG1520
+Rv0268c,Antitoxin of toxin-antitoxin stability system ,B,Orthology,COG2161,eggnog.embl.de,COG2161
+Rv2052c,Predicted metal-dependent hydrolase with the TIM-barrel fold ,F,Orthology,COG1574,eggnog.embl.de,COG1574
+Rv0552,Predicted metal-dependent hydrolase with the TIM-barrel fold ,F,Orthology,COG1574,eggnog.embl.de,COG1574
+Rv1913,"Zn-dependent hydrolases, including glyoxylases ",F,Orthology,COG0491,eggnog.embl.de,COG0491
+Rv2300c,"Zn-dependent hydrolases, including glyoxylases ",F,Orthology,COG0491,eggnog.embl.de,COG0491
+Rv0406c,"Zn-dependent hydrolases, including glyoxylases ",F,Orthology,COG0491,eggnog.embl.de,COG0491
+Rv2260,"Zn-dependent hydrolases, including glyoxylases ",F,Orthology,COG0491,eggnog.embl.de,COG0491
+Rv1637c,"Zn-dependent hydrolases, including glyoxylases ",F,Orthology,COG0491,eggnog.embl.de,COG0491
+Rv3856c,Histidinol phosphatase and related hydrolases of the PHP family ,F,Orthology,COG1387,eggnog.embl.de,COG1387
+Rv0164,Cyclase/Dehydrase ,F,Orthology,NOG11610,eggnog.embl.de,NOG11610
+Rv2170,Acetyltransferases ,F,Orthology,COG0456,eggnog.embl.de,COG0456
+Rv2734,Bacteriophage protein gp37 ,G,Orthology,COG4422,eggnog.embl.de,COG4422
+Rv1044,Predicted transcriptional regulator ,C,Orthology,COG5340,eggnog.embl.de,COG5340
+Rv3180c,"Predicted nucleic acid-binding protein, contains PIN domain ",C,Orthology,COG1848,eggnog.embl.de,COG1848
+Rv1769,Predicted amino acid aldolase or racemase ,F,Orthology,COG3616,eggnog.embl.de,COG3616
+Rv1413,Predicted amino acid aldolase or racemase ,F,Orthology,COG3616,eggnog.embl.de,COG3616
+Rv1414,Predicted amino acid aldolase or racemase ,F,Orthology,COG3616,eggnog.embl.de,COG3616
+Rv1770,Predicted aminopeptidases ,F,Orthology,COG2234,eggnog.embl.de,COG2234
+Rv2716,"Predicted epimerase, PhzC/PhzF homolog ",F,Orthology,COG0384,eggnog.embl.de,COG0384
+Rv1676,Antioxidant protein ,B,Orthology,NOG77544,eggnog.embl.de,NOG77544
+Rv3521,Predicted nucleic-acid-binding protein containing a Zn-ribbon ,C,Orthology,COG1545,eggnog.embl.de,COG1545
+Rv1628c,Predicted nucleic-acid-binding protein containing a Zn-ribbon ,C,Orthology,COG1545,eggnog.embl.de,COG1545
+Rv3542c,Predicted nucleic-acid-binding protein containing a Zn-ribbon ,C,Orthology,COG1545,eggnog.embl.de,COG1545
+Rv0372c,"Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family ",F,Orthology,COG1975,eggnog.embl.de,COG1975
+Rv0376c,"Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family ",F,Orthology,COG1975,eggnog.embl.de,COG1975
+Rv3207c,Metallopeptidase ,F,Orthology,NOG05187,eggnog.embl.de,NOG05187
+Rv0597c,Predicted ATPase (AAA+ superfamily) ,F,Orthology,COG1373,eggnog.embl.de,COG1373
+Rv2008c,Predicted ATPase (AAA+ superfamily) ,F,Orthology,COG1373,eggnog.embl.de,COG1373
+Rv3294c,Predicted ATPase (AAA+ superfamily) ,F,Orthology,COG1373,eggnog.embl.de,COG1373
+Rv3179,Predicted ATPase (AAA+ superfamily) ,F,Orthology,COG1373,eggnog.embl.de,COG1373
+Rv2024c,Predicted helicase ,H,Orthology,COG4889,eggnog.embl.de,COG4889
+Rv2926c,"Predicted metal-binding, possibly nucleic acid-binding protein ",C,Orthology,COG1399,eggnog.embl.de,COG1399
+Rv2491,Predicted Rossmann fold nucleotide-binding protein ,C,Orthology,COG1611,eggnog.embl.de,COG1611
+Rv1205,Predicted Rossmann fold nucleotide-binding protein ,C,Orthology,COG1611,eggnog.embl.de,COG1611
+Rv2365c,Protein involved in pyrimidine metabolism  ,F,Orthology,NOG09497,eggnog.embl.de,NOG09497
+Rv2670c,Predicted ATPase ,F,Orthology,COG1485,eggnog.embl.de,COG1485
+Rv0047c,Predicted transcriptional regulators ,C,Orthology,COG1695,eggnog.embl.de,COG1695
+Rv3488,Predicted transcriptional regulators ,C,Orthology,COG1695,eggnog.embl.de,COG1695
+Rv1176c,Predicted transcriptional regulators ,C,Orthology,COG1695,eggnog.embl.de,COG1695
+Rv2816c,Uncharacterized protein predicted to be involved in DNA repair ,H,Orthology,COG1343,eggnog.embl.de,COG1343
+Rv2420c,Uncharacterized homolog of plant Iojap protein  ,C,Orthology,COG0799,eggnog.embl.de,COG0799
+Rv0104,cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases ,C,Orthology,COG0664,eggnog.embl.de,COG0664
+Rv1341,Xanthosine triphosphate pyrophosphatase ,F,Orthology,COG0127,eggnog.embl.de,COG0127
+Rv0749A,Protein involved in DNA integration ,G,Orthology,NOG06353,eggnog.embl.de,NOG06353
+Rv2807,Protein involved in DNA integration ,G,Orthology,NOG06353,eggnog.embl.de,NOG06353
+Rv2426c,MoxR-like ATPases ,F,Orthology,COG0714,eggnog.embl.de,COG0714
+Rv3242c,Predicted amidophosphoribosyltransferases ,F,Orthology,COG1040,eggnog.embl.de,COG1040
+Rv1680,"ABC-type phosphate/phosphonate transport system, periplasmic component ",A,Orthology,COG3221,eggnog.embl.de,COG3221
+Rv0500A,DNA binding protein ,C,Orthology,NOG07380,eggnog.embl.de,NOG07380
+Rv0678,Transcriptional regulator protein ,C,Orthology,NOG39523,eggnog.embl.de,NOG39523
+Rv3813c,Predicted hydrolases of the HAD superfamily ,F,Orthology,COG0561,eggnog.embl.de,COG0561
+Rv2777c,Predicted metal-dependent hydrolase ,F,Orthology,COG3687,eggnog.embl.de,COG3687
+Rv3786c,Membrane proteins related to metalloendopeptidases ,F,Orthology,COG0739,eggnog.embl.de,COG0739
+Rv0950c,Membrane proteins related to metalloendopeptidases ,F,Orthology,COG0739,eggnog.embl.de,COG0739
+Rv2891,Membrane proteins related to metalloendopeptidases ,F,Orthology,COG0739,eggnog.embl.de,COG0739
+Rv2915c,Imidazolonepropionase and related amidohydrolases ,F,Orthology,COG1228,eggnog.embl.de,COG1228
+Rv0074,Imidazolonepropionase and related amidohydrolases ,F,Orthology,COG1228,eggnog.embl.de,COG1228
+Rv2823c,Predicted hydrolase of the HD superfamily (permuted catalytic motifs) ,F,Orthology,COG1353,eggnog.embl.de,COG1353
+Rv0760c,Nuclear transport factor 2 ,C,Orthology,NOG83662,eggnog.embl.de,NOG83662
+Rv1225c,Predicted sugar phosphatases of the HAD superfamily ,F,Orthology,COG0647,eggnog.embl.de,COG0647
+Rv2854,Lysophospholipase ,E,Orthology,COG2267,eggnog.embl.de,COG2267
+Rv3054c,Predicted flavoprotein ,F,Orthology,COG0431,eggnog.embl.de,COG0431
+Rv2307c,Hydrolases of the alpha/beta superfamily ,F,Orthology,COG1073,eggnog.embl.de,COG1073
+Rv1156,Base excision DNA repair protein ,H,Orthology,NOG11845,eggnog.embl.de,NOG11845
+Rv1716,Predicted metal-dependent hydrolase ,F,Orthology,COG1878,eggnog.embl.de,COG1878
+Rv3860,ATPases involved in chromosome partitioning ,A,Orthology,COG0455,eggnog.embl.de,COG0455
+Rv0530,ATPases involved in chromosome partitioning ,A,Orthology,COG0455,eggnog.embl.de,COG0455
+Rv2787,ATPases involved in chromosome partitioning ,A,Orthology,COG0455,eggnog.embl.de,COG0455
+Rv1268c,Cysteine-Type endopeptidase ,F,Orthology,NOG41799,eggnog.embl.de,NOG41799
+Rv3181c,Antitoxin of toxin-antitoxin stability system ,B,Orthology,COG4118,eggnog.embl.de,COG4118
+Rv3592,Uncharacterized enzyme involved in biosynthesis of extracellular polysaccharides ,A,Orthology,COG2329,eggnog.embl.de,COG2329
+Rv3362c,Predicted GTPase ,F,Orthology,COG2229,eggnog.embl.de,COG2229
+Rv0269c,Predicted eukaryotic-type DNA primase ,H,Orthology,COG3285,eggnog.embl.de,COG3285
+Rv3730c,Predicted eukaryotic-type DNA primase ,H,Orthology,COG3285,eggnog.embl.de,COG3285
+Rv3369,FMN binding protein ,F,Orthology,NOG81456,eggnog.embl.de,NOG81456
+Rv3519,Carboxy-Lyase ,F,Orthology,NOG45062,eggnog.embl.de,NOG45062
+Rv3234c,Acyltransferase ,F,Orthology,NOG09285,eggnog.embl.de,NOG09285
+Rv3233c,Acyltransferase ,F,Orthology,NOG09285,eggnog.embl.de,NOG09285
+Rv0221,Acyltransferase ,F,Orthology,NOG09285,eggnog.embl.de,NOG09285
+Rv0449c,Predicted NAD/FAD-binding protein ,F,Orthology,COG2907,eggnog.embl.de,COG2907
+Rv0496,Exopolyphosphatase ,A,Orthology,COG0248,eggnog.embl.de,COG0248
+Rv2733c,2-methylthioadenine synthetase ,F,Orthology,COG0621,eggnog.embl.de,COG0621
+Rv2267c,Sulfotransferase ,F,Orthology,NOG43921,eggnog.embl.de,NOG43921
+Rv1421,Predicted P-loop-containing kinase ,F,Orthology,COG1660,eggnog.embl.de,COG1660
+Rv2689c,SAM-dependent methyltransferases related to tRNA (uracil-5-)-methyltransferase ,F,Orthology,COG2265,eggnog.embl.de,COG2265
+Rv0546c,Lactoylglutathione lyase and related lyases ,F,Orthology,COG0346,eggnog.embl.de,COG0346
+Rv2641,Lactoylglutathione lyase and related lyases ,F,Orthology,COG0346,eggnog.embl.de,COG0346
+Rv1322A,Lactoylglutathione lyase and related lyases ,F,Orthology,COG0346,eggnog.embl.de,COG0346
+Rv0274,Lactoylglutathione lyase and related lyases ,F,Orthology,COG0346,eggnog.embl.de,COG0346
+Rv1638A,"Phage shock protein A (IM30), suppresses sigma54-dependent transcription ",G,Orthology,COG1842,eggnog.embl.de,COG1842
+Rv2744c,"Phage shock protein A (IM30), suppresses sigma54-dependent transcription ",G,Orthology,COG1842,eggnog.embl.de,COG1842
+Rv1835c,Predicted acyl esterases ,F,Orthology,COG2936,eggnog.embl.de,COG2936
+Rv1215c,Predicted acyl esterases ,F,Orthology,COG2936,eggnog.embl.de,COG2936
+Rv1357c,FOG- EAL domain ,C,Orthology,COG2200,eggnog.embl.de,COG2200
+Rv2717c,UPF0678 fatty acid-binding protein-like protein ,E,Orthology,NOG83928,eggnog.embl.de,NOG83928
+Rv3920c,Predicted RNA-binding protein ,C,Orthology,COG1847,eggnog.embl.de,COG1847
+Rv1043c,"Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain ",F,Orthology,COG0265,eggnog.embl.de,COG0265
+Rv0813c,UPF0678 fatty acid-binding protein-like protein ,E,Orthology,NOG05976,eggnog.embl.de,NOG05976
+Rv2820c,Uncharacterized protein predicted to be involved in DNA repair (RAMP superfamily) ,H,Orthology,COG1567,eggnog.embl.de,COG1567
+Rv3364c,Uncharacterized distant relative of homeotic protein bithoraxoid ,A,Orthology,COG2018,eggnog.embl.de,COG2018
+Rv1290c,Predicted membrane protein ,A,Orthology,COG4325,eggnog.embl.de,COG4325
+Rv1069c,Predicted membrane protein ,A,Orthology,COG4425,eggnog.embl.de,COG4425
+Rv1697,Predicted membrane protein      ,A,Orthology,COG4825,eggnog.embl.de,COG4825
+Rv3008,Uncharacterized membrane protein ,A,Orthology,COG1285,eggnog.embl.de,COG1285
+Rv3486,Predicted membrane protein ,A,Orthology,COG2259 ,eggnog.embl.de,COG2259 
+Rv3005c,Predicted membrane protein ,A,Orthology,COG2259 ,eggnog.embl.de,COG2259 
+Rv2230c,DNA-associated processes,C,fusion and operon,COG0327,string.embl.de,COG0327
+Rv2567, proteasome,F,fusion and operon,COG2307,string.embl.de,COG2307
+Rv2410c, proteasome,F,fusion and operon,COG2307,string.embl.de,COG2307
+Rv2411c,proteasome,F,fusion and operon,COG2308,string.embl.de,COG2308
+Rv3195,secretion,A,operon,COG5282,string.embl.de,COG5282
+Rv0918, link to N-acetyltransferase activity,F,operon,COG4453,string.embl.de,COG4453
+Rv2842c, transcription/translation ,C,operon,COG0779,string.embl.de,COG0779
+Rv2149c,cell division,A,operon,COG1496,string.embl.de,COG1496
+Rv2147c,cell division,A,operon,COG1799,string.embl.de,COG1799
+Rv3071,membrane associated process,A,operon,COG1993,string.embl.de,COG1993
+Rv3678A, translation initiation ,H,operon,NOG08630,string.embl.de,NOG08630
+Rv2166c,cell division,A,operon,COG2001,string.embl.de,COG2001
+Rv2680,DNA/RNA-associated process ,C,operon,NOG05519,string.embl.de,NOG05519
+Rv3716c, DNA-repair ,H,operon,COG0718,string.embl.de,COG0718
+Rv1507c,cell wall biosynthesis ,A,operon,NOG14456,string.embl.de,NOG14456
+Rv1278,DNA-repair ,H,operon,NOG47502,string.embl.de,NOG47502
+Rv3031, linked to sugar transferase activity,F,operon,COG1543,string.embl.de,COG1543
+Rv0540,cell wall biogenesis,A,operon,COG3222,string.embl.de,COG3222
+Rv2102, related to DNA/RNA-associated processes    ,C,operon,COG4279,string.embl.de,COG4279
+Rv0049,membrane associated process ,A,operon,NOG07408,string.embl.de,NOG07408
+Rv2696c,nucleotide metabolism ,C,operon,NOG06579,string.embl.de,NOG06579
+Rv3603c,folic acid-containing compound biosynthetic process,F,operon,COG5495,string.embl.de,COG5495
+Rv0459, related to oxidoreductase activity,F,operon,COG3564,string.embl.de,COG3564
+Rv0991c,biosynthetic process ,F,operon,COG2331,string.embl.de,COG2331
+Rv2239c,cell redox homeostasis ,F,operon,NOG06580,string.embl.de,NOG06580
+Rv2676c, porphyrin biosynthetic process  ,C,operon,COG3253,string.embl.de,COG3253
+Rv1718, lipid metabolism   ,E,operon,COG3246,string.embl.de,COG3246
+Rv3701c,related to cytosine deaminase activity ,F,operon,COG4301,string.embl.de,COG4301
+Rv3268,regulated by transcription,C,operon,NOG08644,string.embl.de,NOG08644
+Rv1422,coenzyme biosynthetic process  ,F,operon,COG0391,string.embl.de,COG0391
+Rv3541c, DNA/RNA-associated process ,C,operon,NOG41754,string.embl.de,NOG41754
+Rv2822c,DNA-repair,H,operon,NOG77201,string.embl.de,NOG77201
+Rv2818c,DNA-repair,H,operon,NOG75450,string.embl.de,NOG75450
+Rv2824c,DNA-repair,H,operon,COG5551,string.embl.de,COG5551
+Rv1486c,membrane associated process ,A,operon,NOG09974,string.embl.de,NOG09974
+Rv3647c,DNA-associated process ,C,operon,NOG10044,string.embl.de,NOG10044
+Rv1376,cell wall processes  ,A,operon,COG3482,string.embl.de,COG3482
+Rv0990c,transport ,A,operon,NOG15380,string.embl.de,NOG15380
+Rv3626c, proteolysis/nucleotide biosynthesis   ,F,operon,COG5282,string.embl.de,COG5282
+Rv0059,DNA-associated process ,C,operon,NOG44032,string.embl.de,NOG44032
+Rv2749,linked to less specific oxidoreductase activity   ,F,operon,COG1359,string.embl.de,COG1359
+Rv3363c,link to nucleotide-binding process ,C,operon,NOG40924,string.embl.de,NOG40924
+Rv0207c,membrane associated process ,A,operon,NOG05977,string.embl.de,NOG05977
+Rv2514c, regulated by general enzymatic activity ,F,operon,NOG08593,string.embl.de,NOG08593
+Rv1025, cell division,A,operon,COG1507,string.embl.de,COG1507
+Rv3703c,linked to arylsulfatase activity  (double)glutathione biosynthetic process   ,F,operon,COG1262,string.embl.de,COG1262
+Rv2179c, aromatic amino acid family biosynthetic process ,F,operon,NOG05521,string.embl.de,NOG05521
+Rv3909,cell wall ,A,operon,NOG06587,string.embl.de,NOG06587
+Rv3196,secretion ,A,operon,NOG45063,string.embl.de,NOG45063
+Rv0448c,lipid biosynthetic process  ,E,operon,COG3496,string.embl.de,COG3496
+Rv1829,phospholipid biosynthetic process ,E,operon,COG1259,string.embl.de,COG1259
+Rv1823,membrane associated process ,A,operon,COG3879,string.embl.de,COG3879
+Rv1825,membrane associated process ,A,operon,COG3879,string.embl.de,COG3879
+Rv0367c,signal transduction ,C,operon,NOG145257,string.embl.de,NOG145257
+Rv0976c, related to synthesis and oxidation of fatty acids ,E,operon,NOG05011,string.embl.de,NOG05011
+Rv3446c,cell wall and cell processes ,A,operon,NOG26793,string.embl.de,NOG26793
+Rv3656c,secretion ,A,operon,NOG122700,string.embl.de,NOG122700
+Rv0863,DNA-associated process ,C,operon,NOG39946,string.embl.de,NOG39946
+Rv2172c,membrane associated process ,A,operon,NOG11025,string.embl.de,NOG11025
+Rv3205c,membrane associated process ,A,operon,NOG06567,string.embl.de,NOG06567
+Rv3836, cell wall processes,A,operon,COG3824,string.embl.de,COG3824
+Rv0495c,DNA-associated process ,C,operon,NOG05461,string.embl.de,NOG05461
+Rv3258c,sugar metabolism ,C,operon,NOG07383,string.embl.de,NOG07383
+Rv1083,membrane associated process ,A,operon,NOG13953,string.embl.de,NOG13953
+Rv2598,membrane associated process ,A,operon,NOG45398,string.embl.de,NOG45398
+Rv3131,diacylglycerol O-acyltransferase activity ,F,operon,NOG42637,string.embl.de,NOG42637
+Rv3231c,link to acyltransferase activity ,F,operon,NOG07384,string.embl.de,NOG07384
+Rv3235,link to acyltransferase activity ,F,operon,NOG39227,string.embl.de,NOG39227
+Rv1976c,response to host immune response ,B,operon,NOG09547,string.embl.de,NOG09547
+Rv0177,membrane associated process ,A,operon,NOG11769,string.embl.de,NOG11769
+Rv0877,cell wall processes ,A,operon,NOG06304,string.embl.de,NOG06304
+Rv0100,lipid metabolism ,E,operon,NOG14036,string.embl.de,NOG14036
+Rv1893,membrane associated process ,A,operon,NOG14396,string.embl.de,NOG14396
+Rv0430, tuberculin secretion,B,operon,NOG08694,string.embl.de,NOG08694
+Rv3655c,membrane associated process ,A,operon,NOG16944,string.embl.de,NOG16944
+Rv1794,cell wall processes ,A,operon,NOG10089,string.embl.de,NOG10089
+Rv2183c,link to cyclase activity,F,operon,NOG12777,string.embl.de,NOG12777
+Rv2186c,link to cyclase activity,F,operon,NOG12155,string.embl.de,NOG12155
+Rv1871c,DNA-repair ,H,operon,NOG70313,string.embl.de,NOG70313
+Rv2033c,intermediary metabolism and respiration ,F,operon,NOG05518,string.embl.de,NOG05518
+Rv0857,link to Polyketide_cyclase/dehydratase. ,E,operon,NOG40843,string.embl.de,NOG40843
+Rv3691,membrane associated process ,A,operon,NOG12774,string.embl.de,NOG12774
+Rv0543c,membrane associated process ,A,operon,NOG08636,string.embl.de,NOG08636
+Rv1209, DNA-associated process ,C,operon,NOG42341,string.embl.de,NOG42341
+Rv1887,linked to resuscitation promoting factor,B,operon,NOG48004,string.embl.de,NOG48004
+Rv2137c,secretion/lipid metabolism ,A,operon,NOG13232,string.embl.de,NOG13232
+Rv1891,membrane associated process ,A,operon,NOG11895,string.embl.de,NOG11895
+Rv3288c,membrane associated process ,A,operon,NOG44169,string.embl.de,NOG44169
+Rv1073,membrane associated process ,A,operon,NOG44549,string.embl.de,NOG44549
+Rv3440c,membrane associated process ,A,operon,NOG46147,string.embl.de,NOG46147
+Rv3165c,membrane associated process ,A,operon,NOG39320,string.embl.de,NOG39320
+Rv1874,link to sulfotransferase activity ,F,operon,NOG41202,string.embl.de,NOG41202
+Rv3531c,link to sulfotransferase activity ,F,operon,NOG41005,string.embl.de,NOG41005
+Rv0201c,membrane associated process ,A,operon,NOG11925,string.embl.de,NOG11925
+Rv3438,membrane associated process ,A,operon,NOG05515,string.embl.de,NOG05515
+Rv2405,lipid metabolism ,E,operon,NOG07402,string.embl.de,NOG07402
+Rv0443, link to FMN-binding protein,F,operon,NOG12504,string.embl.de,NOG12504
+Rv0460,membrane associated process ,A,operon,NOG47585,string.embl.de,NOG47585
+Rv0679c,membrane associated process ,A,operon,NOG40849,string.embl.de,NOG40849
+Rv2797c, lipid metabolism ,E,operon,NOG134387,string.embl.de,NOG134387
+Rv0964c,membrane associated process ,A,operon,NOG76315,string.embl.de,NOG76315
+Rv0349,DNA-associated process ,C,operon,NOG81154,string.embl.de,NOG81154
+Rv3747, link to PE family ,C,operon,NOG67535,string.embl.de,NOG67535
+Rv2083,membrane associated process ,A,operon,NOG41263,string.embl.de,NOG41263
+Rv2082, cell wall and cell processes ,A,operon,NOG40188,string.embl.de,NOG40188
+Rv0762c, intracellular transport ,C,operon,NOG44212,string.embl.de,NOG44212
+Rv0481c,membrane associated process ,A,operon,NOG43954,string.embl.de,NOG43954
+Rv2808,membrane associated process ,A,operon,NOG79550,string.embl.de,NOG79550
+Rv2114,membrane associated process ,A,operon,NOG14507,string.embl.de,NOG14507
+Rv1691, membrane associated transport process ,A,operon,NOG05971,string.embl.de,NOG05971
+Rv1157c,"cell wall and cell processes, Structural constituent of cell wall protein, alanine and proline rich protein",A,operon,NOG07389,string.embl.de,NOG07389
+Rv3912,"cell wall and cell processes, alanine rich protein",A,operon,NOG47425,string.embl.de,NOG47425
+Rv2707,"link to transcription regulation, transmembrane alanine and leucine rich protein",C,operon,COG1295,string.embl.de,COG1295
+Rv3361c,"cell wall and cell processes , Uncharacterized low-complexity proteins",A,operon,COG1357,string.embl.de,COG1357
+Rv3212," intermediary metabolism and respiration , Valine rich protein",F,operon,NOG05967,string.embl.de,NOG05967
+Rv3439c,"cell wall and cell processes , Alanine and proline rich protein",A,operon,NOG41540,string.embl.de,NOG41540
+Rv2619c,Protein containing double-stranded beta-helix domain,F,orthology,COG1917,eggnog.embl.de,COG1917
+Rv1078,"cell wall and cell processes , Predicted membrane protein/domain, proline-rich antigen homolog",A,operon,COG1714,string.embl.de,COG1714
+Rv1192,Protein involved in GPI anchor metabolic process,A,orthology,NOG26817,eggnog.embl.de,NOG26817
