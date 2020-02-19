@@ -1,0 +1,1 @@
+java -jar /local/webin-cli-2.2.0.jar -validate -context genome -manifest=submission.manifest -userName damien.farrell@ucd.ie -password ***

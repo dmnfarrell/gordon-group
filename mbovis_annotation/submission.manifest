@@ -1,0 +1,9 @@
+STUDY   ERP016893
+SAMPLE   ERS1465382
+ASSEMBLYNAME     ASM19583v2
+ASSEMBLY_TYPE   isolate
+COVERAGE   86
+PROGRAM   mummer/soapdenovo
+PLATFORM     MiSeq/PacBio RSII
+FLATFILE	 LT708304_updated_aug19.embl.gz
+CHROMOSOME_LIST	chromosome.list.gz
