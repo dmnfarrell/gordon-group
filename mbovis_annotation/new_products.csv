@@ -1,0 +1,612 @@
+locus_tag,gene,Annotation,product
+BQ2027_MB0019c,fhab,conserved protein with fha domainc fhab,FHA-domain-containing protein
+BQ2027_MB0035,,conserved hypothetical protein,Ketosteroid isomerase-related protein
+BQ2027_MB0039,,conserved protein,UPF0301 protein YqgE
+BQ2027_MB0048c,,conserved protein,"Transcriptional regulator, PadR family"
+BQ2027_MB0053,,conserved protein,Intracellular protease
+BQ2027_MB0061,,conserved hypothetical protein,ADP-ribose 1-phosphate phophatase related protein
+BQ2027_MB0076,,conserved protein,Xaa-Pro dipeptidase (EC 3.4.13.9)
+BQ2027_MB0082,,unknown protein,Ribosome hibernation promoting factor Hpf
+BQ2027_MB0103,,conserved hypothetical protein,pp-binding family protein Rv0100
+BQ2027_MB0109,,conserved hypothetical protein,"Metal chaperone, involved in Zn homeostasis"
+BQ2027_MB0126c,,conserved protein,Pyridoxamine 5-phosphate oxidase 
+BQ2027_MB0145,,conserved protein,COGs COG2343
+BQ2027_MB0146c,,unknown protein,Ketosteroid isomerase-related protein  
+BQ2027_MB0147,,conserved hypothetical protein,3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase
+BQ2027_MB0168,,conserved protein,Propionyl-CoA thioesterase activity
+BQ2027_MB0169,TB18.5,conserved protein tb18.5,Cyclase/dehydrase family protein
+BQ2027_MB0187c,,conserved hypothetical protein,Pirin
+BQ2027_MB0196,,conserved protein,Metal-sensitive transcriptional repressor
+BQ2027_MB0230,,possible conserved protein,Glycosyltransferase
+BQ2027_MB0269c,,conserved hypothetical protein,Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)
+BQ2027_MB0270c,,conserved hypothetical protein,Allophanate hydrolase 2 subunit 1 (EC 3.5.1.54)
+BQ2027_MB0274c,,hypothetical protein,Antitoxin of toxin-antitoxin stability system 
+BQ2027_MB0275c,,conserved hypothetical protein,ATP-dependent DNA ligase (EC 6.5.1.1)
+BQ2027_MB0280,,conserved protein,Glyoxalase family protein
+BQ2027_MB0295,esxG,esat-6 like protein esxg conserved protein tb9.8,ESAT-6-like protein EsxG
+BQ2027_MB0303c,,conserved protein,Sulfotransferase
+BQ2027_MB0306,,hypothetical protein,Programmed cell death antitoxin YdcD
+BQ2027_MB0318c,,conserved protein,Bile acid 7-alpha dehydratase BaiE (EC 4.2.1.106)
+BQ2027_MB0337c,,hypothetical protein,"Transcriptional regulator, AcrR family"
+BQ2027_MB0363c,,conserved protein,Thioesterase superfamily protein Rv0356c
+BQ2027_MB0372c,,conserved protein,fructose-bisphosphate aldolase family protein
+BQ2027_MB0373c,,conserved hypothetical protein,Predicted kinase
+BQ2027_MB0374c,,hypothetical protein,signal transduction 
+BQ2027_MB0378c,,conserved hypothetical protein,Molybdenum cofactor cytidylyltransferase (EC 2.7.7.76)
+BQ2027_MB0383c,,conserved hypothetical protein,"Xanthine and CO dehydrogenases maturation factor, XdhC/CoxF family"
+BQ2027_MB0396,,conserved protein,Rhodanese-related sulfurtransferase
+BQ2027_MB0429c,,conserved hypothetical protein,Predicted hydrolase of the alpha/beta-hydrolase fold 
+BQ2027_MB0438,,conserved hypothetical protein, tuberculin secretion
+BQ2027_MB0441,,conserved hypothetical protein,Carboxylate-amine ligase
+BQ2027_MB0449c,,hypothetical protein,FMN binding protein
+BQ2027_MB0451,,conserved protein, link to FMN-binding protein
+BQ2027_MB0457c,,conserved hypothetical protein,"Amine oxidase, flavin-containing"
+BQ2027_MB0463c,,conserved protein,putative membrane protein
+BQ2027_MB0468,,conserved hypothetical protein, related to oxidoreductase activity
+BQ2027_MB0475,,conserved protein,Acyl-ACP thioesterase
+BQ2027_MB0507,,conserved hypothetical protein,Exopolyphosphatase (EC 3.6.1.11)
+BQ2027_MB0509,,conserved hypothetical protein,"AP endonuclease, family protein 2"
+BQ2027_MB0510,,conserved hypothetical protein,TesB-like acyl-CoA thioesterase 3
+BQ2027_MB0512,,conserved protein,Excisionase-like protein SCO3328
+BQ2027_MB0514,,conserved protein,Phospholipid/glycerol acyltransferase
+BQ2027_MB0516c,,conserved protein,UPF0336 protein
+BQ2027_MB0520,,conserved hypothetical protein,Glutaredoxin-like domain-containing protein PA3033
+BQ2027_MB0538,,conserved protein,"Hypothetical, related to broad specificity phosphatases COG0406"
+BQ2027_MB0543,,conserved protein,ATPases involved in chromosome partitioning 
+BQ2027_MB0554,,conserved hypothetical protein,cell wall biogenesis
+BQ2027_MB0560c,,conserved protein,Lactoylglutathione lyase and related lyases 
+BQ2027_MB0567,,conserved protein,Exoenzymes regulatory protein AepA precursor
+BQ2027_MB0581c,,conserved protein,UPF0234 protein Yitk
+BQ2027_MB0586c,,conserved protein,Phosphoribosyl transferase domain protein
+BQ2027_MB0592,TB27.3,conserved protein tb27.3,27 kDa antigen Cfp30B
+BQ2027_MB0613c,,conserved hypothetical protein,ATPase
+BQ2027_MB0631,,conserved hypothetical protein,putative membrane protein
+BQ2027_MB0652,,unknown protein,Transcription regulator of the Arc/MetJ class 
+BQ2027_MB0693,,conserved hypothetical protein,"Transcriptional regulator, PaaX family"
+BQ2027_MB0697,,conserved protein,MarR family transcriptional regulator associated with MmpL5/MmpS5 efflux system
+BQ2027_MB0711,,conserved hypothetical protein,Mycofactocin binding protein MftB
+BQ2027_MB0714,,conserved hypothetical protein,Cyclic amid hydrolase in mycofactocin cluster
+BQ2027_MB0733,,conserved protein,Sulfatase modifying factor 1 precursor (C-alpha-formyglycine- generating enzyme 1)
+BQ2027_MB0746c,,conserved hypothetical protein,O-methyltransferase
+BQ2027_MB0771c,,hypothetical protein fragment,Protein involved in DNA integration 
+BQ2027_MB0782c,,conserved hypothetical protein,HIT family protein
+BQ2027_MB0783c,,conserved protein,Nuclear transport factor 2 
+BQ2027_MB0785c,,conserved hypothetical protein, intracellular transport 
+BQ2027_MB0790c,,conserved hypothetical protein,"Transcriptional regulator, AcrR family"
+BQ2027_MB0798,,conserved hypothetical protein,"Transcriptional regulator, AcrR family"
+BQ2027_MB0806,,conserved hypothetical protein,Predicted deacetylase
+BQ2027_MB0809c,,conserved protein,Predicted Zn-dependent hydrolases of the beta-lactamase fold
+BQ2027_MB0811,,conserved protein,"Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)"
+BQ2027_MB0814c,,hypothetical protein,"Transglutaminase-like enzymes, putative cysteine proteases"
+BQ2027_MB0815c,,conserved protein,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"
+BQ2027_MB0822c,,conserved protein,"Predicted dye-decolorizing peroxidase (DyP), encapsulated subgroup"
+BQ2027_MB0824,,conserved protein,Glyoxalase family protein
+BQ2027_MB0827,,conserved hypothetical protein,Integral membrane protein
+BQ2027_MB0834c,,conserved protein,tRNA-modifying protein YgfZ
+BQ2027_MB0836c,,conserved protein,DUF1794
+BQ2027_MB0837c,sseC2,conserved protein ssec2,Sulfur metabolism protein SseC
+BQ2027_MB0848c,,conserved protein,"Transcriptional regulator, AcrR family"
+BQ2027_MB0862,,conserved hypothetical protein,SAM-dependent methyltransferase
+BQ2027_MB0877,,conserved protein,Cyclase/Dehydrase 
+BQ2027_MB0880,,conserved hypothetical protein,link to Polyketide_cyclase/dehydratase. 
+BQ2027_MB0909,,conserved hypothetical protein,Putative transmembrane protein
+BQ2027_MB0911c,,conserved hypothetical protein,Glyoxalase/bleomycin resistance protein/dioxygenase
+BQ2027_MB0930,,conserved protein,Outer membrane protein romA
+BQ2027_MB0934,,conserved hypothetical protein,Toxin Rv0910
+BQ2027_MB0935,,conserved protein,Putative hydroxylase
+BQ2027_MB0947c,,conserved hypothetical protein,Phage-related replication protein
+BQ2027_MB0949c,,conserved hypothetical protein,Oxidoreductase
+BQ2027_MB0966c,,conserved hypothetical protein,Protein serine/threonine kinase 
+BQ2027_MB0975c,,conserved hypothetical protein,Phage peptidoglycan binding endopeptidase
+BQ2027_MB0984,,conserved hypothetical protein,FIG019045: long form Mg-chelase associated protein with vWA domain
+BQ2027_MB1001c,,conserved hypothetical protein,Terpene utilization protein AtuA
+BQ2027_MB1025,,conserved hypothetical protein,"Protein lysine acetyltransferase Pat (EC 2.3.1.-), Mycobacterial type"
+BQ2027_MB1027c,,conserved hypothetical protein,Alkylated DNA repair protein AlkB
+BQ2027_MB1030,,conserved protein,16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)
+BQ2027_MB1049,,conserved protein,Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)
+BQ2027_MB1053,,conserved protein,FIG004853: possible toxin to DivIC
+BQ2027_MB1054,,conserved protein,Exopolyphosphatase (EC 3.6.1.11)
+BQ2027_MB1073,,conserved hypothetical protein,Predicted transcriptional regulator 
+BQ2027_MB1082c,,hypothetical protein,Mobile element protein
+BQ2027_MB1088,,conserved protein,Oxidoreductase
+BQ2027_MB1090,,conserved protein,Glutamine amidotransferases class-II
+BQ2027_MB1091,,conserved hypothetical protein,"Phospholipase, patatin family protein"
+BQ2027_MB1092c,,conserved hypothetical protein,FIG00613342: Bacterial patatin-like phospholipase domain containing protein
+BQ2027_MB1094,,conserved hypothetical protein,Cysteine dioxygenase (EC 1.13.11.20)
+BQ2027_MB1095,,conserved hypothetical protein,"Rhodanese-related sulfurtransferase, 1 domain"
+BQ2027_MB1098c,,conserved protein,Predicted membrane protein (DUF2319)
+BQ2027_MB1116A,,conserved hypothetical protein,Undecaprenyl diphosphate synthase (EC 2.5.1.31)
+BQ2027_MB1141c,,conserved hypothetical protein,Rhomboid family protein
+BQ2027_MB1147c,,conserved hypothetical protein fragment,PE family protein
+BQ2027_MB1150c,,hypothetical protein,Adenylate cyclase (EC 4.6.1.1)
+BQ2027_MB1178,,conserved protein,SAM-dependent methyltransferase
+BQ2027_MB1179c,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB1187,,conserved protein,Base excision DNA repair protein 
+BQ2027_MB1189c,,conserved hypothetical ala-c pro-rich protein,Conserved alanine and proline rich protein
+BQ2027_MB1191c,,unknown protein,Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)
+BQ2027_MB1204,,conserved hypothetical protein,putative membrane protein
+BQ2027_MB1209c,,conserved hypothetical protein,"Transcriptional regulator, PadR family"
+BQ2027_MB1212c,,unknown protein,DNA or RNA helicases of superfamily II
+BQ2027_MB1222,,conserved hypothetical protein,"Hydrolase, alpha/beta fold family"
+BQ2027_MB1223,,conserved protein,Putative hydrolase
+BQ2027_MB1226c,,conserved protein,Possible regulatory protein Trx
+BQ2027_MB1235c,,hypothetical protein,"AAA-ATPase, domain of unknown function, and LuxR DNA-binding domain"
+BQ2027_MB1236c,,conserved hypothetical protein,"AAA-ATPase, domain of unknown function, and LuxR DNA-binding domain"
+BQ2027_MB1237,,conserved hypothetical protein,"Phosphoribohydrolase involved in Mycobacterial cytokinins production, homolog of plant cytokinin-activating enzyme LOG"
+BQ2027_MB1257c,,conserved hypothetical protein,"HAD-superfamily subfamily IIA hydrolase, hypothetical 2"
+BQ2027_MB1283c,,conserved hypothetical protein,Superfamily I DNA and RNA helicases and helicase subunits
+BQ2027_MB1292c,,conserved protein,AclJ
+BQ2027_MB1299c,,hypothetical protein,Cysteine-Type endopeptidase 
+BQ2027_MB1308,,conserved hypothetical protein,DNA double-strand break repair protein Mre11
+BQ2027_MB1309,,hypothetical protein,DNA double-strand break repair Rad50 ATPase
+BQ2027_MB1318,,conserved hypothetical protein,"Predicted transcriptional regulator of sulfate adenylyltransferase, Rrf2 family"
+BQ2027_MB1321c,,conserved protein,Predicted membrane protein 
+BQ2027_MB1335,,conserved hypothetical transmembrane protein,ATP synthase protein I
+BQ2027_MB1347c,,conserved protein,ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
+BQ2027_MB1356,,conserved hypothetical protein,ATP/GTP-binding protein
+BQ2027_MB1357c,,conserved protein,Methylmalonyl-CoA epimerase (EC 5.1.99.1) @ Ethylmalonyl-CoA epimerase
+BQ2027_MB1366,,conserved hypothetical protein,ATP-dependent Clp protease adaptor protein ClpS
+BQ2027_MB1374,,conserved protein,Metal-dependent hydrolases of the beta-lactamase superfamily III
+BQ2027_MB1376,,conserved protein,"Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)"
+BQ2027_MB1389c,,conserved hypothetical protein,Sensory box/GGDEF family protein
+BQ2027_MB1392c,,conserved hypothetical protein,Sensory box/GGDEF family protein
+BQ2027_MB1401,,hypothetical protein,GTP pyrophosphokinase (EC 2.7.6.5)
+BQ2027_MB1406,,conserved hypothetical protein,Naringenin-chalcone synthase (EC 2.3.1.74)
+BQ2027_MB1448,,conserved hypothetical protein,METAL-ACTIVATED PYRIDOXAL ENZYME
+BQ2027_MB1449,,conserved hypothetical protein,Predicted amino acid aldolase or racemase 
+BQ2027_MB1456,,conserved protein,RNase adapter protein RapZ
+BQ2027_MB1463c,,conserved hypothetical protein,Lysophospholipid Acyltransferases (LPLATs) of Glycerophospholipid Biosynthesis: MGAT-like
+BQ2027_MB1464,,conserved protein,Possible regulatory protein Trx
+BQ2027_MB1496,,conserved protein,Iron-sulfur cluster assembly protein SufB
+BQ2027_MB1501,,conserved protein,PaaD-like protein (DUF59) involved in Fe-S cluster assembly
+BQ2027_MB1524,,possible exported conserved protein,Protein QmcA (possibly involved in integral membrane quality control)
+BQ2027_MB1526,,conserved hypothetical protein,"Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)"
+BQ2027_MB1539,,conserved hypothetical protein,Protein involved in biosynthesis of mitomycin antibiotics/polyketide fumonisin 
+BQ2027_MB1543c,,conserved hypothetical protein,Putative transferase
+BQ2027_MB1560,,conserved protein,"putative oxidoreductase, nitronate monooxygenase family"
+BQ2027_MB1567,,conserved hypothetical protein member of yabo/ycec/yfii family,LSU rRNA pseudouridine(1911/1915/1917) synthase (EC 5.4.99.23)
+BQ2027_MB1584,,conserved protein,F420H(2)-dependent quinone reductase Rv1558 (Fqr) (EC 1.1.98.-)
+BQ2027_MB1592c,,conserved hypothetical membrane protein,O-antigen acetylase
+BQ2027_MB1619c,,conserved protein,Nudix-related transcriptional regulator NrtR
+BQ2027_MB1654c,,conserved protein,Predicted nucleic-acid-binding protein containing a Zn-ribbon 
+BQ2027_MB1663c,,conserved protein,MBL-fold metallo-hydrolase superfamily
+BQ2027_MB1665c,,conserved hypothetical protein,"Phage shock protein A (IM30), suppresses sigma54-dependent transcription "
+BQ2027_MB1700c,,conserved hypothetical protein,"Transglutaminase-like enzymes, putative cysteine proteases"
+BQ2027_MB1703,,unknown protein,Peroxiredoxin
+BQ2027_MB1710A,,conserved hypothetical protein,FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster
+BQ2027_MB1711c,,conserved hypothetical protein,"Transcriptional regulator, AcrR family"
+BQ2027_MB1717,,conserved hypothetical protein,TPR-repeat-containing protein
+BQ2027_MB1723,,conserved hypothetical protein,FIG005773: conserved membrane protein ML1361
+BQ2027_MB1728c,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB1733c,,conserved hypothetical protein,Permeases of the major facilitator superfamily 
+BQ2027_MB1738,,conserved hypothetical protein,LSU rRNA pseudouridine(2605) synthase (EC 5.4.99.22)
+BQ2027_MB1745,,conserved hypothetical protein,Cupin 2 barrel protein
+BQ2027_MB1754c,,conserved hypothetical protein,"Transcriptional regulator, HxlR family / Domain of unknown function"
+BQ2027_MB1761c,,conserved protein,Alkyl hydroperoxide reductase and/or thiol-specific antioxidant family (AhpC/TSA) protein
+BQ2027_MB1795A,,conserved protein,Metal-sensitive transcriptional repressor
+BQ2027_MB1796,,conserved protein,Possible carboxymuconolactone decarboxylase family protein (EC 4.1.1.44)
+BQ2027_MB1798,,conserved protein,"L-gulono-1,4-lactone oxidase (EC 1.1.3.8)"
+BQ2027_MB1799,,conserved protein,Putative aminopeptidase
+BQ2027_MB1822,,conserved protein,ESX-5 secretion-associated protein EspG5
+BQ2027_MB1843c,,conserved hypothetical protein,putative membrane protein
+BQ2027_MB1854,,conserved protein,UPF0749 protein Rv1823
+BQ2027_MB1855,,conserved hypothetical membrane protein,Small basic protein Sbp
+BQ2027_MB1856,,conserved protein,UPF0749 protein Rv1825
+BQ2027_MB1858,gara,conserved protein with fha domainc gara,Glycogen accumulation regulator GarA
+BQ2027_MB1859,,conserved protein,"Transcriptional regulator, MerR family"
+BQ2027_MB1861,,conserved hypothetical protein,Predicted transcriptional regulators 
+BQ2027_MB1866c,,conserved hypothetical protein,Predicted acyl esterases 
+BQ2027_MB1898,,conserved protein,Acetyl-CoA acetyltransferase
+BQ2027_MB1899,,conserved hypothetical protein,Phosphoenolpyruvate synthase (EC 2.7.9.2)
+BQ2027_MB1902c,,conserved protein,DNA-repair 
+BQ2027_MB1905,,unknown protein,link to sulfotransferase activity 
+BQ2027_MB1906,,conserved protein,probable F420-dependent enzyme
+BQ2027_MB1911,,conserved hypothetical protein,Amidohydrolase
+BQ2027_MB1919,,hypothetical protein,putative membrane protein
+BQ2027_MB1921c,,conserved hypothetical protein,O-methyltransferase
+BQ2027_MB1922c,,conserved hypothetical protein,O-methyltransferase
+BQ2027_MB1924,,conserved protein,putative membrane protein
+BQ2027_MB1927c,,conserved hypothetical protein,"putative oxidoreductase, nitronate monooxygenase family"
+BQ2027_MB1931c,,conserved hypothetical protein,O-methyltransferase
+BQ2027_MB1932c,,conserved hypothetical protein,D-aminoacyl-tRNA deacylase (EC 3.1.1.96)
+BQ2027_MB1933,,conserved hypothetical protein,ExtraCellular Mutant; Ecm15p
+BQ2027_MB1948,,conserved hypothetical protein,MBL-fold metallo-hydrolase superfamily
+BQ2027_MB1965c,,conserved hypothetical protein,Putative intracellular protease/amidase 
+BQ2027_MB1992,,hypothetical protein,SecB-like chaperone Rv1957
+BQ2027_MB1996,,hypothetical protein,"Helicase, C-terminal"
+BQ2027_MB2018,,unknown protein,Repair of Iron Centers di-iron protein
+BQ2027_MB2026c,,conserved hypothetical protein,Methyltransferase type 11
+BQ2027_MB2027c,,conserved protein,Predicted kinase 
+BQ2027_MB2031c,,conserved hypothetical protein,"ATPase, AAA family"
+BQ2027_MB2034c,,conserved hypothetical proteinc probable transcription repressor.,"Transcriptional regulator, MarR family"
+BQ2027_MB2035,,conserved hypothetical protein,Phage envelope protein 
+BQ2027_MB2042,,conserved protein,Putative ribonuclease VapC45 (RNase VapC45) (EC 3.1.-.-) (Toxin VapC45)
+BQ2027_MB2043c,,conserved hypothetical protein,Putative helicase
+BQ2027_MB2045c,,conserved protein,Toxin HigB
+BQ2027_MB2059c,,conserved hypothetical protein,intermediary metabolism and respiration 
+BQ2027_MB2061,,conserved hypothetical protein,Ligand-binding SRPBCC domain CalC
+BQ2027_MB2068c,,conserved protein,Nuclear transport factor 2
+BQ2027_MB2070c,,conserved hypothetical protein,putative membrane protein
+BQ2027_MB2073c,,conserved hypothetical protein,Phosphoenolpyruvate synthase (EC 2.7.9.2)
+BQ2027_MB2076,,conserved protein,RNA polymerase-binding protein RbpA
+BQ2027_MB2078c,,conserved protein,Exoenzymes regulatory protein AepA in lipid-linked oligosaccharide synthesis cluster
+BQ2027_MB2080,,conserved protein,Dienelactone hydrolase family protein
+BQ2027_MB2085,,conserved hypothetical protein,"Zinc ABC transporter, substrate-binding protein ZnuA"
+BQ2027_MB2087c,,conserved protein,F420-dependent enzyme Rv2061c
+BQ2027_MB2093c,,conserved protein,SAM-dependent methyltransferase
+BQ2027_MB2126,,conserved hypothetical protein,"13E12 repeat family protein, HNH endonuclease domain"
+BQ2027_MB2128,,conserved hypothetical protein,SWF/SNF family helicase Rv2102
+BQ2027_MB2141,,conserved hypothetical protein,YlxP-like protein
+BQ2027_MB2143,,conserved hypothetical protein,RecB family exonuclease
+BQ2027_MB2156,,conserved hypothetical protein,"Antitoxin to Toxin 1, PIN domain"
+BQ2027_MB2157c,,conserved hypothetical protein,Phosphatidylinositol 3- and 4-kinase
+BQ2027_MB2159c,,conserved protein,Phosphoglycerate mutase family protein
+BQ2027_MB2161c,,conserved hypothetical protein,secretion/lipid metabolism 
+BQ2027_MB2164c,TB18.6,conserved protein tb18.6,Phospholipid-binding protein
+BQ2027_MB2165c,,conserved protein,YscS-like amidohydrolase
+BQ2027_MB2167,,conserved hypothetical protein,Phosphoribosyl transferase domain protein
+BQ2027_MB2171c,,conserved hypothetical protein,"SepF, FtsZ-interacting protein related to cell division"
+BQ2027_MB2172c,,conserved protein,Pyridoxal phosphate-containing protein YggS
+BQ2027_MB2173c,yfiH,conserved protein yfih,FIG00003370: Multicopper polyphenol oxidase
+BQ2027_MB2183c,,conserved protein,Peroxidase 
+BQ2027_MB2185c,,conserved protein,Probable F420-dependent oxidoreductase family protein
+BQ2027_MB2189c,,conserved protein,16S rRNA (cytosine(1402)-N(4))-methyltransferase (EC 2.1.1.199)
+BQ2027_MB2190c,,conserved protein,Transcriptional regulator MraZ
+BQ2027_MB2201c,,conserved hypothetical protein,3'-5' exoribonuclease Rv2179c (EC 3.1.13.-)
+BQ2027_MB2205c,,conserved protein,link to cyclase activity
+BQ2027_MB2206c,,conserved hypothetical protein,anion-transporting ATPase
+BQ2027_MB2207c,TB16.3,conserved protein tb16.3,Cyclase/Dehydrase
+BQ2027_MB2208c,,conserved hypothetical protein,link to cyclase activity
+BQ2027_MB2213c,,conserved hypothetical protein,Cell wall-associated hydrolases (invasion-associated proteins)
+BQ2027_MB2227c,,conserved protein,Iron-sulfur cluster insertion protein SCO2161
+BQ2027_MB2228c,,conserved hypothetical protein,Glycerate kinase (EC 2.7.1.31)
+BQ2027_MB2239,,conserved protein,Cell division inhibitor SulA
+BQ2027_MB2255c,,conserved protein,GTP cyclohydrolase 1 type 2 homolog YbgI
+BQ2027_MB2263c,,conserved hypothetical protein,cell redox homeostasis 
+BQ2027_MB2266,,conserved hypothetical protein,"Transcriptional regulator, CdaR-family"
+BQ2027_MB2281c,,conserved protein,Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+BQ2027_MB2284,,conserved hypothetical protein,Putative hydrolase in cluster with formaldehyde/S-nitrosomycothiol reductase MscR
+BQ2027_MB2287c,,conserved hypothetical proline rich protein,FIG00821990: molecular chaperone
+BQ2027_MB2290c,,conserved hypothetical protein,Sulfotransferase 
+BQ2027_MB2298,,conserved hypothetical protein,Cyclo(L-tyrosyl-L-tyrosyl) synthase (EC 2.3.2.21)
+BQ2027_MB2317,,conserved hypothetical protein,Colicin E2 tolerance protein CbrC-like protein
+BQ2027_MB2320,,conserved protein,Aldo/keto reductase
+BQ2027_MB2322c,,conserved protein,MBL-fold metallo-hydrolase superfamily
+BQ2027_MB2341c,,conserved protein,"TldE/PmbA family protein, Actinobacterial subgroup"
+BQ2027_MB2342c,,conserved protein,"TldD family protein, Actinobacterial subgroup"
+BQ2027_MB2352c,,conserved hypothetical protein,Transmembrane component of energizing module of ECF transporters in Mycobacteria
+BQ2027_MB2354,,conserved protein,"Transcriptional regulator Rv2327, MarR family"
+BQ2027_MB2358,,hypothetical protein,Assimilatory nitrate reductase large subunit (EC 1.7.99.4)
+BQ2027_MB2386c,,conserved hypothetical protein,Protein involved in pyrimidine metabolism  
+BQ2027_MB2388c,,conserved hypothetical protein,"Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly"
+BQ2027_MB2391c,,conserved hypothetical protein,Possible regulatory protein Trx
+BQ2027_MB2393c,,conserved hypothetical protein,16S rRNA (uracil(1498)-N(3))-methyltransferase (EC 2.1.1.193)
+BQ2027_MB2396,,conserved hypothetical protein,Transcription regulator of the Arc/MetJ class 
+BQ2027_MB2408,,conserved protein,putative sodium-dependent bicarbonate transporter
+BQ2027_MB2425,,conserved protein,Trehalase (EC 3.2.1.28)
+BQ2027_MB2428,,conserved protein,RNA 3'-terminal phosphate cyclase (EC 6.5.1.4)
+BQ2027_MB2429c,,conserved protein,CBS domain protein
+BQ2027_MB2432c,,conserved protein,"Protein containing transglutaminase-like domain, putative cysteine protease"
+BQ2027_MB2433c,,conserved protein,Protein containing domains DUF403
+BQ2027_MB2434c,,conserved hypothetical protein,"Protein containing domains DUF404, DUF407"
+BQ2027_MB2436c,,conserved hypothetical protein,DNA polymerase III delta subunit (EC 2.7.7.7)
+BQ2027_MB2440c,,conserved protein,DegV family protein
+BQ2027_MB2441c,,unknown protein,Diglucosylglycerate octanoyltransferase (DGG octanoyltransferase) (EC 2.3.1.273)
+BQ2027_MB2443c,,conserved hypothetical protein,Ribosomal silencing factor RsfA
+BQ2027_MB2446,,hypothetical protein,SAM-dependent methyltransferase
+BQ2027_MB2449c,,conserved hypothetical protein,Carbon monoxide oxidation accessory protein CoxE
+BQ2027_MB2476c,,conserved protein,putative membrane protein
+BQ2027_MB2493c,,conserved protein,Protein disulfide oxidoreductase
+BQ2027_MB2502c,,conserved protein,Predicted thioesterase 
+BQ2027_MB2505c,,conserved hypothetical protein,Single-stranded DNA-binding protein
+BQ2027_MB2519,,conserved hypothetical protein,Rossmann-fold nucleotide-binding protein
+BQ2027_MB2538c,,conserved protein,Predicted ATPase 
+BQ2027_MB2543c,,conserved hypothetical protein, regulated by general enzymatic activity 
+BQ2027_MB2544c,,conserved hypothetical protein,DNA-binding protein
+BQ2027_MB2551c,,conserved hypothetical protein,N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)
+BQ2027_MB2554c,,conserved hypothetical protein. secretedb predicted to be a substrate of the twin arginine translocation tat export system.,putative secreted protein
+BQ2027_MB2561c,,hypothetical protein,Transcription termination factor
+BQ2027_MB2581c,,conserved hypothetical protein,probable type IV peptidase
+BQ2027_MB2584c,,conserved protein,Putative pre-16S rRNA nuclease YqgF
+BQ2027_MB2586c,,conserved hypothetical protein,UPF0047 protein Rv2556c
+BQ2027_MB2594,,conserved protein,Predicted esterase of the alpha-beta hydrolase superfamily
+BQ2027_MB2599c,,conserved hypothetical protein,"Protein containing transglutaminase-like domain, putative cysteine protease"
+BQ2027_MB2600,,conserved hypothetical protein,YjbR family protein
+BQ2027_MB2603,,conserved hypothetical protein,2-dehydropantoate 2-reductase (EC 1.1.1.169)
+BQ2027_MB2609c,,conserved hypothetical protein,Radical SAM domain protein
+BQ2027_MB2635c,,highly conserved protein,Probable transcriptional regulatory protein YebC
+BQ2027_MB2645c,,conserved protein,FIG049476: HIT family protein
+BQ2027_MB2651,,conserved hypothetical protein,Putative transcriptional regulatory protein
+BQ2027_MB2652c,,conserved protein,Protein containing double-stranded beta-helix domain
+BQ2027_MB2663,,hypothetical protein,Archease
+BQ2027_MB2664,,conserved hypothetical protein,"RNA-2',3'-PO4:RNA-5'-OH ligase"
+BQ2027_MB2666c,,hypothetical protein,Hemerythrin domain protein
+BQ2027_MB2669,,conserved hypothetical protein,Putative O-phosphotransferase (EC 2.7.1.-)
+BQ2027_MB2671,,conserved hypothetical protein,Anti-sigma B factor antagonist RsbV
+BQ2027_MB2689c,,conserved hypothetical protein,AFG1 family ATPase
+BQ2027_MB2694c,,conserved hypothetical protein,Methyltransferase (EC 2.1.1.-) colocalized with Q
+BQ2027_MB2695c,,conserved protein,Coproheme decarboxylase HemQ (no EC)
+BQ2027_MB2714,,conserved hypothetical alanine rich protein,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) 
+BQ2027_MB2723,,conserved protein,"RidA/YER057c/UK114 superfamily, group 6"
+BQ2027_MB2724c,,conserved hypothetical protein,Glutathione S-transferase domain protein
+BQ2027_MB2731c,,hypothetical protein,Heme binding protein 
+BQ2027_MB2735,,conserved protein,Phenazine biosynthesis protein PhzF like
+BQ2027_MB2736c,,conserved protein,DUF1794
+BQ2027_MB2752c,,conserved hypothetical alaninec arginine-rich protein,tRNA-i(6)A37 methylthiotransferase (EC 2.8.4.3)
+BQ2027_MB2753,,conserved hypothetical protein,Bacteriophage protein gp37 
+BQ2027_MB2770,,conserved protein,Antibiotic biosynthesis monooxygenase
+BQ2027_MB2772,,conserved protein,O-Methyltransferase involved in polyketide biosynthesis
+BQ2027_MB2773c,,conserved hypothetical protein,Ribonuclease J2 (endoribonuclease in RNA processing)
+BQ2027_MB2799c,,conserved hypothetical protein,FF domain protein
+BQ2027_MB2810,,conserved hypothetical alanine rich protein,ATPases involved in chromosome partitioning 
+BQ2027_MB2818c,,conserved hypothetical protein,"Metallophosphoesterase, SimX4 hydrolase"
+BQ2027_MB2820c,,conserved hypothetical protein, lipid metabolism 
+BQ2027_MB2840c,,conserved hypothetical protein,CRISPR-associated protein Cas2
+BQ2027_MB2841c,,conserved hypothetical protein,CRISPR-associated protein Cas1
+BQ2027_MB2843c,,hypothetical protein,"CRISPR-associated protein, Csm5 family"
+BQ2027_MB2844c,,hypothetical protein,"CRISPR-associated RAMP protein, Csm4 family"
+BQ2027_MB2845c,,conserved hypothetical protein,CRISPR-associated RAMP Csm3
+BQ2027_MB2846c,,hypothetical protein,"CRISPR-associated protein, Csm2 family"
+BQ2027_MB2862c,,conserved protein,Cyclic-di-AMP phosphodiesterase MSMEG_2630
+BQ2027_MB2865c,,conserved hypothetical protein,COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination
+BQ2027_MB2867c,,conserved protein,Bacterial ribosome SSU maturation protein RimP
+BQ2027_MB2879,,unknown protein,Lysophospholipase (EC 3.1.1.5)
+BQ2027_MB2915,,conserved hypothetical protein,Membrane proteins related to metalloendopeptidases 
+BQ2027_MB2921c,,conserved hypothetical protein,"AAA+ ATPase superfamily protein YifB/ComM, associated with DNA recombination"
+BQ2027_MB2922c,,conserved hypothetical protein,UPF0102 protein YraN
+BQ2027_MB2925c,,conserved protein,Protein often found in Actinomycetes clustered with signal peptidase and/or RNaseHII
+BQ2027_MB2932c,,conserved hypothetical protein,KH domain RNA binding protein YlqC
+BQ2027_MB2939c,,conserved protein,Xaa-Pro dipeptidase (EC 3.4.13.9)
+BQ2027_MB2948c,,conserved protein,"Predicted redox protein, regulator of disulfide bond formation"
+BQ2027_MB2951c,,conserved protein,"FIG01269488: protein, clustered with ribosomal protein L32p"
+BQ2027_MB2952c,,conserved hypothetical protein,FIG00814129: Possible chaperone
+BQ2027_MB2978c,,hypothetical protein,SAM-dependent methyltransferases 
+BQ2027_MB3007,,conserved hypothetical alanine rich protein,2-phospho-L-lactate guanylyltransferase (EC 2.7.7.68)
+BQ2027_MB3023c,,conserved hypothetical protein,Signal transduction histidine kinase
+BQ2027_MB3030c,,conserved hypothetical protein,"Membrane protein 2, distant similarity to thiosulphate:quinone oxidoreductase DoxD"
+BQ2027_MB3038,,conserved protein,Amino acid-binding ACT protein
+BQ2027_MB3040c,,conserved hypothetical protein,"Methionine synthase, vitamin-B12 independent, putative"
+BQ2027_MB3052c,,conserved hypothetical protein,Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
+BQ2027_MB3056,,conserved protein,SAM-dependent methyltransferase
+BQ2027_MB3057,,conserved protein,"Glycogen branching enzyme, GH-57-type, archaeal (EC 2.4.1.18)"
+BQ2027_MB3061,,conserved protein,FOG- WD40-like repeat 
+BQ2027_MB3064c,,conserved protein,"Methyltransferase Rv3038c, type 11"
+BQ2027_MB3066c,,conserved protein,NUDIX hydrolase-like protein SCO3573
+BQ2027_MB3080c,,conserved hypothetical protein,NADPH:quinone oxidoreductase
+BQ2027_MB3099c,,conserved hypothetical protein,Probable F420-dependent oxidoreductase family protein
+BQ2027_MB3100c,,conserved hypothetical protein,DUF488 family protein SAV0238
+BQ2027_MB3101,,conserved hypothetical protein,CONSERVED 13E12 REPEAT FAMILY PROTEIN
+BQ2027_MB3102c,,conserved protein,"Similar to citrate lyase beta chain, 3"
+BQ2027_MB3103,,conserved hypothetical protein,Cyclase/Dehydrase 
+BQ2027_MB3106c,,conserved protein,Probable F420-dependent oxidoreductase family protein
+BQ2027_MB3121c,,conserved hypothetical protein,Acyl-CoA dehydrogenase/oxidase domain protein
+BQ2027_MB3153,,conserved hypothetical protein,Putative DNA-binding protein
+BQ2027_MB3155,,conserved protein,Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2
+BQ2027_MB3204,,conserved hypothetical protein,Putative F420H(2)-dependent quinone reductase Rv3178 (Fqr) (EC 1.1.98.-)
+BQ2027_MB3205,,conserved protein,ATPase
+BQ2027_MB3206c,,hypothetical alanine rich protein,"Predicted nucleic acid-binding protein, contains PIN domain "
+BQ2027_MB3207c,,conserved protein,Antitoxin of toxin-antitoxin stability system 
+BQ2027_MB3208,,conserved hypothetical protein,Toxin HigB
+BQ2027_MB3214,,conserved hypothetical alanine and proline-rich protein,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"
+BQ2027_MB3217,,conserved hypothetical protein,secretion
+BQ2027_MB3218,,conserved hypothetical protein,secretion 
+BQ2027_MB3234c,TB9.4,conserved protein tb9.4,Putative ATP-binding protein
+BQ2027_MB3235,,conserved hypothetical threonine and proline rich protein,Proline rich protein similar to MmpS3
+BQ2027_MB3244,,conserved protein,Transcription regulator [contains diacylglycerol kinase catalytic domain]
+BQ2027_MB3255c,,conserved hypothetical protein,Phage protein
+BQ2027_MB3257,,conserved hypothetical protein,Ribosome small subunit biogenesis RbfA-release protein RsgA
+BQ2027_MB3260c,,conserved protein,link to acyltransferase activity 
+BQ2027_MB3263,,hypothetical alanine arginine proline rich protein,link to acyltransferase activity 
+BQ2027_MB3265c,,conserved protein,"Potassium channel TrkA, possible KefG analog required for KefB activity"
+BQ2027_MB3269c,,conserved protein,Ribosome hibernation promoting factor Hpf
+BQ2027_MB3270c,,conserved hypothetical protein,"Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy"
+BQ2027_MB3282,,conserved hypothetical protein,Monooxygenase
+BQ2027_MB3284c,,conserved protein,Sugar binding protein 
+BQ2027_MB3286c,,conserved hypothetical protein,sugar metabolism 
+BQ2027_MB3295,,conserved protein cpsa-related protein,"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1"
+BQ2027_MB3296,,conserved hypothetical protein,regulated by transcription
+BQ2027_MB3312,,conserved hypothetical protein,Sulfur acceptor protein => iron-sulfur cluster assembly SufE
+BQ2027_MB3322c,,conserved hypothetical protein,Predicted ATPase (AAA+ superfamily) 
+BQ2027_MB3332,,conserved protein,AIG2-like domain protein
+BQ2027_MB3340c,,conserved hypothetical protein,"Hydrolase, alpha/beta fold family"
+BQ2027_MB3386c,,conserved hypothetical protein,Putative oxidoreductase
+BQ2027_MB3388c,,conserved hypothetical protein,Putative oxidoreductase
+BQ2027_MB3395,,conserved hypothetical protein,"ABC transporter, ATP-binding protein"
+BQ2027_MB3396c,,conserved protein,"Pentapeptide repeat family protein, MfpA => Quinolone resistance protein MfpA(Mt)"
+BQ2027_MB3398c,,conserved hypothetical protein,"DUF742 protein, component of G-protein-coupled receptor (GPCR) system"
+BQ2027_MB3399c,,conserved protein,"Roadblock/LC7 protein, putative GTPase-activating (GAP) component of G-protein-coupled receptor (GPCR) system"
+BQ2027_MB3400c,,conserved protein,"Putative sensor and ATPase, component of G-protein-coupled receptor (GPCR) system"
+BQ2027_MB3404,,conserved protein,FMN binding protein 
+BQ2027_MB3410,,conserved hypothetical protein,"Hydrolase, haloacid dehalogenase-like family"
+BQ2027_MB3426c,,conserved hypothetical protein,DNA polymerase IV-like protein ImuB
+BQ2027_MB3438c,,conserved hypothetical protein,formyltransferase
+BQ2027_MB3455c,,conserved hypothetical protein,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+BQ2027_MB3456c,,conserved hypothetical protein,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+BQ2027_MB3469c,,conserved hypothetical alanine and proline rich protein,Conserved alanine and proline rich protein
+BQ2027_MB3476c,,hypothetical alanine and valine rich protein,"Membrane protein Rv3446c, component of Type VII secretion system ESX-4"
+BQ2027_MB3492,,conserved protein,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases"
+BQ2027_MB3514,cpsA,possible conserved protein cpsa,"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1"
+BQ2027_MB3516,,conserved protein,DoxX family protein
+BQ2027_MB3522c,,conserved hypothetical mce associated protein,FIG00820195: MCE associated membrane protein
+BQ2027_MB3523c,,conserved hypothetical mce associated alanine and valine rich protein,FIG00821219: MCE associated membrane protein
+BQ2027_MB3540c,,conserved protein,Amidohydrolase family protein
+BQ2027_MB3549,,unknown protein,Carboxy-Lyase 
+BQ2027_MB3559c,,conserved hypothetical protein,Sulfotransferase 
+BQ2027_MB3561c,,hypothetical protein,link to sulfotransferase activity 
+BQ2027_MB3571c,,conserved protein,Enoyl coenzyme A hydratase IgrE
+BQ2027_MB3572c,,conserved hypothetical protein,Acyl-CoA transferase domain of IgrD / Nucleic-acid-binding domain of IgrD
+BQ2027_MB3608,,conserved hypothetical protein,Zn-dependent hydrolases of the beta-lactamase fold
+BQ2027_MB3625,,conserved hypothetical protein,Phage endolysin
+BQ2027_MB3630c,,conserved protein,"Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)"
+BQ2027_MB3633c,,conserved hypothetical alanine and leucine rich protein,Ketopantoate reductase PanG (EC 1.1.1.169)
+BQ2027_MB3650c,,conserved hypothetical protein, proteolysis/nucleotide biosynthesis   
+BQ2027_MB3657,,conserved protein,Protein involved in biosynthesis of mitomycin antibiotics/polyketide fumonisin
+BQ2027_MB3675,,conserved hypothetical protein,Triple sensor-domain protein
+BQ2027_MB3678c,,conserved hypothetical protein,Apoptosis inhibitor Rv3654c
+BQ2027_MB3680c,,conserved hypothetical protein,secretion 
+BQ2027_MB3683c,,conserved hypothetical protein,"Flp pilus assembly protein, ATPase CpaF"
+BQ2027_MB3696c,,conserved hypothetical protein,NTP pyrophosphohydrolases including oxidative damage repair enzymes 
+BQ2027_MB3702c,,conserved protein,"RidA/YER057c/UK114 superfamily, group 1"
+BQ2027_MB3703c,,conserved hypothetical protein, translation initiation 
+BQ2027_MB3708,,conserved protein,Predicted phosphohydrolases
+BQ2027_MB3713c,,conserved protein,GatB/Yqey domain-containing protein
+BQ2027_MB3716,,conserved protein,putative secreted protein
+BQ2027_MB3725,,conserved protein,SAM-dependent methyltransferase
+BQ2027_MB3726c,,conserved hypothetical protein,Pyridoxal-phosphate-dependent protein EgtE (ergothioneine synthase)
+BQ2027_MB3727c,,conserved hypothetical protein,L-histidine N(alpha)-methyltransferase (EC 2.1.1.44)
+BQ2027_MB3728c,,conserved hypothetical protein,Amidohydrolase EgtC (hercynylcysteine sulfoxide synthase)
+BQ2027_MB3729c,,conserved hypothetical protein,Iron(II)-dependent oxidoreductase EgtB (hercynine sythase)
+BQ2027_MB3743c,,conserved protein,Nucleoid-associated protein YaaK
+BQ2027_MB3744,,conserved hypothetical protein,N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
+BQ2027_MB3749c,,conserved protein,Aspartate transaminase (EC 2.6.1.1)
+BQ2027_MB3757c,,conserved hypothetical protein,ATP-dependent DNA ligase (EC 6.5.1.1)
+BQ2027_MB3760c,,conserved hypothetical protein,MutT/Nudix family protein
+BQ2027_MB3773,,conserved protein, link to PE family 
+BQ2027_MB3775c,,conserved hypothetical protein,Putative ribonuclease VapC50 (RNase VapC50) (EC 3.1.-.-) (Toxin VapC50)
+BQ2027_MB3809,,conserved protein,Bacterial proteasome activator
+BQ2027_MB3814,,hypothetical protein,Nucleoside-diphosphate-sugar epimerases
+BQ2027_MB3815c,,unknown protein,Membrane proteins related to metalloendopeptidases
+BQ2027_MB3816c,,conserved hypothetical protein,O-methyltransferase
+BQ2027_MB3817,,hypothetical protein,Nucleoside diphosphate kinase regulator
+BQ2027_MB3848,,unknown protein,Rieske (2Fe-2S) domain protein
+BQ2027_MB3862c,,conserved protein,SAM-dependent methyltransferases 
+BQ2027_MB3886c,,conserved hypothetical protein,DNA-dependent DNA polymerase beta chain
+BQ2027_MB3932c,,hypothetical protein,Immunity factor for TNT (IFT) (Tuberculosis necrotizing toxin antitoxin) (TNT antitoxin)
+BQ2027_MB3933c,,hypothetical alanine and proline rich protein,Outer membrane channel protein CpnT (Channel protein with necrosis-inducing toxin) [Cleaved into: N-terminal channel domain; Tuberculosis necrotizing toxin (TNT) (NAD(+) glycohydrolase) (EC 3.2.2.5)]
+BQ2027_MB3943,,hypothetical alanine rich protein,Anti-sigma-M factor RsmA (Regulator of SigM) (Sigma-M anti-sigma factor RsmA)
+BQ2027_MB3947c,,conserved hypothetical protein,FIG007808: N-acetyltransferase
+BQ2027_MB0931,,conserved protein,Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily / DUF3471 domain
+BQ2027_MB1872c,,conserved hypothetical membrane protein,Magnesium and cobalt efflux protein CorC
+BQ2027_MB1873c,,conserved hypothetical membrane protein,UPF0053 protein Rv1842c/MT1890
+BQ2027_MB3934c,esxE,putative esat-6 like protein esxe hypothetical alanine rich protein esat-6 like protein 12,ESAT-6-like protein EsxE
+BQ2027_MB3935c,esxF,putative esat-6 like protein esxf hypothetical alanine and glycine rich protein esat-6 like protein 13,ESAT-6-like protein EsxF
+BQ2027_MB0333,,hypothetical protein,Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)
+BQ2027_MB2285c,,conserved hypothetical protein,Apolipoprotein N-acyltransferase
+BQ2027_MB2999c,,conserved hypothetical protein,"Dihydroxyacetone kinase-like protein, phosphatase domain / Dihydroxyacetone kinase-like protein, kinase domain"
+BQ2027_MB0198,,conserved secreted protein,"L,D-transpeptidase"
+BQ2027_MB2315c,,hypothetical protein,5'-methylthioadenosine nucleosidase (EC 3.2.2.16) @ S-adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+BQ2027_MB3370,,conserved hypothetical protein,Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) 
+BQ2027_MB1542c,,conserved hypothetical protein,"dTDP-4-amino-4,6-dideoxygalactose transaminase (EC 2.6.1.59)"
+BQ2027_MB1794c,,conserved hypothetical protein,HNH endonuclease domain protein
+BQ2027_MB1901c,,conserved hypothetical protein,Protein involved in DNA repair 
+BQ2027_MB2430,,conserved hypothetical protein,MBL-fold metallo-hydrolase superfamily
+BQ2027_MB2437c,,conserved hypothetical protein,DNA internalization-related competence protein ComEC/Rec2
+BQ2027_MB2847c,,conserved protein,"CRISPR-associated protein, Csm1 family"
+BQ2027_MB2049c,,conserved hypothetical protein,Putative helicase
+BQ2027_MB0004,,conserved hypothetical protein,"Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives"
+BQ2027_MB0021c,,conserved hypothetical protein,"putative oxidoreductase, nitronate monooxygenase family"
+BQ2027_MB0030,,conserved hypothetical protein,Vegetative cell wall protein gp1 precursor
+BQ2027_MB0083,,conserved hypothetical protein,Putative DNA-binding protein
+BQ2027_MB0107,,conserved hypothetical protein,cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases 
+BQ2027_MB0265c,,conserved hypothetical protein,Sirohydrochlorin ferrochelatase SirB (EC 4.99.1.4)
+BQ2027_MB0307,,hypothetical protein,Programmed cell death toxin YdcE
+BQ2027_MB0320,,conserved hypothetical proline and threonine rich protein,FIG00821990: molecular chaperone
+BQ2027_MB0331c,,conserved hypothetical protein,Mycothiol conjugate amidase Mca (Mycothiol S-conjugate amidase)
+BQ2027_MB0336c,,conserved hypothetical protein,SAM-dependent methyltransferase
+BQ2027_MB0375c,,conserved hypothetical protein,Carbon monoxide oxidation accessory protein CoxE
+BQ2027_MB0379c,,conserved hypothetical protein,Aerobic carbon monoxide dehydrogenase molybdenum cofactor insertion protein CoxF
+BQ2027_MB0589c,,conserved hypothetical protein,Capsule biosynthesis protein CapA
+BQ2027_MB0666c,,conserved protein,Predicted unusual protein kinase 
+BQ2027_MB0845c,,conserved protein,"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1"
+BQ2027_MB0885c,,conserved protein,Putative DNA-binding protein
+BQ2027_MB0933,,conserved hypothetical protein,Antitoxin Rv0909
+BQ2027_MB0942,,conserved protein, link to N-acetyltransferase activity
+BQ2027_MB1017c,,hypothetical protein,Heat shock protein 22.5 (Hsp22.5)
+BQ2027_MB1019c,,conserved hypothetical protein,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+BQ2027_MB1072c,,conserved hypothetical protein,"Trypsin-like serine proteases, typically periplasmic, contain C-terminal PDZ domain "
+BQ2027_MB1151c,,conserved hypothetical protein,Adenylate cyclase (EC 4.6.1.1)
+BQ2027_MB1159c,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB1218c,,conserved protein,Regulator of polyketide synthase expression
+BQ2027_MB1247c,,conserved protein,Cocaine esterase (EC 3.1.1.-)
+BQ2027_MB1264c,,conserved protein,"Mg/Co/Ni transporter MgtE, CBS domain-containing"
+BQ2027_MB1307c,,conserved hypothetical protein,Phosphohistidine phosphatase SixA
+BQ2027_MB1333,,conserved protein,Threonylcarbamoyl-AMP synthase (EC 2.7.7.87)
+BQ2027_MB1355,,conserved hypothetical protein,Endonuclease NucS
+BQ2027_MB1402c,,conserved protein,Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily
+BQ2027_MB1410,,conserved hypothetical protein,YcaO-like protein
+BQ2027_MB1413c,,conserved hypothetical protein,CONSERVED 13E12 REPEAT FAMILY PROTEIN
+BQ2027_MB1457,,conserved hypothetical protein,"FIG002813: LPPG:FO 2-phospho-L-lactate transferase like, CofD-like"
+BQ2027_MB1497,,conserved hypothetical protein,Iron-sulfur cluster assembly protein SufD
+BQ2027_MB1545,,conserved hypothetical protein,Glycosyltransferase PglI (EC 2.4.1.-)
+BQ2027_MB1618c,,conserved hypothetical protein,Lipase 1 (EC 3.1.1.3)
+BQ2027_MB1623,,hypothetical protein,SAM-dependent methyltransferase
+BQ2027_MB1707,,hypothetical protein,"ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)"
+BQ2027_MB1744,,conserved hypothetical protein,"Kynurenine formamidase, bacterial (EC 3.5.1.9)"
+BQ2027_MB1763c,,conserved hypothetical protein,"Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide acyltransferase (E2) component, and related enzymes "
+BQ2027_MB1867c,,conserved protein,Von Willebrand factor (vWF) type A domain-containing protein 
+BQ2027_MB1878,,conserved protein,Putative esterase
+BQ2027_MB1904,,conserved hypothetical protein,NTP pyrophosphohydrolases including oxidative damage repair enzymes
+BQ2027_MB1939,,conserved hypothetical protein,Anti-sigma B factor antagonist RsbV
+BQ2027_MB1980,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB2000,,conserved protein,SAM-dependent methyltransferases 
+BQ2027_MB2021c,,conserved protein,PEP phosphonomutase and related enzymes
+BQ2027_MB2024,,conserved hypothetical protein,Acyl-ACP thioesterase 
+BQ2027_MB2038c,,conserved hypothetical protein,HNH endonuclease domain protein
+BQ2027_MB2041,,conserved protein,Putative antitoxin VapB45
+BQ2027_MB2058,acg,conserved protein acg,Dinucleotide-utilizing enzymes involved in molybdopterin and thiamine biosynthesis family 2
+BQ2027_MB2108,,conserved hypothetical protein,Vegetative cell wall protein gp1 precursor
+BQ2027_MB2214,,conserved hypothetical protein,DNA polymerase III epsilon subunit-related protein MSMEG4261
+BQ2027_MB2250,,conserved protein,CHAD domain containing protein
+BQ2027_MB2254c,,conserved protein,"Zn-ribbon protein, possibly nucleic acid-binding"
+BQ2027_MB2327,,unknown protein,NRPS condensation (elongation) domain containing protein
+BQ2027_MB2330c,,conserved hypothetical protein,"Hydrolase, alpha/beta fold family"
+BQ2027_MB2350c,,conserved protein,"NG,NG-dimethylarginine dimethylaminohydrolase 1 (EC 3.5.3.18)"
+BQ2027_MB2411c,,conserved hypothetical protein,FIG00821219: MCE associated membrane protein
+BQ2027_MB2438c,,conserved hypothetical protein,"Late competence protein ComEA, DNA receptor"
+BQ2027_MB2450c,,conserved hypothetical protein,Carbon monoxide oxidation accessory protein CoxD
+BQ2027_MB2496c,,conserved hypothetical protein,HNH endonuclease family protein
+BQ2027_MB2520,,hypothetical protein,Thymidylate synthase 
+BQ2027_MB2558,,hypothetical protein,ERCC4-type nuclease
+BQ2027_MB2571,,conserved hypothetical protein,Putative transmembrane protein
+BQ2027_MB2589c,,conserved hypothetical alanine leucine valine rich protein,Replication-associated recombination protein RarA
+BQ2027_MB2597,,conserved hypothetical alanine and leucine rich protein,"Protein containing domains DUF404, DUF407, DUF403"
+BQ2027_MB2700,,conserved hypothetical alanine rich protein,Ribonuclease D (EC 3.1.26.3)
+BQ2027_MB2702,,conserved protein,FOG- CBS domain 
+BQ2027_MB2713c,,conserved protein,OB-fold nucleic acid binding protein
+BQ2027_MB2793c,,conserved hypothetical protein,Multimeric flavodoxin WrbA
+BQ2027_MB2828,,conserved hypothetical protein,Mobile element protein
+BQ2027_MB2830,,conserved hypothetical protein,Mobile element protein
+BQ2027_MB2837,,conserved hypothetical protein,"Type II secretory pathway, component ExeA"
+BQ2027_MB2848c,,hypothetical protein,CRISPR-associated endoribonuclease Cas6
+BQ2027_MB2920c,,conserved hypothetical protein,Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake
+BQ2027_MB2941,,conserved hypothetical alanine and arginine rich protein,DNA or RNA helicase of superfamily protein II
+BQ2027_MB2979c,,conserved protein,"methyltransferase, FkbM family domain protein"
+BQ2027_MB2980,,conserved protein,SAM-dependent methyltransferases 
+BQ2027_MB3015,,conserved protein,Pyridoxamine 5-phosphate oxidase 
+BQ2027_MB3063c,,conserved hypothetical protein,SAM-dependent methyltransferase
+BQ2027_MB3123,,conserved hypothetical protein,putative cellulase family
+BQ2027_MB3141,,conserved hypothetical protein,Cytosine/adenosine deaminases
+BQ2027_MB3150,,conserved protein,Nitroreductase
+BQ2027_MB3232c,,conserved protein,Metallopeptidase 
+BQ2027_MB3300,,conserved hypothetical protein,L-carnitine dehydratase/bile acid-inducible protein F
+BQ2027_MB3310,,conserved hypothetical protein,Septum formation protein Maf
+BQ2027_MB3328c,,conserved hypothetical protein,"Pseudouridine synthase (EC 4.2.1.70), PA2043 type"
+BQ2027_MB3389,,conserved hypothetical protein,Possible lipoprotein LprJ
+BQ2027_MB3427c,,conserved hypothetical protein,damage tolerance
+BQ2027_MB3463c,,conserved protein,NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)
+BQ2027_MB3496,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB3500c,,conserved hypothetical protein,Mannose-6-phosphate isomerase
+BQ2027_MB3518,,conserved hypothetical protein,"Transcriptional regulator, PadR family"
+BQ2027_MB3551,,conserved hypothetical protein,Predicted nucleic-acid-binding protein containing a Zn-ribbon 
+BQ2027_MB3617,,conserved hypothetical protein,DNA integrity scanning protein DisA
+BQ2027_MB3651c,,conserved protein,D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
+BQ2027_MB3684c,,conserved hypothetical protein,Septum site-determining protein MinD @ possible CpaE
+BQ2027_MB3685,,conserved hypothetical protein,Phosphoserine phosphatase (EC 3.1.3.3)
+BQ2027_MB3686c,,conserved hypothetical protein,Putative oxidoreductase
+BQ2027_MB3724,,conserved protein,Glutamate-Cysteine ligase
+BQ2027_MB3746,,conserved protein,FAD/FMN-containing dehydrogenase Mvan_5531
+BQ2027_MB3825,,conserved protein,Metal-dependent hydrolases of the beta-lactamase superfamily III
+BQ2027_MB3843c,,conserved protein,Cof family hydrolase
+BQ2027_MB3852,,conserved hypothetical protein,"FIG01386146: Possible exported protein, Rv1184c"
+BQ2027_MB3890,,conserved protein,"Antiactivator of flagellar biosynthesis FleN, an ATPase"
+BQ2027_MB3939,,conserved protein,FIG01967133: Putative secreted protein
+BQ2027_MB3951c,,conserved protein similar to jag protein,RNA-binding protein Jag
+BQ2027_MB0097c,,conserved hypothetical protein,13E12 repeat family protein
+BQ2027_MB1319,,conserved protein,Putative esterase
+BQ2027_MB1536c,,conserved protein,"Dodecin, a flavin storage/sequestration protein"
+BQ2027_MB2842c,,hypothetical protein,CRISPR-associated protein Csm6
+BQ2027_MB3679c,,conserved hypothetical protein,Apoptosis inhibitor Rv3655c
+BQ2027_MB3926c,,conserved hypothetical protein,putative secreted protein
+BQ2027_MB1897,,conserved protein,CaiB/BaiF family protein
+BQ2027_MB2398c,mbtH,putative conserved protein mbth,MbtH-like NRPS chaperone => MbtH
+BQ2027_MB0020c,fhaa,conserved protein with fha domainc fhaa,FIG00824290: FHA domain protein
