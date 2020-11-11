@@ -11,7 +11,7 @@ February 2020
 ## Updates to M.bovis genome (Aug 2019):
 
 * added 611 product annotations
-* added 689 gene names
+* added 69 gene names
 * added 5 manually edited entries from pdb hits
 * removed locus_tags for repeat_region features
 * added prefix to tRNA and mobile_element features for consistency
