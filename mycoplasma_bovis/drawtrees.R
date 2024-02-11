@@ -60,26 +60,35 @@ get_color_mapping <- function(data, col, cmap){
     return (colors)
 }
 
-ggplottree <- function(tree, meta, cols=NULL, cmaps=NULL, layout="rectangular",
-                       offset=10, tiplabel=FALSE, tipsize=3) {
+ggplottree <- function(tree, meta, cols=NULL, colors=NULL, cmaps=NULL, layout="rectangular",
+                       offset=10, tiplabel=FALSE, tipsize=3, tiplabelsize=5, align=FALSE) {
     
     y <- gettreedata(tree, meta)
-    p <- ggtree(y, layout=layout)   
-    if (is.null(cols)){
+    p <- ggtree(y, layout=layout)
+
+    if (is.null(cols)) { 
+        if (tiplabel){
+            p <- p + geom_tiplab(size=tiplabelsize) 
+        }
         return (p)
     }
-    
-    col <- cols[1]
-    cmap <- cmaps[1] 
-    df<-meta[tree$tip.label,][col]
-    colors <- get_color_mapping(df, col, cmap)
-        
-    #tip formatting    
-    p1 <- p + new_scale_fill() +    
-          geom_tippoint(mapping=aes(fill=.data[[col]]),size=tipsize,shape=21,stroke=0) +
-          scale_fill_manual(values=colors, na.value="white")
-        
-    p2 <- p1
+    col <- cols[1] 
+    if (!is.null(colors)) {
+        #use predefined colors
+        clrs <- colors
+    }
+    else {
+        #calculate colors from cmap        
+        cmap <- cmaps[1]
+        df <- meta[tree$tip.label,][col]
+        clrs <- get_color_mapping(df, col, cmap)
+    } 
+    #print (clrs)
+    p <- p + new_scale_fill() + 
+            geom_tippoint(mapping=aes(fill=.data[[col]]),size=tipsize,shape=21,stroke=0) +
+            scale_fill_manual(values=clrs, na.value="black")
+              
+    p2 <- p
     if (length(cols)>1){
         for (i in 2:length(cols)){
             col <- cols[i]
@@ -89,7 +98,7 @@ ggplottree <- function(tree, meta, cols=NULL, cmaps=NULL, layout="rectangular",
             p2 <- p2 + new_scale_fill()
             p2 <- gheatmap(p2, df, offset=i*offset, width=.08,
                       colnames_angle=0, colnames_offset_y = .05)            
-            if (type == 'numeric'){               
+            if (type == 'numeric'){
                 p2 <- p2 + scale_color_brewer(type="div", palette=cmap)
             }
             else {
@@ -103,7 +112,7 @@ ggplottree <- function(tree, meta, cols=NULL, cmaps=NULL, layout="rectangular",
                         legend.position="left", plot.title = element_text(size=40))     
             guides(color = guide_legend(override.aes = list(size=10))) 
     if (tiplabel){
-        p2 <- p2 + geom_tiplab() 
+        p2 <- p2 + geom_tiplab(size=tiplabelsize, align=align) 
         }     
     return(p2)
 }
