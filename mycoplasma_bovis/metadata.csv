@@ -1,33 +1,33 @@
-"sample","old_name","strain","sample_title","organism","isolate","host","isolation_source","collection_date","year","county","province","host_tissue_sampled","country","status"
-221,,"IRE1",221,"Mycoplasmopsis bovis",1,"Bos Taurus","Post mortem, yearling","Mar-21","2021","Wexford ","Leinster","lung","Ireland",
-223,,"IRE2",223,"Mycoplasmopsis bovis",2,"Bos Taurus","Post mortem, 8.5 month old bovine","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",
-224,,"IRE3",224,"Mycoplasmopsis bovis",3,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",
-227,,"IRE4",227,"Mycoplasmopsis bovis",4,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland",
-228,,"IRE5",228,"Mycoplasmopsis bovis",5,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland",
-234,,"IRE6",234,"Mycoplasmopsis bovis",6,"Bos Taurus",,,,,,"lung","Ireland",
-240,,"IRE7",240,"Mycoplasmopsis bovis",7,"Bos Taurus","Post mortem, 11 month old bovine","Feb-21","2021","Laois","Leinster","lung","Ireland",
-241,,"IRE8",241,"Mycoplasmopsis bovis",8,"Bos Taurus","Post mortem, 6 year old adult dairy cow","Mar-21","2021","Wexford ","Leinster","lung","Ireland",
-"222A",,"IRE9","222A","Mycoplasmopsis bovis",9,"Bos Taurus",,,,"Wexford ","Leinster","lung","Ireland",
-"224B",,"IRE10","224B","Mycoplasmopsis bovis",10,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland","removed"
-"224B21",,"IRE11","224B21","Mycoplasmopsis bovis",11,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",
-"226-B21",,"IRE12","226-B21","Mycoplasmopsis bovis",12,"Bos Taurus","Post mortem, 6 month old calf","Dec-20","2020","Carlow ","Leinster","lung","Ireland",
-"227A",,"IRE13","227A","Mycoplasmopsis bovis",13,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland","removed"
-"228B",,"IRE14","228B","Mycoplasmopsis bovis",14,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland","removed"
-"229-B21",,"IRE15","229-B21","Mycoplasmopsis bovis",15,"Bos Taurus","Post mortem, 7 month old bovine","Feb-21","2021","Carlow ","Leinster","lung","Ireland",
-"230-B21",,"IRE16","230-B21","Mycoplasmopsis bovis",16,"Bos Taurus","Post mortem yearling dairy cross male","Feb-21","2021","Carlow ","Leinster","lung","Ireland",
-"241-B21",,"IRE17","241-B21","Mycoplasmopsis bovis",17,"Bos Taurus",,,,"Wexford ","Leinster","lung","Ireland","removed"
-"243-B21",,"IRE18","243-B21","Mycoplasmopsis bovis",18,"Bos Taurus","Post mortem, 2 week old calf","Apr-21","2021","Laois","Leinster","lung","Ireland",
-245,"C06786950603283112","IRE19",245,"Mycoplasmopsis bovis",20,"Bos Taurus","Post mortem 4 month old bovine","Apr-21","2021","Kilkenny","Leinster","lung","Ireland",
-"SCOT1","C06249650555397515","SCOT1","SCOT1","Mycoplasmopsis bovis",19,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",
-"SCOT2","C470417105615531132H","SCOT2","SCOT2","Mycoplasmopsis bovis",21,"Bos Taurus","Post mortem",,,"Scotland",,"hock swab","Scotland",
-"SCOT3","C47041710561553RS113","SCOT3","SCOT3","Mycoplasmopsis bovis",22,"Bos Taurus","Post mortem",,,"Scotland",,"shoulder swab","Scotland",
-"SCOT4","C54507697669399","SCOT4","SCOT4","Mycoplasmopsis bovis",23,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",
-"SCOT5","C54509097669470","SCOT5","SCOT5","Mycoplasmopsis bovis",24,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",
-"GB000944",,"IRE20","GB000944","Mycoplasmopsis bovis",25,"Bos Taurus","Post mortem swab calf","Mar-18","2018","Cork","Munster","lung","Ireland",
-"GB12004603",,"IRE21","GB12004603","Mycoplasmopsis bovis",26,"Bos Taurus","Post mortem swab weanling","Nov-17",2017,"Kildare","Leinster","lung","Ireland","removed"
-"GB17005644",,"IRE22","GB17005644","Mycoplasmopsis bovis",27,"Bos Taurus",,2017,2017,,,"lung","Ireland",
-"GB18000923",,"IRE23","GB18000923","Mycoplasmopsis bovis",28,"Bos Taurus","Swab adult cow*","Aug-2018","2018","Tipperary","Munster","lung","Ireland",
-"GB18001319",,"IRE24","GB18001319","Mycoplasmopsis bovis",29,"Bos Taurus","Live calves pooled swab","Mar-2018","2018","Kerry","Munster","lung","Ireland",
-"GB19002089",,"IRE25","GB19002089","Mycoplasmopsis bovis",30,"Bos Taurus","Post mortem yearling lung","06-2019",2019,"Cork","Munster","lung","Ireland","removed"
-"GB19005281",,"IRE26","GB19005281","Mycoplasmopsis bovis",31,"Bos Taurus","Post mortem yearling lung","12-2019",2019,"Cork","Munster","lung","Ireland","removed"
-"GB2100571",,"IRE27","GB2100571","Mycoplasmopsis bovis",32,"Bos Taurus","Post mortem cow swab","02-2021","2021","Wexford ","Leinster","lung","Ireland","removed"
+"sample","old_name","strain","sample_title","organism","isolate","host","isolation_source","collection_date","year","county","province","host_tissue_sampled","country","status","clade"
+221,,"IRE1",221,"Mycoplasmopsis bovis",1,"Bos Taurus","Post mortem, yearling","Mar-21","2021","Wexford ","Leinster","lung","Ireland",,1
+223,,"IRE2",223,"Mycoplasmopsis bovis",2,"Bos Taurus","Post mortem, 8.5 month old bovine","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",,1
+224,,"IRE3",224,"Mycoplasmopsis bovis",3,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",,1
+227,,"IRE4",227,"Mycoplasmopsis bovis",4,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland",,2
+228,,"IRE5",228,"Mycoplasmopsis bovis",5,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland",,1
+234,,"IRE6",234,"Mycoplasmopsis bovis",6,"Bos Taurus",,,,,,"lung","Ireland",,1
+240,,"IRE7",240,"Mycoplasmopsis bovis",7,"Bos Taurus","Post mortem, 11 month old bovine","Feb-21","2021","Laois","Leinster","lung","Ireland",,1
+241,,"IRE8",241,"Mycoplasmopsis bovis",8,"Bos Taurus","Post mortem, 6 year old adult dairy cow","Mar-21","2021","Wexford ","Leinster","lung","Ireland",,2
+"222A",,"IRE9","222A","Mycoplasmopsis bovis",9,"Bos Taurus",,,,"Wexford ","Leinster","lung","Ireland",,1
+"224B",,"IRE10","224B","Mycoplasmopsis bovis",10,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland","removed",1
+"224B21",,"IRE11","224B21","Mycoplasmopsis bovis",11,"Bos Taurus","Post mortem, 8 month old dairy heifer","Nov-20","2020","Kilkenny","Leinster","lung","Ireland",,1
+"226-B21",,"IRE12","226-B21","Mycoplasmopsis bovis",12,"Bos Taurus","Post mortem, 6 month old calf","Dec-20","2020","Carlow ","Leinster","lung","Ireland",,1
+"227A",,"IRE13","227A","Mycoplasmopsis bovis",13,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland","removed",1
+"228B",,"IRE14","228B","Mycoplasmopsis bovis",14,"Bos Taurus","Post mortem, 9 month old bovine","Feb-21","2021","Wicklow","Leinster","lung","Ireland","removed",1
+"229-B21",,"IRE15","229-B21","Mycoplasmopsis bovis",15,"Bos Taurus","Post mortem, 7 month old bovine","Feb-21","2021","Carlow ","Leinster","lung","Ireland",,1
+"230-B21",,"IRE16","230-B21","Mycoplasmopsis bovis",16,"Bos Taurus","Post mortem yearling dairy cross male","Feb-21","2021","Carlow ","Leinster","lung","Ireland",,1
+"241-B21",,"IRE17","241-B21","Mycoplasmopsis bovis",17,"Bos Taurus",,,,"Wexford ","Leinster","lung","Ireland","removed",1
+"243-B21",,"IRE18","243-B21","Mycoplasmopsis bovis",18,"Bos Taurus","Post mortem, 2 week old calf","Apr-21","2021","Laois","Leinster","lung","Ireland",,2
+245,"C06786950603283112","IRE19",245,"Mycoplasmopsis bovis",20,"Bos Taurus","Post mortem 4 month old bovine","Apr-21","2021","Kilkenny","Leinster","lung","Ireland",,2
+"SCOT1","C06249650555397515","SCOT1","SCOT1","Mycoplasmopsis bovis",19,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",,1
+"SCOT2","C470417105615531132H","SCOT2","SCOT2","Mycoplasmopsis bovis",21,"Bos Taurus","Post mortem",,,"Scotland",,"hock swab","Scotland",,1
+"SCOT3","C47041710561553RS113","SCOT3","SCOT3","Mycoplasmopsis bovis",22,"Bos Taurus","Post mortem",,,"Scotland",,"shoulder swab","Scotland",,1
+"SCOT4","C54507697669399","SCOT4","SCOT4","Mycoplasmopsis bovis",23,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",,1
+"SCOT5","C54509097669470","SCOT5","SCOT5","Mycoplasmopsis bovis",24,"Bos Taurus","Post mortem",,,"Scotland",,"lung","Scotland",,1
+"GB000944",,"IRE20","GB000944","Mycoplasmopsis bovis",25,"Bos Taurus","Post mortem swab calf","Mar-18","2018","Cork","Munster","lung","Ireland",,1
+"GB12004603",,"IRE21","GB12004603","Mycoplasmopsis bovis",26,"Bos Taurus","Post mortem swab weanling","Nov-17",2017,"Kildare","Leinster","lung","Ireland","removed",1
+"GB17005644",,"IRE22","GB17005644","Mycoplasmopsis bovis",27,"Bos Taurus",,2017,2017,,,"lung","Ireland",,1
+"GB18000923",,"IRE23","GB18000923","Mycoplasmopsis bovis",28,"Bos Taurus","Swab adult cow*","Aug-2018","2018","Tipperary","Munster","lung","Ireland",,1
+"GB18001319",,"IRE24","GB18001319","Mycoplasmopsis bovis",29,"Bos Taurus","Live calves pooled swab","Mar-2018","2018","Kerry","Munster","lung","Ireland",,2
+"GB19002089",,"IRE25","GB19002089","Mycoplasmopsis bovis",30,"Bos Taurus","Post mortem yearling lung","06-2019",2019,"Cork","Munster","lung","Ireland","removed",1
+"GB19005281",,"IRE26","GB19005281","Mycoplasmopsis bovis",31,"Bos Taurus","Post mortem yearling lung","12-2019",2019,"Cork","Munster","lung","Ireland","removed",1
+"GB2100571",,"IRE27","GB2100571","Mycoplasmopsis bovis",32,"Bos Taurus","Post mortem cow swab","02-2021","2021","Wexford ","Leinster","lung","Ireland","removed",1
