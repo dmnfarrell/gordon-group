@@ -1,9 +1,9 @@
 # gordon-group
-scripts and data for gordon group papers
+Scripts and data for Gordon group papers
 
 Tuberculosis Molecular Microbiology group,  
 School of Veterinary Medicine,   
 University College Dublin,  
 Dublin 4.  
 
-<img src="http://clarabogdata.ucd.ie/img/UCDlogo.png" height=200px>
+<img src="UCD_logo.png" height=200px>
